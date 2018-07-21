@@ -14,7 +14,7 @@ gem 'jekyll-autoprefixer', '~> 1.0', '>= 1.0.1'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'sprockets', '3.6.3'
+  gem 'sprockets', '3.7.2'
   gem 'jekyll-assets', '~> 2.2.0'
   gem "jekyll-feed", "~> 0.6"
 end
