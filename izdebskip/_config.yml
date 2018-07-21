@@ -1,0 +1,51 @@
+title: Paweł Izdebski
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.pawelizdebski.pl/" # the base hostname & protocol for your site, e.g. http://example.com
+copyright: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
+# Build settings
+markdown: kramdown
+incremental: true
+gems:
+  - jekyll-watch
+  - jekyll-paginate-v2
+  - jekyll-assets
+exclude:
+- CNAME
+- .gitignore
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+- .ruby-version
+- Guardfile
+- .jekyll-assets-cache
+- .sass-cache
+- .editorconfig
+- .idea
+- .ruby-version
+- .asset-cache
+- _docs
+
+#
+# Plugin: jekyll-assets
+#
+assets:
+  cache: false
+  features:
+    automatic_img_size: false
+    automatic_img_alt: false
+
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 9
+  permalink: '/page:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
