@@ -20,3 +20,4 @@ tmp/
 .editorconfig
 /node_modules
 /.vscode
+/.DS_Store
