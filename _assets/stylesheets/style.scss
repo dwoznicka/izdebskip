@@ -1,5 +1,9 @@
-body {
-    font-family: 'Playfair Display', serif;
-    height: 100%;
-}
+@import 'scss/colors';
+@import 'scss/base';
+@import 'scss/navbar';
 
+body,
+body * {
+    font-family: 'Playfair Display', serif;
+    color: $brand-white;
+}
