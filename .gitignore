@@ -21,3 +21,5 @@ tmp/
 /node_modules
 /.vscode
 /.DS_Store
+*/.DS_STORE
+*/.DS_Store
