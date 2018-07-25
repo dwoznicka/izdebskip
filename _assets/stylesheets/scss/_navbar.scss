@@ -3,6 +3,9 @@
     letter-spacing: 2px;
     padding: 20px 15px;
     text-transform: uppercase;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
 
     .fab {
         font-size: 22px;

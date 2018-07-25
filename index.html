@@ -4,4 +4,27 @@ title: Książę Naiwności
 body_class: 'black'
 ---
 {% include navbar.html %}
+
+<div class="home">
+    <!-- desktop view -->
+    <div class="d-none d-md-block d-xl-block">
+
+        <div class="home-header">
+            <div class="row">
+                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    <img class="home-profilePic" src="{% asset_path pawel-izdebski.jpg %}" alt="pawel izdebski">
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- mobile view -->
+    <div class=" d-block d-md-none d-xl-none">
+
+    </div>
+</div>
+
 {% include footer.html %}

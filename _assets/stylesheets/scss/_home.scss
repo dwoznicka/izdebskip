@@ -1,0 +1,11 @@
+.home {
+    &-header {
+        background-color: $brand-dark-violet;
+
+        img {
+            max-width: 100%;
+            object-fit: contain;
+            filter: grayscale(80%);
+        }
+    }
+}
