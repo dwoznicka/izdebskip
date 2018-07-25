@@ -1,0 +1,40 @@
+<div class="container-fluid footer {% if page.dark_footer %}footer-dark{% endif %}">
+    <div class="container footer-formContainer">
+        <div class="row">
+            <div class="col-md-8 offset-md-2 col-xs-12 col-sm-12">
+                <div class="footer-form">
+                    <h3 class="newsletter-title">ZAPISZ SIĘ DO MOJEJ LISTY MAILINGOWEJ!</h3>
+                    <form class="newsletter-form form-inline">
+                        <label class="sr-only" for="email">Adres e-mail</label>
+                        <input type="email" class="form-control newsletter-input" id="email" placeholder="twój@email.com">
+                        <button type="submit" class="newsletter-submit"><i class="far fa-paper-plane"></i></button>
+                    </form>
+                </div>
+                <div class="footer-signature">
+                    <h3 class="signature">
+                        PAWEŁ IZDEBSKI
+                    </h3>
+                    <div class="footer-media">
+                        <ul class="footer-mediaList">
+                            <li class="footer-mediaList-item">
+                                <a class="footer-mediaList-link" href="{{ site.spotify_url }}"><i class="fab fa-spotify"></i></a>
+                            </li>
+                            <li class="footer-mediaList-item">
+                                <a class="footer-mediaList-link" href="{{ site.youtube_url }}"><i class="fab fa-youtube"></i></a>
+                            </li>
+                            <li class="footer-mediaList-item">
+                                <a class="footer-mediaList-link" href="{{ site.instagram_url }}"><i class="fab fa-instagram"></i></a>
+                            </li>
+                            <li class="footer-mediaList-item">
+                                <a class="footer-mediaList-link" href="{{ site.facebook_url }}"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li class="footer-mediaList-item">
+                                <a class="footer-mediaList-link" href="{{ site.twitter_url }}"><i class="fab fa-twitter"></i></a>
+                            </li>
+                      </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
