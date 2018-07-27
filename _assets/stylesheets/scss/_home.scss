@@ -4,8 +4,19 @@
 
         img {
             max-width: 100%;
+            width: 100%;
             object-fit: contain;
             filter: grayscale(80%);
         }
+    }
+
+    &-header-left {
+        padding-top: 10vw;
+    }
+
+    &-header-title {
+        font-size: 60px;
+        letter-spacing: 1px;
+        text-align: center;
     }
 }
