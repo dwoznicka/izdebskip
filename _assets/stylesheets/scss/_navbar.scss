@@ -1,9 +1,22 @@
+footer {
+    display: flex;
+    padding: 20px;
+
+    span {
+        opacity: 0.6;
+        font-size: 11px;
+    }
+}
+
 .navbar {
     background-color: transparent;
     letter-spacing: 2px;
     padding: 20px 15px;
     text-transform: uppercase;
-    position: fixed;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     width: 100%;
     z-index: 999;
 

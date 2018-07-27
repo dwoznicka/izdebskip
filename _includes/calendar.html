@@ -1,0 +1,18 @@
+{% assign events = site.data.events | sort: "date" %}
+
+{% for event in events %}
+    <div class="event">
+        <div class="event-left">
+            <div class="event-date">{% include translated_date.html date=event.date format="%d %b %Y" lang="pl" %}</div>
+            <span class="event-name">{{ event.name }}</span>
+        </div>
+        <div class="event-right">
+            <span class="event-city">{{ event.city }}</span>
+            {% if event.link_fb %}
+                <a class="event-link" href="{{ event.link_fb }}" target="_blank">FB</a>
+            {% elsif event.link_tickets %}
+                <a class="event-link" href="{{ event.link_tickets }}" target="_blank">Bilety</a>
+            {% endif %}
+        </div>
+    </div>
+{% endfor %}

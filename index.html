@@ -4,30 +4,43 @@ title: Książę Naiwności
 body_class: 'black'
 ---
 {% include navbar.html %}
+{% assign video = site.data.home_video.first %}
 
 <div class="home">
     <!-- desktop view -->
-    <div class="d-none d-md-block d-xl-block">
+    <div class="d-none d-md-none d-lg-block d-xl-block">
 
         <div class="home-header">
-            <div class="row">
+            <div class="row" style="margin-right: 0;">
                 <!-- left -->
-                <div class="col-md-6 home-header-left">
+                <div class="col-md-7 home-header-left">
                     <div class="home-header-titleContainer">
                         <h1 class="home-header-title">PAWEŁ IZDEBSKI</h1>
                     </div>
+                    {% if video %}
                     <div class="home-header-video">
                         <div class="video-container">
-                            <iframe width="420" height="315"
-                                src="https://www.youtube.com/watch?v=xcXnqFMatBU&list=RDxcXnqFMatBU?html5=1">
-                            </iframe>
+                            <iframe width="100%" height="315" src="{{ video.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="z-index: 100;"></iframe>
+                            <h2 class="home-header-video-title">{{ video.title }}</h2>
                         </div>
                     </div>
+                    {% endif %}
                 </div>
                 <!-- right -->
-                <div class="col-md-6">
+                <div class="col-md-5 home-profilePicContainer">
                     <img class="home-profilePic" src="{{ 'pawel-izdebski.jpg '| asset_path | absolute_url }}" alt="pawel izdebski">
                 </div>
+            </div>
+            <div class="home-calendar-triangle--up">
+                <div class="home-calendar-titleContainer">
+                    <h3 class="home-calendar-title">najbliższe wydarzenia</h3>
+                </div>
+            </div>
+        </div>
+        <div class="home-calendar-separator"></div>
+        <div class="home-calendar">
+            <div class="home-calendar-events">
+                {% include calendar.html %}
             </div>
         </div>
 
@@ -35,7 +48,7 @@ body_class: 'black'
 
 
     <!-- mobile view -->
-    <div class=" d-block d-md-none d-xl-none">
+    <div class=" d-block d-md-block d-lg-none d-xl-none">
 
     </div>
 </div>

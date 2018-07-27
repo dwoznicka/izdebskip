@@ -1,14 +1,45 @@
 - date: 2018-08-24
   name: Support przed MikroMusic feat. Kasia Mazurkiewicz
   city: SOPOT
-  link: https://www.facebook.com/events/166930780648527/
+  link_fb: https://www.facebook.com/events/166930780648527/
 
 - date: 2018-09-07
   name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
   city: ŁÓDŹ
-  link: https://www.facebook.com/events/283757232394595/
+  link_fb: https://www.facebook.com/events/283757232394595/
 
 - date: 2019-02-16
   name: HEARTRockowanie - Walentynki w rytmie rocka
   city: WARSZAWA
-  link: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
+  link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
+
+- date: 2018-07-24
+  name: Support przed MikroMusic feat. Kasia Mazurkiewicz
+  city: SOPOT
+  link_fb: https://www.facebook.com/events/166930780648527/
+
+- date: 2018-06-07
+  name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
+  city: ŁÓDŹ
+  link_fb: https://www.facebook.com/events/283757232394595/
+
+- date: 2019-03-16
+  name: HEARTRockowanie - Walentynki w rytmie rocka
+  city: WARSZAWA
+  link_tickets: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
+
+- date: 2019-08-24
+  name: Support przed MikroMusic feat. Kasia Mazurkiewicz
+  city: SOPOT
+  link_fb: https://www.facebook.com/events/166930780648527/
+
+- date: 2018-10-07
+  name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
+  city: ŁÓDŹ
+  link_fb: https://www.facebook.com/events/283757232394595/
+
+- date: 2019-02-17
+  name: HEARTRockowanie - Walentynki w rytmie rocka
+  city: WARSZAWA
+  link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
+
