@@ -30,6 +30,34 @@
     &-header {
         background-color: $brand-dark-violet;
         position: relative;
+
+        @media (max-width: $screen-sm-max) {
+            padding-top: 75px;
+            background-color: unset;
+
+            &::after {
+                background-image: url("/assets/pawel-izdebski.jpg");
+                background-position: top right;
+                background-repeat: no-repeat;
+                background-size: cover;
+                content: " ";
+                opacity: 0.8;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                position: absolute;
+                filter: grayscale(100%);
+                z-index: -1;
+            }
+        }
+
+        @media (max-width: $screen-xs-max) {
+            &::after {
+                background-size: cover;
+                background-position: top center;
+            }
+        }
     }
 
     &-header-left {
@@ -40,6 +68,13 @@
         font-size: 60px;
         letter-spacing: 4px;
         text-align: center;
+
+        @media (max-width: $screen-sm-max) {
+            font-size: 50px;
+        }
+        @media (max-width: $screen-xs-max) {
+            padding-top: 30vh;
+        }
     }
 
     &-header-video {
@@ -49,6 +84,10 @@
             margin: 0 auto;
             width: 80%;
             z-index: 999;
+        }
+
+        @media (max-width: $screen-sm-max) {
+            margin: 5vh 0;
         }
     }
 
@@ -72,8 +111,11 @@
         @media (max-width: 1100px) {
             height: 250px;
         }
-        @media (max-width: 1000px) {
-            height: 150px;
+        @media (max-width: $screen-sm-max) {
+            background: $brand-blue;
+            height: auto;
+            position: relative;
+            pointer-events: all;
         }
     }
 
@@ -106,8 +148,11 @@
         @media (max-width: 1100px) {
             height: 250px;
         }
-        @media (max-width: 1000px) {
-            height: 150px;
+        @media (max-width: $screen-sm-max) {
+            background: $brand-blue;
+            margin-top: 5vh;
+            padding-bottom: 15vh;
+            height: auto;
         }
     }
     
@@ -116,6 +161,14 @@
         top: 130px;
         right: 5%;
         z-index: 999;
+    }
+
+    .events-arrows--mobile {
+        position: absolute;
+        bottom: 20px;
+        top: unset;
+        width: 100%;
+        text-align: center;
     }
 
     .slick-arrow {
@@ -130,13 +183,18 @@
         padding: 0 10px;
 
         transition: 0.4s all ease-in;
+
+        @media (max-width: $screen-sm-max) {
+            padding: 0 15px;
+        }
     }
 
     .slick-disabled {
         opacity: 0;
     }
 
-    &-calendar-events {
+    &-calendar-events,
+    &-calendar-events--mobile {
         position: absolute;
         font-size: 16px;
         top: -50%;
@@ -150,6 +208,12 @@
             width: 75%;
         }
 
+        @media (max-width: $screen-sm-max) {
+            padding: 0 5%;
+            position: relative;
+            width: 100%;
+        }
+
         .slick-list {
             position: relative;
         }
@@ -160,21 +224,49 @@
             letter-spacing: 1.2px;
             padding: 5px 0;
 
+            @media (max-width: $screen-sm-max) {
+                border-bottom: 1px white solid;
+                display: block;
+                line-height: 45px;
+            }
+
             *:not(.event-link) {
                 max-height: 35px;
                 overflow: hidden;
+                outline: none;
                 text-overflow: ellipsis;
                 white-space: nowrap; 
+
+                @media (max-width: $screen-sm-max) {
+                    max-height: 45px;
+                }
             }
 
             &-left,
             &-right {
                 display: flex;
+
+                @media (max-width: $screen-sm-max) {
+                    max-height: 45px;
+                    padding: 5px;
+                    max-width: 100%;
+                    width: 100%;
+                }
             }
 
             &-left {
                 max-width: 60%;
                 max-width: calc(100% - 250px);
+
+                @media (max-width: $screen-sm-max) {
+                    max-width: 100%;
+                }
+            }
+
+            &-right {
+                @media (max-width: $screen-sm-max) {
+                    justify-content: space-between;
+                }
             }
 
             &-icon {
@@ -186,12 +278,28 @@
                 min-width: 120px;
                 padding: 0 5px;
                 width: 120px;
+
+                @media (max-width: $screen-sm-max) {
+                    max-width: 95%;
+                    max-width: calc(100% - 30px);
+                    width: auto;
+                }
+            }
+
+            &-name {
+                @media (max-width: $screen-sm-max) {
+                    max-width: 60%;
+                    max-width: calc(100% - 100px);
+                }
             }
 
             &-city {
                 padding: 0 20px;
                 min-width: 135px;
                 text-align: right;
+                @media (max-width: $screen-sm-max) {
+                    padding-right: 0;
+                }
             }
 
             &-link {

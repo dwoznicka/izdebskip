@@ -45,6 +45,10 @@
         font-size: 20px;
         text-align: center;
         letter-spacing: 1.2px;
+    
+        @media (max-width: $screen-sm-max) {
+            margin-top: 10vh;
+        }
     }
 }
 

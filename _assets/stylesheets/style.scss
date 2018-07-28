@@ -10,9 +10,12 @@ body * {
     color: $brand-white;
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 991px) and (max-width: $screen-sm-max) {
     .d-md-none {
         display: none !important;
+    }
+    .d-md-block.d-lg-none {
+        display: block !important;
     }
     .navbar-expand-lg .navbar-collapse {
         display: none !important;
@@ -22,7 +25,7 @@ body * {
     }
 }
 
-@media (min-width: 1001px) {
+@media (min-width: $screen-md-min) {
     .d-md-none {
         display: block !important;
     }
