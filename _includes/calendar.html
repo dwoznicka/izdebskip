@@ -2,11 +2,12 @@
 
 {% for event in events %}
     <div class="event">
-        <div class="event-left">
+        <div class="event-left mr-auto">
+            <span class="event-icon"><i class="far fa-calendar-alt"></i></span>
             <div class="event-date">{% include translated_date.html date=event.date format="%d %b %Y" lang="pl" %}</div>
             <span class="event-name">{{ event.name }}</span>
         </div>
-        <div class="event-right">
+        <div class="event-right ml-auto">
             <span class="event-city">{{ event.city }}</span>
             {% if event.link_fb %}
                 <a class="event-link" href="{{ event.link_fb }}" target="_blank">FB</a>

@@ -28,7 +28,7 @@ body_class: 'black'
                 </div>
                 <!-- right -->
                 <div class="col-md-5 home-profilePicContainer">
-                    <img class="home-profilePic" src="{{ 'pawel-izdebski.jpg '| asset_path | absolute_url }}" alt="pawel izdebski">
+                    <div class="home-profilePic"></div>
                 </div>
             </div>
             <div class="home-calendar-triangle--up">
@@ -39,6 +39,7 @@ body_class: 'black'
         </div>
         <div class="home-calendar-separator"></div>
         <div class="home-calendar">
+            <div class="events-arrows"></div>
             <div class="home-calendar-events">
                 {% include calendar.html %}
             </div>

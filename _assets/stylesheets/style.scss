@@ -9,3 +9,21 @@ body * {
     font-family: 'Playfair Display', serif;
     color: $brand-white;
 }
+
+@media (max-width: 1000px) {
+    .d-md-none {
+        display: none !important;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        display: none !important;
+    }
+    .navbar-expand-lg .navbar-toggler {
+        display: block !important;
+    }
+}
+
+@media (min-width: 1001px) {
+    .d-md-none {
+        display: block !important;
+    }
+}

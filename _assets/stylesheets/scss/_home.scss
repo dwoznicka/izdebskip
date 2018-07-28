@@ -4,17 +4,32 @@
         padding: 0;
     }
 
+    &-profilePic {
+        height: 60vw; 
+        position: relative;
+
+        &::after {
+            background-image: url("/assets/pawel-izdebski.jpg");
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: top right;
+            background-repeat: no-repeat;
+            background-size: 45%;
+            content: " ";
+            opacity: 0.8;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            position: absolute;
+            z-index: 1;
+            filter: grayscale(100%);
+        }
+    }
+
     &-header {
         background-color: $brand-dark-violet;
         position: relative;
-
-        img {
-            max-width: 100%;
-            width: 100%;
-            object-fit: contain;
-            filter: grayscale(100%);
-            opacity: 0.8;
-        }
     }
 
     &-header-left {
@@ -74,7 +89,7 @@
     }
 
     &-calendar-separator {
-        height: 50px;
+        height: 100px;
         width: 100%;
         background-color: $brand-blue;
     }
@@ -83,6 +98,7 @@
         width: 100%;
         height: 400px;
         background: linear-gradient(to left bottom, $brand-blue 50%, $brand-black 50%);
+        position: relative;
 
         @media (max-width: $screen-md-max) {
             height: 300px;
@@ -92,6 +108,114 @@
         }
         @media (max-width: 1000px) {
             height: 150px;
+        }
+    }
+    
+    .events-arrows {
+        position: absolute;
+        top: 130px;
+        right: 5%;
+        z-index: 999;
+    }
+
+    .slick-arrow {
+        -webkit-appearance: none;
+        cursor: pointer;
+
+        background: transparent;
+        border: none;
+        color: $brand-white;
+        outline: none;
+        letter-spacing: 1px;
+        padding: 0 10px;
+
+        transition: 0.4s all ease-in;
+    }
+
+    .slick-disabled {
+        opacity: 0;
+    }
+
+    &-calendar-events {
+        position: absolute;
+        font-size: 16px;
+        top: -50%;
+        right: 0;
+        width: 65%;
+        height: 100%;
+        padding-right: 5%;
+        z-index: 99;
+
+        @media (max-width: $screen-md-max) {
+            width: 75%;
+        }
+
+        .slick-list {
+            position: relative;
+        }
+
+        .event {
+            display: flex;
+            line-height: 35px;
+            letter-spacing: 1.2px;
+            padding: 5px 0;
+
+            *:not(.event-link) {
+                max-height: 35px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap; 
+            }
+
+            &-left,
+            &-right {
+                display: flex;
+            }
+
+            &-left {
+                max-width: 60%;
+                max-width: calc(100% - 250px);
+            }
+
+            &-icon {
+                min-width: 21px;
+                padding-right: 5px;
+            }
+
+            &-date {
+                min-width: 120px;
+                padding: 0 5px;
+                width: 120px;
+            }
+
+            &-city {
+                padding: 0 20px;
+                min-width: 135px;
+                text-align: right;
+            }
+
+            &-link {
+                background: transparent;
+                border: 1px $brand-white solid;
+                color: $brand-white;
+                cursor: pointer;
+                line-height: 35px;
+                padding: 0 5px;
+                text-align: center;
+                transition: 0.2s all ease;
+                width: 115px;
+                min-width: 115px;
+
+                &:hover {
+                    background-color: $brand-white;
+                    color: $brand-blue;
+                }
+
+                @media (max-width: $screen-md-max) {
+                    width: 75px;
+                    min-width: 75px; 
+                }
+            }
         }
     }
 }
