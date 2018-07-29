@@ -2,8 +2,8 @@ title: Paweł Izdebski
 name: Paweł Izdebski Official
 baseurl: "" # production
 # baseurl: "" #development
-# url: "http://localhost:4000" # development
-url: "https://dwoznicka.github.io/izdebskip" # production domain
+url: "http://localhost:4000" # development
+# url: "https://dwoznicka.github.io/izdebskip" # production domain
 copyright: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
 copyright_short: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>.
 made_by: 'Made with ❤ by DW'
@@ -54,7 +54,7 @@ assets:
 pagination:
   enabled: true
   collection: posts
-  per_page: 9
+  per_page: 4
   permalink: '/page:num/'
   limit: 0
   sort_field: 'date'

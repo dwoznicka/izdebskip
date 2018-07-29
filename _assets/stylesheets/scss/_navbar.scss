@@ -1,3 +1,13 @@
+.footer-dark {
+    * {
+        color: $brand-blue;
+    }
+
+    input {
+        border: 1px solid $brand-blue;
+    }
+}
+
 footer {
     display: flex;
     padding: 20px;

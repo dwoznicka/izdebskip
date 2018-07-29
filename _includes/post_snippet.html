@@ -1,0 +1,24 @@
+{% assign post = include.post %}
+{% assign cycle = include.cycle %}
+{% assign image_url = post.image_name | asset_path | absolute_url %}
+
+<article class="blog-post-container">
+    <div class="blog-post-container-inner">
+        <a class="blog-post-snippet" href="{{ post.url }}">
+            <div class="img-responsive-container">
+                <img class="img-responsive post-image" src="{{ image_url }}" alt="{{ post.title }}" />
+            </div>
+            <h4 class="post-title">{{ post.title }}</h4>
+            {% if post.description %}
+            <div class="post-excerpt">
+              {{ post.description | markdownify | truncatewords: 30}}
+            </div>
+            {% endif %}
+        </a>
+    </div>
+    <div class="snippet-footer">
+        <div class="post-date">
+            <span>{% include translated_date.html date=post.date format="%d %b %Y" lang="pl" %}</span>
+        </div>
+    </div>
+</article>
