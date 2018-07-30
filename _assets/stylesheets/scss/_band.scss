@@ -1,0 +1,54 @@
+.band {
+    &-container {
+        margin-top: 100px;
+        letter-spacing: 1px;
+        padding: 0 5%;
+    }
+
+    &-title {
+        font-size: 42px;
+        letter-spacing: 2px;
+        margin: 30px 0;
+        text-transform: uppercase;
+    }
+
+    &-memberName {
+        font-size: 30px;
+        margin: 20px 0;
+    }
+
+    &-image {
+        max-width: 100%;
+        object-fit: cover;
+    }
+
+    &-imageContainer {
+        position: relative;
+
+        &::after {
+            content: " ";
+            position: absolute;
+            width: 20%;
+            height: 100%;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            background: linear-gradient(to right bottom, $brand-blue 50%, transparent 50%);
+        }
+
+        &::before {
+            content: " ";
+            position: absolute;
+            width: 20%;
+            height: 100%;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(to right bottom, transparent 50%, $brand-blue 50%);
+        }
+    }
+}
+
+.member-row {
+    margin-bottom: 50px;
+}

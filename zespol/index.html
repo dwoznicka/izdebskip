@@ -1,0 +1,31 @@
+---
+layout: base
+title: "Zespół"
+body_class: 'blue'
+---
+{% include navbar.html %}
+
+<div class="band-container container-fluid">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <h1 class="band-title"> Paweł Izdebski | Mój Zespół </h1>
+        </div>
+    </div>
+    <div class="row member-row">
+        <div class="col-xs-12 col-sm-12 col-md-7 order-md-12 order-first">
+            <div class="band-imageContainer">
+                <img class="band-image" src="{{ 'kasia-mazurkiewicz.jpg' | asset_path | absolute_url }}">
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-5 float-left order-md-1 order-last">
+            <div class="band-description">
+                <h3 class="band-memberName">Kasia Mazurkiewicz</h3>
+                <p>
+                    Absolwentka klasy fortepianu PSM II st. im.&nbsp;J. Elsnera oraz klasy skrzypiec w&nbsp;POESM nr 1 w&nbsp;Warszawie. Ukończyła z&nbsp;Wyróżnieniem czteroletni kurs Improwizacji Fortepianowej w&nbsp;Fundacji "Bednarska" w&nbsp;klasie prof. S.&nbsp;Esztenyiego. Laureatka nagród takich jak Nagroda Specjalna dla Akompaniatora na Festiwalu Piosenki Jeremiego Przybory w&nbsp;Kutnie, Nagroda Specjalna im.&nbsp;Konstantego Przybory, czy Grand Prix oraz Nagroda za najlepszą aranżację na Festiwalu Piosenki Musicalowej im.&nbsp;Georga Gershwina. Od ponad roku jest członkiem zespołu Studio Accantus. Współpracowała z&nbsp;wieloma znanymi wokalistami, muzykami oraz aktorami, występując m.in. na scenach teatrów i&nbsp;filharmonii, brała udział w wielu festiwalach i&nbsp;muzycznych projektach, tworząc autorskie aranżacje utworów oraz kompozycje. Ma wiele pasji (z&nbsp;których największą jest muzyka), począwszy od sztuk pięknych, a&nbsp;skończywszy na tańcu. Uwielbia czytać książki, podróżować, rysować.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
