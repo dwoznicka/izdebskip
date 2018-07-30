@@ -1,5 +1,6 @@
 ---
 layout: base
+title: 'Blog'
 is_blog_page: true
 body_class: 'blog'
 pagination:
@@ -35,7 +36,7 @@ pagination:
             {% if paginator.previous_page == 1 %}
               <li class="previous-blog"><a href="{{'/blog/' | absolute_url }}"><i class="fa fa-chevron-left fa-1-5x" aria-hidden="true"></i></a></li>
             {% else %}
-              <li class="previous-blog"><a href="{{ paginator.previous_page_path | trailing_slash }}"><i class="fa fa-chevron-left fa-1-5x" aria-hidden="true"></i></a></li>
+              <li class="previous-blog"><a href="{{ site.url }}{{ paginator.previous_page_path | trailing_slash }}"><i class="fa fa-chevron-left fa-1-5x" aria-hidden="true"></i></a></li>
             {% endif %}
         {% endif %}
         {% for page in (1..paginator.total_pages) %}
@@ -59,7 +60,7 @@ pagination:
         {% endif %}
       {% endfor %}
       {% if paginator.next_page %}
-        <li class="next-blog"><a href="{{ paginator.next_page_path | trailing_slash }}"><i class="fa fa-chevron-right fa-1-5x" aria-hidden="true"></i></a></li>
+        <li class="next-blog"><a href="{{ site.url }}{{ paginator.next_page_path | trailing_slash }}"><i class="fa fa-chevron-right fa-1-5x" aria-hidden="true"></i></a></li>
       {% endif %}
     </ul>
   </div>

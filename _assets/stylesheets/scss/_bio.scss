@@ -1,0 +1,82 @@
+.bio {
+    &-container {
+        min-height: 100vh;
+        background: linear-gradient(90deg, $brand-blue, $brand-violet);
+        margin-bottom: 50px;
+        padding-top: 100px;
+        position: relative;
+    }
+
+    &-image {
+        object-fit: contain;
+        max-width: 100%;
+    }
+
+    &-text {
+        padding: 0 5%;
+        height: 85%;
+        
+        * {
+            font-size: 18px;
+            letter-spacing: 1px;
+        }
+
+        blockquote {
+            font-size: 22px;
+            margin-bottom: 40px;
+            quotes: "“" "”" "‘" "’";
+            width: 90%;
+
+            @media (max-width: $screen-sm-max) {
+                font-size: 20px;
+            }
+
+            &:before {
+                content: open-quote;
+            }
+            &:after {
+                content: close-quote;
+            }
+        }
+
+        p, iframe {
+            margin-bottom: 30px;
+        }
+
+    }
+
+    &-title {
+        font-size: 40px;
+        letter-spacing: 2px;
+        margin-bottom: 50px;
+        text-align: left;
+        text-transform: uppercase;
+
+        @media (max-width: $screen-sm-max) {
+            text-align: center;
+        }
+    }
+
+    &-bold {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    &-blue {
+        font-style: italic;
+        text-decoration: underline;
+        text-decoration-color: $brand-blue;
+    }
+
+    &-violet {
+        font-style: italic;
+        text-decoration: underline;
+        text-decoration-color: $brand-violet;
+    }
+
+    &-separator {
+        width: 100vw;
+        height: 200px;
+        background: linear-gradient(to right bottom, transparent 50%, $brand-black 50%);
+    }
+}

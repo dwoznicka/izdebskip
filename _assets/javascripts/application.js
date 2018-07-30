@@ -39,7 +39,6 @@ $(document).ready(function() {
     }
 
     if ($blogBackground.length) {
-        // $('.solution-text').css('background-position-x', item.position);
         var num = 50;
         var increase = true;
         window.setInterval(function () {
