@@ -8,8 +8,13 @@
     }
 
     &-image {
-        object-fit: contain;
-        max-width: 100%;
+        min-height: 300px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    &-imageContainer {
+        margin-bottom: 30px;
     }
 
     &-text {
@@ -21,28 +26,39 @@
             letter-spacing: 1px;
         }
 
-        blockquote {
-            font-size: 22px;
-            margin-bottom: 60px;
-            quotes: "“" "”" "‘" "’";
-            width: 90%;
-
-            @media (max-width: $screen-sm-max) {
-                font-size: 20px;
-            }
-
-            &:before {
-                content: open-quote;
-            }
-            &:after {
-                content: close-quote;
-            }
-        }
-
         p, iframe {
             margin-bottom: 30px;
         }
 
+    }
+
+    &-videoWrapper {
+        position: relative;
+        padding-bottom: 36.25%; /* 16:9 */
+        padding-top: 25px;
+        height: 400px;
+        width: 720px;
+        max-width: 100%;
+        margin-bottom: 30px;
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    &-galleryLink {
+        font-size: 11px;
+
+        &:hover {
+            color: $brand-white;
+            font-weight: bold;
+            text-decoration: underline;
+            text-decoration-color: $brand-violet;
+        }
     }
 
     &-title {
@@ -72,6 +88,55 @@
         font-style: italic;
         text-decoration: underline;
         text-decoration-color: $brand-violet;
+    }
+
+    &-quote--top {
+        font-size: 22px;
+        margin-bottom: 60px;
+        width: 90%;
+
+        @media (max-width: $screen-sm-max) {
+            font-size: 20px;
+        }
+
+        &::before {
+            content: "“";
+            position: absolute;
+            font-size: 200px;
+            height: 200px;
+            z-index: 0;
+            opacity: 0.4;
+            left: -20px;
+            top: -20px;
+            line-height: 200px;
+        }
+
+        &::after {
+            content: "";
+        }
+    }
+
+    &-quote--bottom {
+        font-size: 18px !important;
+        margin-top: 50px;
+        margin-bottom: 60px;
+        width: 90%;
+
+        &::before {
+            content: "“";
+            position: absolute;
+            font-size: 200px;
+            height: 200px;
+            z-index: 0;
+            opacity: 0.4;
+            left: -20px;
+            bottom: 0;
+            line-height: 200px;
+        }
+
+        &::after {
+            content: "";
+        }
     }
 
     &-separator {

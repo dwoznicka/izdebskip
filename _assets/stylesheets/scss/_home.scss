@@ -242,30 +242,46 @@
                 }
             }
 
+            * {
+                @media (max-width: $screen-micro) {
+                    font-size: 13px;
+                }
+            }
+
             &-left,
             &-right {
                 display: flex;
 
                 @media (max-width: $screen-sm-max) {
-                    max-height: 45px;
                     padding: 5px;
                     max-width: 100%;
                     width: 100%;
                 }
             }
-
+            
             &-left {
                 max-width: 60%;
                 max-width: calc(100% - 250px);
-
+                
                 @media (max-width: $screen-sm-max) {
+                    max-height: 45px;
                     max-width: 100%;
                 }
             }
 
             &-right {
-                @media (max-width: $screen-sm-max) {
+                @media (max-width: $screen-sm-max) and (min-width: $screen-micro + 1) {
+                    height: 90px;
+                    max-height: 90px !important;
                     justify-content: space-between;
+                    white-space: normal;
+                }
+
+                @media (max-width: $screen-micro) {
+                    height: 135px;
+                    max-height: 135px !important;
+                    justify-content: space-between;
+                    white-space: normal;
                 }
             }
 
@@ -284,12 +300,25 @@
                     max-width: calc(100% - 30px);
                     width: auto;
                 }
+
+                @media (max-width: $screen-micro) {
+                    min-width: 100px;
+                }
             }
 
             &-name {
-                @media (max-width: $screen-sm-max) {
+                @media (max-width: $screen-sm-max) and (min-width: $screen-micro + 1) {
+                    max-height: 90px !important;
                     max-width: 60%;
                     max-width: calc(100% - 100px);
+                    white-space: normal !important;
+                }
+
+                @media (max-width: $screen-micro) {
+                    max-height: 135px !important;
+                    max-width: 60%;
+                    max-width: calc(100% - 100px);
+                    white-space: normal !important;
                 }
             }
 
@@ -297,7 +326,7 @@
                 padding: 0 20px;
                 min-width: 135px;
                 text-align: right;
-                @media (max-width: $screen-sm-max) {
+                @media (max-width: $screen-sm-max) and (min-width: 320px) {
                     padding-right: 0;
                 }
             }
@@ -318,6 +347,17 @@
                     background-color: $brand-white;
                     color: $brand-blue;
                 }
+
+                @media (max-width: $screen-md-max) {
+                    width: 75px;
+                    min-width: 75px; 
+                    max-height: 45px;
+                }
+            }
+
+            &-link-placeholder {
+                width: 115px;
+                min-width: 115px;
 
                 @media (max-width: $screen-md-max) {
                     width: 75px;

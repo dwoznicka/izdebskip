@@ -1,44 +1,43 @@
 - date: 2018-08-24
-  name: Support przed MikroMusic feat. Kasia Mazurkiewicz
+  name: Support przed Mikromusic Paweł Izdebski & Kasia Mazurkiewicz
   city: SOPOT
   link_fb: https://www.facebook.com/events/166930780648527/
 
 - date: 2018-09-07
-  name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
+  name: Paweł Izdebski & Kasia Mazurkiewicz w TU
   city: ŁÓDŹ
   link_fb: https://www.facebook.com/events/283757232394595/
+
+- date: 2018-09-29
+  name: Spektakl "Once" Teatr Roma (Obydwa Spektakle)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-10-26
+  name: Spektakl "Once" Teatr Roma (Spektakl 19:30)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-10-27
+  name: Spektakl "Once" Teatr Roma (Obydwa Spektakle)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-10-28
+  name: Spektakl "Once" Teatr Roma (Spektakl 16:00)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-11-23
+  name: Spektakl "Once" Teatr Roma (Spektakl 19:30)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-12-08
+  name: Paweł Izdebski & Kasia Mazurkiewicz
+  city: WARSZAWA
 
 - date: 2019-02-16
-  name: HEARTRockowanie - Walentynki w rytmie rocka
-  city: WARSZAWA
-  link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
-
-- date: 2018-07-24
-  name: Support przed MikroMusic feat. Kasia Mazurkiewicz
-  city: SOPOT
-  link_tickets: https://www.facebook.com/events/166930780648527/
-
-- date: 2018-06-07
-  name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
-  city: ŁÓDŹ
-  link_fb: https://www.facebook.com/events/283757232394595/
-
-- date: 2019-03-16
-  name: HEARTRockowanie - Walentynki w rytmie rocka
-  city: WARSZAWA
-  link_tickets: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
-
-- date: 2019-08-24
-  name: Support przed MikroMusic feat. Kasia Mazurkiewicz
-  city: SOPOT
-  link_fb: https://www.facebook.com/events/166930780648527/
-
-- date: 2018-10-07
-  name: Paweł Izdebski & Kasia Mazurkiewicz znów w TU!
-  city: ŁÓDŹ
-  link_fb: https://www.facebook.com/events/283757232394595/
-
-- date: 2019-02-17
   name: HEARTRockowanie - Walentynki w rytmie rocka
   city: WARSZAWA
   link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
