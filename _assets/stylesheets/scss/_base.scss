@@ -8,10 +8,10 @@
     }
 
     &.blog {
-        background: linear-gradient(45deg, $brand-black, $brand-black-violet, $brand-dark-violet, $brand-violet, $brand-blue, $brand-black-violet, $brand-black) center/1500% 100%;
+        background: linear-gradient(45deg, $brand-black, $brand-black-violet, $brand-dark-violet, $brand-blue, $brand-black-violet, $brand-black) center/1500% 100%;
         background-position: 50%;
         overflow: auto;
         will-change: background-position;
-        transition: background-position 2s ease;
+        transition: background-position 2s linear;
     }
 }

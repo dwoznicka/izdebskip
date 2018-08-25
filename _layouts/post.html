@@ -4,7 +4,7 @@ is_blog_page: true
 ---
 
 {% include navbar.html %}
-{% assign image_url = page.image_name | asset_path | absolute_url %}
+{% assign image_url = page.image_url %}
 <section class="container-fluid blog-post-titleContainer" style="background-image: url({{ image_url }});">
     <h1 class="blog-post-title">{{ page.title }}</h1>
     <h3 class="blog-post-date">{% include translated_date.html date=page.date format="%d %B %Y" lang="pl" %}</h3>

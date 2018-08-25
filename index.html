@@ -22,13 +22,13 @@ body_class: 'black'
                         <div class="video-container">
                             <iframe width="100%" height="315" src="{{ video.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="z-index: 100;"></iframe>
                             <h2 class="home-header-video-title">{{ video.title }}</h2>
+                            <a class="bio-galleryLink" href="{{ "/muzyka/" | absolute_url }}" target="_blank">Przejdź do sekcji Muzyka >></a>
                         </div>
                     </div>
                     {% endif %}
                 </div>
                 <!-- right -->
                 <div class="col-md-5 home-profilePicContainer">
-                    <img hidden src="{{ 'pawel-izdebski.jpg' | asset_path | absolute_url }}">
                     <div class="home-profilePic"></div>
                 </div>
             </div>
@@ -61,6 +61,7 @@ body_class: 'black'
                         <div class="video-container">
                             <iframe width="100%" height="215" src="{{ video.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="z-index: 100;"></iframe>
                             <h2 class="home-header-video-title">{{ video.title }}</h2>
+                            <a class="bio-galleryLink" href="{{ "/muzyka/" | absolute_url }}" target="_blank">Przejdź do sekcji Muzyka >></a>
                         </div>
                     </div>
                     {% endif %}

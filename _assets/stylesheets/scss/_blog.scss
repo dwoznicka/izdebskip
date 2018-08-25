@@ -192,6 +192,38 @@
                 text-decoration-color: $brand-blue-alpha;
                 color: $brand-black;
             }
+
+            ol,
+            ul {
+                padding-left: 0;
+            } 
+
+            small {
+                font-size: 12px;
+                color: $brand-blue-alpha;    
+            }
+
+            blockquote {
+                position: relative;
+                font-size: 17px;
+                color: $brand-blue-alpha;
+
+                &::before {
+                    content: "“";
+                    position: absolute;
+                    font-size: 100px;
+                    height: 100px;
+                    z-index: 0;
+                    opacity: 0.25;
+                    left: -20px;
+                    top: -5px;
+                    line-height: 100px;
+                }
+        
+                &::after {
+                    content: "";
+                }
+            }
         }
     }
 }

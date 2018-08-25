@@ -9,7 +9,7 @@
         position: relative;
 
         &::after {
-            background-image: url("https://dwoznicka.github.io/izdebskip/assets/pawel-izdebski.jpg");
+            background-image: url("https://res.cloudinary.com/pawel-izdebski/image/upload/v1535055240/pawel-izdebski.jpg");
             /* Create the parallax scrolling effect */
             background-attachment: fixed;
             background-position: top right;
@@ -36,7 +36,7 @@
             background-color: unset;
 
             &::after {
-                background-image: url("https://dwoznicka.github.io/izdebskip/assets/pawel-izdebski.jpg");
+                background-image: url("https://res.cloudinary.com/pawel-izdebski/image/upload/v1535055240/pawel-izdebski.jpg");
                 background-position: top right;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -352,6 +352,11 @@
                     width: 75px;
                     min-width: 75px; 
                     max-height: 45px;
+                    line-height: 35px;
+                }
+
+                @media (max-width: $screen-sm-max) {
+                    line-height: 45px;
                 }
             }
 

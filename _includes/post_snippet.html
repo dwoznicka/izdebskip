@@ -1,6 +1,6 @@
 {% assign post = include.post %}
 {% assign cycle = include.cycle %}
-{% assign image_url = post.image_name | asset_path | absolute_url %}
+{% assign image_url = post.image_index_url %}
 
 <article class="blog-post-container">
     <div class="blog-post-container-inner">
@@ -11,7 +11,7 @@
             <h4 class="post-title">{{ post.title }}</h4>
             {% if post.description %}
             <div class="post-excerpt">
-              {{ post.description | markdownify | truncatewords: 30}}
+              {{ post.description | markdownify | truncatewords: 35}}
             </div>
             {% endif %}
         </a>
