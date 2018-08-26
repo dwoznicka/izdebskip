@@ -28,12 +28,24 @@
         padding: 75px 0;
     }
 
-    &-row:nth-child(even) {
-        background-color: $brand-dark-violet;
+    &-row:nth-child(4n) {
+        background-color: $brand-blue;
     }
 
-    &-row:nth-child(odd) {
+    &-row:nth-child(4n + 1) {
         background: transparent;
+    }
+
+    &-row:nth-child(4n + 2) {
+        background: $brand-black-violet;
+    }
+
+    &-row:nth-child(4n + 3) {
+        background: transparent;
+    }
+
+    &-row:last-child {
+        margin-bottom: 50px;
     }
 
     &-button {
@@ -110,5 +122,6 @@
     &-content {
         background-color: $brand-black;
         color: $brand-white;
+        letter-spacing: 0.4px;
     }
 }

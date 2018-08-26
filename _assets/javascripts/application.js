@@ -2,6 +2,28 @@ $(document).ready(function() {
     var $calendar = $('.home-calendar-events');
     var $calendarMobile = $('.home-calendar-events--mobile');
     var $blogBackground = $('.base.blog');
+    var $galleryImages = $('.gallery-row');
+
+    if ($galleryImages.length) {
+        $galleryImages.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
 
     if ($calendar.length) {
         $calendar.slick({

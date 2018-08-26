@@ -1,11 +1,48 @@
 ---
 layout: base
-title: "Galeria"
+title: "Galeria, foto, zdjęcia"
 body_class: 'black'
 ---
 
 {% include navbar.html %}
 
-<p>in progres..</p>
+<div class="container-fluid music-container">
+    <div class="music-header">
+        <h1 class="music-title">PAWEŁ IZDEBSKI | GALERIA ZDJĘĆ</h1>
+    </div>
+    <div class="music-separator music-separator--color">
 
+    </div>
+    <div class="container">
+        <div class="row gallery-row">
+            {% assign photos = site.data.gallery | sort:"position" %}
+            {% for photo in photos %}
+                <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">
+                    <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="Paweł Izdebski fot. {{ photo.author }}">
+                        <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="Paweł Izdebski fot. {{ photo.author }}">
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+        <small style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
+        <div class="gallery-arrows"></div>
+        <div class="gallery-drop">
+            <a href="https://www.dropbox.com/sh/6ij271lp7uu9asc/AAAyTGW-TI0aVDA4-yzwlunda?dl=0" target="_blank" class="gallery-droplink">Pobierz w wysokiej jakości >></a>
+        </div>
+    </div>
+    <div class="music-separator music-separator--black">
+
+    </div>
+    <div class="container-fluid music-videos-container">
+        <div class="row" class="insta-invitation">
+            <h2 class="gallery-channel-invitation">
+                <a href="{{ site.instagram_url }}" target="_blank">ZOBACZ WIĘCEJ NA MOIM INSTAGRAMIE  >> </a>
+                <br/><span><i class="fab fa-instagram"></i> nieokiemznany</span>
+            </h2>
+        </div>
+    </div>
+    <div class="music-separator music-separator--color mb-5">
+    </div>
+</div>
 {% include footer.html %}
+
