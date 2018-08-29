@@ -3,7 +3,9 @@
         <div class="row">
             <div class="col-md-8 offset-md-2 col-xs-12 col-sm-12">
                 <div class="footer-form">
+                    {% unless include.hide_header %}
                     <h3 class="newsletter-title">ZAPISZ SIĘ DO MOJEJ LISTY MAILINGOWEJ!</h3>
+                    {% endunless %}
                     <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
                         <form action="https://pawelizdebski.us12.list-manage.com/subscribe/post?u=1b04047de1fde10dcd31e728b&amp;id=9db5d89562" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter-form" target="_blank" novalidate>

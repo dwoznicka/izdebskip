@@ -8,9 +8,10 @@ is_blog_page: true
 <section class="container-fluid blog-post-titleContainer" style="background-image: url({{ image_url }});">
     <h1 class="blog-post-title">{{ page.title }}</h1>
     <h3 class="blog-post-date">{% include translated_date.html date=page.date format="%d %B %Y" lang="pl" %}</h3>
+    <h5 class="blog-post-readTime">Czas czytania: ok. {{ page.readtime }}</h5>
 </section>
 
-<article class="container-fluid blog-post-content">
+<article class="container-fluid blog-post-content {% if page.hide_header %}mb-0{% endif %}">
     <div class="row blog-post-content-row">
         <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
             {% include blog_sticky_social_section.html %}
@@ -20,6 +21,6 @@ is_blog_page: true
         </div>
     </div>
 </article>
-
-{% include footer.html dark_footer=true %}
+{% assign hideHeader = page.hide_header %}
+{% include footer.html dark_footer=true hide_header=hideHeader %}
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b60672029bdcd8b"></script>

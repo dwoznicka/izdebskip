@@ -119,14 +119,15 @@
         position: relative;
 
         @media (max-width: $screen-sm-max) {
-            height: 100vh;
+            height: 95vh;
+            height: calc(100vh - 50px);
             background-attachment: unset;
         }
     }
 
     &-title {
         position: absolute;
-        bottom: 50px;
+        bottom: 70px;
         left: 50px;
         font-size: 40px;
         letter-spacing: 1px;
@@ -139,6 +140,16 @@
     }
 
     &-date {
+        position: absolute;
+        bottom: 45px;
+        left: 50px;
+        font-size: 16px;
+        letter-spacing: 1px;
+        width: 75%;
+        text-align: left;
+    }
+
+    &-readTime {
         position: absolute;
         bottom: 20px;
         left: 50px;
@@ -154,7 +165,7 @@
         * {
             color: $brand-blue;
             font-size: 19px;
-            line-height: 1.4;
+            line-height: 1.6;
             letter-spacing: 0.5px;
             margin-bottom: 30px;
 
@@ -207,6 +218,7 @@
             blockquote {
                 position: relative;
                 font-size: 17px;
+                font-style: italic;
                 color: $brand-blue-alpha;
 
                 &::before {
