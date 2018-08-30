@@ -1,11 +1,9 @@
 
 {% if layout.is_blog_page %}
-<meta property="og:title" content="{{ page.title | xml_escape }}">
-{% else %}
 <meta property="og:title" content="{{ page.title_og | xml_escape }}">
-{% endif %}
-
-{% if page.description %}
+<meta property="og:description" content="{{ page.title_og }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+{% else %}
+<meta property="og:title" content="{{ page.title | xml_escape }}">
 <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
 {% endif %}
 

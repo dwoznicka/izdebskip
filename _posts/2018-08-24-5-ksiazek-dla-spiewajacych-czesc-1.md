@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "7 Książek Dla Śpiewających! CZ.&nbsp;1"
-title_og: "7 Książek Dla Śpiewających! CZ. 1"
+title:  "5 Książek Dla Śpiewających! CZ.&nbsp;1"
+title_og: "5 Książek Dla Śpiewających! CZ. 1"
 readtime: "8 minut"
 description: "Post, który czytacie, był w&nbsp;mojej głowie już od dawna. Książki poniżej odmieniły znacznie mój wokalny świat. Trzeba jednak pamiętać, że śpiewanie to nie jest umiejętność, której można nauczyć&nbsp;się z&nbsp;książki..."
-image_url: 'https://res.cloudinary.com/pawel-izdebski/image/upload/v1535297323/pawel-izdebski-14_fot_Grzegorz_Mandziak.jpg'
-image_index_url: 'https://res.cloudinary.com/pawel-izdebski/image/upload/c_scale,w_720/v1535297323/pawel-izdebski-14_fot_Grzegorz_Mandziak.jpg'
+image_url: 'https://res.cloudinary.com/pawel-izdebski/image/upload/v1535634895/BLOG/5-ksiazek-dla-spiewajacych-czesc-1/IMG_1446.jpg'
+image_index_url: 'https://res.cloudinary.com/pawel-izdebski/image/upload/c_scale,w_720/v1535634895/BLOG/5-ksiazek-dla-spiewajacych-czesc-1/IMG_1446.jpg'
 hide_header: true
 ---
 
