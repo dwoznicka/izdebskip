@@ -14,4 +14,9 @@
         will-change: background-position;
         transition: background-position 2s linear;
     }
+
+    &.blogpost .blog-post-titleContainer *,
+    &.blogpost .blog-post-content * {
+        font-family: 'Lato', sans-serif !important;
+    }
 }
