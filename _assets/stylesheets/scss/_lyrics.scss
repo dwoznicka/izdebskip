@@ -133,4 +133,8 @@
         color: $brand-white;
         letter-spacing: 0.4px;
     }
+
+    &-dialog {
+        max-width: 600px !important;
+    }
 }
