@@ -1,0 +1,18 @@
+{% assign post = include.article %}
+{% assign image_url = post.image_url %}
+
+<article class="blog-post-container" style="border-color: #ffffff50 !important;">
+    <div class="blog-post-container-inner">
+        <a class="blog-post-snippet" href="{{ post.url }}">
+            <div class="img-responsive-container">
+                <img class="img-responsive post-image" src="{{ image_url }}" alt="{{ post.title }}" />
+            </div>
+            <h4 class="post-title">{{ post.title }}</h4>
+        </a>
+    </div>
+    <div class="snippet-footer">
+        <div class="post-date">
+            <span>{{ post.author }}</span>
+        </div>
+    </div>
+</article>

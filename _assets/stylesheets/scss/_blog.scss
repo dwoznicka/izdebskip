@@ -210,6 +210,56 @@
                 padding-left: 0;
             } 
 
+            ol {
+                counter-reset: li;
+                margin-left: 0; 
+                padding-left: 0; 
+            }
+            ol > li {
+                position: relative;
+                padding: 4px 2px;
+                list-style: none; 
+
+                p:first-child {
+                    margin: 0 0 30px 1em; 
+
+                    strong {
+                        font-size: 22px;
+
+                        @media (max-width: $screen-sm-max) {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+            ol > li:before {
+                content: counter(li)'.';
+                counter-increment: li;
+                position: absolute;
+                top: 0px;
+                left: -1em;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+                width: 2em;
+                margin-right: 8px;
+                padding: 4px;
+                text-align: center;
+                font-size: 22px;
+                font-weight: bold;
+
+                @media (max-width: $screen-sm-max) {
+                    font-size: 20px;
+                }
+            }
+            li ol,
+            li ul {
+                margin-top: 6px;
+            }
+            ol ol li:last-child {
+                margin-bottom: 0;
+            }
+
             small {
                 font-size: 12px;
                 color: $brand-blue-alpha;    
