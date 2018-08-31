@@ -24,6 +24,15 @@
         }
     }
 
+    &-modal-ytlink {
+        &:hover {
+            color: $brand-white;
+            font-weight: bold;
+            text-decoration: underline;
+            text-decoration-color: $brand-violet;
+        }
+    }
+
     &-row {
         padding: 75px 0;
     }

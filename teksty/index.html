@@ -28,6 +28,11 @@ body_class: 'black'
                         <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
+                    <div class="modal-header">
+                        {% if lyric.yt_link %}
+                            <a target="_blank" href="{{ lyric.yt_link}}" class="lyrics-modal-ytlink"><i class="fab fa-youtube"></i> Posłuchaj na Youtube >></a>
+                        {% endif %}
+                    </div>
                     <div class="modal-body">
                         {{ lyric.text | xml_escape | newline_to_br }}
                     </div>
