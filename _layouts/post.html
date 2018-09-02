@@ -8,7 +8,7 @@ body_class: 'blogpost'
 {% assign image_url = page.image_url %}
 <section class="container-fluid blog-post-titleContainer" style="background-image: url({{ image_url }});">
     <h1 class="blog-post-title">{{ page.title }}</h1>
-    <h3 class="blog-post-date">{% include translated_date.html date=page.date format="%d %B %Y" lang="pl" %}</h3>
+    <h3 class="blog-post-date">{% include translated_date.html date=page.date format="%e %B %Y" lang="pl" %}</h3>
     <h5 class="blog-post-readTime">Czas czytania: ok. {{ page.readtime }}</h5>
 </section>
 
