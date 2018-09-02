@@ -3,6 +3,12 @@ $(document).ready(function() {
     var $calendarMobile = $('.home-calendar-events--mobile');
     var $blogBackground = $('.base.blog');
     var $galleryImages = $('.gallery-row');
+    var $newsletterSubmitBtn = $('.newsletter-submit');
+
+    $newsletterSubmitBtn.on('click', function () {
+        var email = $('.newsletter-input').val();
+        ga('set', 'userId', email); 
+    });
 
     if ($galleryImages.length) {
         $galleryImages.slick({
