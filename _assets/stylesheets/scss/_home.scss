@@ -9,7 +9,7 @@
         position: relative;
 
         &::after {
-            background-image: url("https://res.cloudinary.com/pawel-izdebski/image/upload/v1535055240/pawel-izdebski.jpg");
+            background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg");
             /* Create the parallax scrolling effect */
             background-attachment: fixed;
             background-position: top right;
@@ -36,7 +36,7 @@
             background-color: unset;
 
             &::after {
-                background-image: url("https://res.cloudinary.com/pawel-izdebski/image/upload/v1535055240/pawel-izdebski.jpg");
+                background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg");
                 background-position: top right;
                 background-repeat: no-repeat;
                 background-size: cover;
