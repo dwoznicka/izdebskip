@@ -3,9 +3,9 @@ name: Paweł Izdebski Official
 baseurl: "" # production
 # baseurl: "" #development
 # url: "http://localhost:4000" # development
-url: "https://www.pawelizdebski.pl" # production domain
-copyright: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
-copyright_short: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>.
+url: "https://pawelizdebski.pl" # production domain
+copyright: 2018 © <a href="https://pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
+copyright_short: 2018 © <a href="https://pawelizdebski.pl" class="site-link">Paweł Izdebski</a>.
 made_by: 'Made with ❤ by DW'
 # Build settings
 markdown: kramdown
