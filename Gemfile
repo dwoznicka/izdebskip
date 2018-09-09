@@ -17,6 +17,7 @@ group :jekyll_plugins do
   gem 'sprockets', '3.7.2'
   gem 'jekyll-assets', '~> 2.2.0'
   gem "jekyll-feed", "~> 0.6"
+  gem "activesupport"
 end
 
 group :development do 

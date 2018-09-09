@@ -96,3 +96,17 @@
 .insta-invitation {
     height: auto;
 }
+
+.report-container {
+  .gallery {
+    &-hint {
+      color: $brand-blue;
+    }
+    
+    &-arrows {
+      .slick-arrow {
+        color: $brand-blue;
+      }
+    }
+  }
+}

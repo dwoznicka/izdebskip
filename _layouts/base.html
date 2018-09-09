@@ -6,11 +6,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
         {% if layout.is_blog_page %}
-            <title>{{ site.title }}{% if page.title_og %} | {{ page.title_og }}{% endif %}</title>
-            <meta name="description" content="{{ page.title_og }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber." />
+            <title>{{ site.title }}{% if page.title_og %} | {{ page.title_og }}{% elsif page.title %} | {{ page.title }}{% endif %}</title>
+            <meta name="description" content="{% if page.title_og %}{{ page.title_og }}{% else %}{{ page.title }}{% endif %} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta, piosenkopisarz i youtuber." />
         {% else %}
             <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-            <meta name="description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber." />
+            <meta name="description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta, piosenkopisarz i youtuber." />
         {% endif %}
         <meta name="copyright" content="{{ site.copyright | strip_html | xml_escape }}"/>
         <meta name="keywords" content="Paweł,Izdebski,songwriter,piosenkopisarz,youtuber,gitarzysta,guitarist,wokalista,vocalist,bluepop,książę,naiwności,Accantus,Roma,Eamon">

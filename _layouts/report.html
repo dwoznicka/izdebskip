@@ -1,0 +1,64 @@
+---
+layout: base
+is_blog_page: true
+body_class: 'white'
+---
+
+{% include navbar.html %}
+{% assign report = page.report %}
+
+<div class="container-fluid report-container">
+    <div class="report-header">
+        <h1 class="report-title">{{ report.title }}</h1>
+    </div>
+    <div class="container mt-5">
+        {% if report.upper_text %}
+            <div class="row report-content">
+                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
+                    <div class="col-md-12">
+                        <p>
+                            {{ report.upper_text }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+        <div class="row gallery-row mt-3">
+            {% assign photos = report.photos | sort:"position" %}
+            {% for photo in photos %}
+                <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">
+                    <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="Paweł Izdebski fot. {{ photo.author }}">
+                        <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="Paweł Izdebski fot. {{ photo.author }}">
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
+        <div class="gallery-arrows"></div>
+        {% if report.lower_text %}
+            <div class="row report-content">
+                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
+                    <div class="col-md-12">
+                        <p>
+                            {{ report.lower_text }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    <div class="report-separator report-separator--white">
+
+    </div>
+    <div class="container-fluid report-videos-container">
+        <div class="row" class="insta-invitation">
+            <h2 class="gallery-channel-invitation">
+                <a href="{{ '/news/' | absolute_url }}" target="_blank">ZOBACZ WIĘCEJ NEWSÓW I REPORTAŻY  >> </a>
+            </h2>
+        </div>
+    </div>
+    <div class="report-separator report-separator--color mb-5">
+    </div>
+</div>
+{% include footer.html dark_footer=true %}
+

@@ -22,3 +22,67 @@
   title: "Once w złotej dziesiątce!"
   subtitle: 'Zapraszam na "Once" do Teatru Roma, w którym wcielam się w rolę Eamona. Spektakl znalazł się w złotej dziesiątce musicali w nadchodzącym sezonie!'
   position: 3
+
+- id: 'fotorelacja-7-wrzesnia-2018-lodz'
+  position: 4
+  is_report: true
+  image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-kasia-tu-lodz-1.png"
+  author: "7 września 2018"
+  title: 'PAWEŁ IZDEBSKI & Kasia Mazurkiewicz w TU, Łódź - Fotorelacja | 7 września 2018'
+  upper_text: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis nibh non ligula imperdiet facilisis id a elit. Suspendisse efficitur aliquet sem et interdum. Nunc sit amet arcu ante. Duis quis purus condimentum, placerat lectus eget, bibendum metus. Praesent ornare est et est pharetra, ut sagittis diam sollicitudin. Suspendisse potenti. Nunc fermentum imperdiet lectus id rutrum. Donec ut augue a quam lacinia tristique. Pellentesque placerat sapien non dolor pharetra aliquet. Maecenas facilisis, enim eget condimentum fermentum, lorem neque ornare enim, in cursus neque velit ac ligula. Integer dui tellus, efficitur bibendum vestibulum sit amet, mollis nec odio. Phasellus rutrum a justo sed mollis. Proin eleifend dignissim convallis. Pellentesque scelerisque urna ut lectus lacinia, at tincidunt nulla mollis.
+  lower_text: |
+    Maecenas scelerisque ipsum <b>ipsum</b>, at sodales ligula imperdiet a. Praesent vitae dui eget ante pharetra cursus. Donec blandit gravida dolor. Sed bibendum magna a sodales sodales. Pellentesque ultrices lectus ligula, id tristique odio ultricies sit amet. Fusce placerat aliquam est et aliquam. Fusce porttitor urna massa, vel placerat erat convallis id. Vestibulum mollis, sapien sit amet viverra varius, ante nisl interdum lacus, vitae posuere nulla augue et ipsum. Maecenas in justo id augue facilisis mattis ac ac mauris. Aenean laoreet suscipit justo ut pretium. Suspendisse condimentum neque sed ligula hendrerit, quis pulvinar justo ullamcorper. Integer pretium diam dui, id pretium velit tincidunt quis.<br/><br/>
+    Suspendisse ultricies eros ut velit cursus auctor. Proin id metus in nibh tristique volutpat sed eu est. Integer finibus, libero et porttitor condimentum, metus lectus elementum dui, ac faucibus enim enim et leo. In hendrerit sapien a purus blandit facilisis. Donec eget rutrum ligula, id gravida nibh. Vivamus vel faucibus arcu. Sed vel eros diam.
+  photos:
+    - position: 0
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 6
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-2+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 7
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-0+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 3
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-3+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 4
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-4+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 5
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-10+fot+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 1
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-15+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 2
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-16+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 8
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-12+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 9
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-11+fot.+Magdalena+Kubiak.jpg
+      author: Magdalena Kubiak
+    - position: 10
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-5+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 11
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-14+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 12
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-13+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 13
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-9+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 14
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-6+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 15
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-8+fot.+Grzegorz+Mandziak.jpg
+      author: Grzegorz Mandziak
+    - position: 16
+      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-7+fot.+Rafa%C5%82+Ogrodowczyk.jpg
+      author: Rafał Ogrodowczyk
