@@ -8,6 +8,9 @@
                 <img class="img-responsive post-image" src="{{ image_url }}" alt="{{ post.title }}" />
             </div>
             <h4 class="post-title">{{ post.title }}</h4>
+            {% if post.subtitle %}
+                <h6 class="post-excerpt-news">{{ post.subtitle }}</h6>
+            {% endif %}
         </a>
     </div>
     <div class="snippet-footer">
