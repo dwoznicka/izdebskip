@@ -16,6 +16,9 @@ namespace :site do
       "source"      => ".",
       "destination" => "_site"
     })).process
+    
+    system "touch _site/CNAME"
+    system "echo 'pawelizdebski.pl' >> _site/CNAME"
   end
 
 

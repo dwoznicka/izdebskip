@@ -1,4 +1,11 @@
-- url: 'http://mad-music.pl/chce-lapac-momenty-w-ktorych-beda-przechodzily-mnie-ciarki-wywiad-z-pawlem-izdebskim/'
+- url: 'http://mad-music.pl/chce-lapac-momenty-w-ktorych-beda-przechodzily-mnie-ciarki-wywiad-z-pawlem-izdebskim/?utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=wywiady'
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-13+fot.+Grzegorz+Mandziak.jpg'
   author: 'mad-music.pl'
   title: '„CHCĘ ŁAPAĆ MOMENTY, W KTÓRYCH BĘDĄ PRZECHODZIŁY MNIE CIARKI” – WYWIAD Z PAWŁEM IZDEBSKIM'
+  position: 0
+
+- url: 'https://www.facebook.com/heartrockowanie/photos/a.200992117095611/410629042798583/?type=3&theater=&utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=hr2019'
+  image_url: 'https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/41250489_410629046131916_7494321506038579200_n.jpg?_nc_cat=0&oh=92810d241e4364b1e37c8bf0860661a9&oe=5C2FB179'
+  author: 'HeartRockowanie'
+  title: "HeartRockowanie 2019 - Ogłoszenie Artysty"
+  position: 1
