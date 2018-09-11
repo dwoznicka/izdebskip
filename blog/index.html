@@ -18,6 +18,8 @@ pagination:
     <h1 class="blog-title">PAWEŁ IZDEBSKI | BLOG</h1>
     <section class="blog-page-wrapper">
         <div class="blog-snippets-wrapper">
+            <div class="grid-sizer"></div>
+            <div class="gutter-sizer"></div>
             {% for post in paginator.posts %}
                 {% capture thecycle %}{% cycle '', 'rev' %}
                 {% endcapture %}

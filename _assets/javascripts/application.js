@@ -4,11 +4,21 @@ $(document).ready(function() {
     var $blogBackground = $('.base.blog');
     var $galleryImages = $('.gallery-row');
     var $newsletterSubmitBtn = $('.newsletter-submit');
+    var $gridWrapper = $('.blog-snippets-wrapper');
 
     $newsletterSubmitBtn.on('click', function () {
         var email = $('.newsletter-input').val();
         ga('set', 'userId', email); 
     });
+
+    if ($gridWrapper.length) {
+        $gridWrapper.masonry({
+            columnWidth: '.grid-sizer',
+            itemSelector: '.blog-post-container',
+            percentPosition: true,
+            gutter: '.gutter-sizer'
+        });
+    }
 
     if ($galleryImages.length) {
         $galleryImages.slick({

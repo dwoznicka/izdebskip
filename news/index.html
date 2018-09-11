@@ -16,6 +16,8 @@ body_class: 'black'
 
         <section class="blog-page-wrapper container mb-4 mt-2">
             <div class="blog-snippets-wrapper">
+                <div class="grid-sizer"></div>
+                <div class="gutter-sizer"></div>
                 {% assign news = site.data.news | sort:"position" | reverse %}
                 {% for article in news %}
                     {% include news_snippet.html article=article  %}
