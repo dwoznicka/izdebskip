@@ -29,60 +29,93 @@
   image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-kasia-tu-lodz-1.png"
   author: "7 września 2018"
   title: 'PAWEŁ IZDEBSKI & Kasia Mazurkiewicz w TU, Łódź - Fotorelacja | 7 września 2018'
-  upper_text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis nibh non ligula imperdiet facilisis id a elit. Suspendisse efficitur aliquet sem et interdum. Nunc sit amet arcu ante. Duis quis purus condimentum, placerat lectus eget, bibendum metus. Praesent ornare est et est pharetra, ut sagittis diam sollicitudin. Suspendisse potenti. Nunc fermentum imperdiet lectus id rutrum. Donec ut augue a quam lacinia tristique. Pellentesque placerat sapien non dolor pharetra aliquet. Maecenas facilisis, enim eget condimentum fermentum, lorem neque ornare enim, in cursus neque velit ac ligula. Integer dui tellus, efficitur bibendum vestibulum sit amet, mollis nec odio. Phasellus rutrum a justo sed mollis. Proin eleifend dignissim convallis. Pellentesque scelerisque urna ut lectus lacinia, at tincidunt nulla mollis.
-  lower_text: |
-    Maecenas scelerisque ipsum <b>ipsum</b>, at sodales ligula imperdiet a. Praesent vitae dui eget ante pharetra cursus. Donec blandit gravida dolor. Sed bibendum magna a sodales sodales. Pellentesque ultrices lectus ligula, id tristique odio ultricies sit amet. Fusce placerat aliquam est et aliquam. Fusce porttitor urna massa, vel placerat erat convallis id. Vestibulum mollis, sapien sit amet viverra varius, ante nisl interdum lacus, vitae posuere nulla augue et ipsum. Maecenas in justo id augue facilisis mattis ac ac mauris. Aenean laoreet suscipit justo ut pretium. Suspendisse condimentum neque sed ligula hendrerit, quis pulvinar justo ullamcorper. Integer pretium diam dui, id pretium velit tincidunt quis.<br/><br/>
-    Suspendisse ultricies eros ut velit cursus auctor. Proin id metus in nibh tristique volutpat sed eu est. Integer finibus, libero et porttitor condimentum, metus lectus elementum dui, ac faucibus enim enim et leo. In hendrerit sapien a purus blandit facilisis. Donec eget rutrum ligula, id gravida nibh. Vivamus vel faucibus arcu. Sed vel eros diam.
-  photos:
+  paragraph_1: |
+    Do wszystkich obecnych na ostatnim koncercie w Łodzi! Jak mogliście!<br/>
+    Jak mogliście mnie tak zaskoczyć i doprowadzić do rumieńców!
+    7 września zagraliśmy po raz drugi z Kasią Mazurkiewicz (piano) w Łodzi, 
+    w cudownym miejscu o nazwie “TU”. I choć właścicielki zmieniły lokalizację na jeszcze 
+    lepszą, to atmosfera została, a nawet zrobiło się o wiele goręcej. 
+  photos_1:
     - position: 0
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
-    - position: 6
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-2+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
-    - position: 7
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-0+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
-    - position: 3
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-3+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
-    - position: 4
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-4+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
-    - position: 5
-      url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-10+fot+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-7+fot.+Rafa%C5%82+Ogrodowczyk.jpg'
+      author: Piotr Kędzia
+    - position: 1
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-2+fot.+Magdalena+Kubiak.jpg'
+      author: Piotr Kędzia
+  paragraph_2: |
+    Wiecie co? Uwielbiam ten moment, kiedy na 15 minut przed rozpoczęciem słyszę dźwięk 
+    Waszych rozmów, uśmiechów i drinków zamawianych na barze. I potem wychodzimy z Kasią i 
+    widzę Wasze twarze i robi mi się gorąco. Puls się zwiększa, staję na scenie i zaczynamy 
+    pierwsze dźwięki piosenki, a Wy… w skupieniu słuchacie. Mam wielkie szczęście. 
+    Miałem wrażenie, że nie było tu przypadkowych osób, a nawet jeśli, to w ogóle tego nie 
+    odczułem. Nie wspomnę o tym, że dwa dni przed koncertem obchodziłem swoje 28 urodziny, 
+    długo czekałem na ten koncert. Nie będę ukrywał, spodziewałem się, że ktoś złoży mi 
+    spóźnione życzenia, ale Wy… przygotowaliście się o wiele lepiej ode mnie.
+  photos_2:
+    - position: 0
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-3+fot.+Magdalena+Kubiak.jpg'
+      author: Piotr Kędzia
+    - position: 1
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-12+fot.+Magdalena+Kubiak.jpg'
+      author: Piotr Kędzia
+  paragraph_3: |
+    Zawsze, gdy jadę na swój koncert, to na dzień przed jak i w dniu koncertu - wizualizuję, 
+    zakładam najgorsze scenariusze typu - zerwie mi się struna na pierwszym utworze, 
+    będzie burza i nie będzie prądu, potknę się na schodach z ukulele, które złamie się w pół. 
+    Nic takiego się nie stało. Z ręką na sercu mogę napisać, że był to chyba mój najlepszy 
+    koncert, jeśli chodzi o klimat, atmosferę i ludzi. Sprawiliście, że ciężko mi było 
+    odszukać cień dyskomfortu czy napięcia, wydawałem z siebie dźwięki, o których nigdy nie 
+    myślałem i poczułem się przez kilka chwil wolny i najszczęśliwszy. Dla tych momentów 
+    występuję. Narkotyk.
+  photos_3:
+    - position: 0
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-14+fot.+Grzegorz+Mandziak.jpg'
+      author: Piotr Kędzia
+    - position: 1
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-8+fot.+Grzegorz+Mandziak.jpg'
+      author: Piotr Kędzia
+    - position: 2
+      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-7+fot.+Rafa%C5%82+Ogrodowczyk.jpg'
+      author: Piotr Kędzia
+  paragraph_4: |
+    Dziękuję Wam za obecność i mam nadzieję, że to nie był nasz ostatni raz. Ściskam 
+    najmocniej Olę, Zuzię, Mamę Oli i Zuzi, które nas zaprosiły i ugościły, Nidi i Magika 
+    za pomoc i fireshow, który uświetnił koncert, Artura, który nas nagłośnił, Piotra, który 
+    uwiecznił ten koncert i nas wszystkich, Darię, która była moim aniołem stróżem tego dnia 
+    oraz Kasię, której jestem wdzięczny za to, że przelewa swoją wrażliwość na moją muzykę i 
+    jest najlepszym przyjacielem na scenie. Widzimy się wkrótce :)
+  photos_4:
     - position: 1
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-15+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
+      author: Piotr Kędzia
     - position: 2
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-16+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
+      author: Piotr Kędzia
     - position: 8
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-12+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
+      author: Piotr Kędzia
     - position: 9
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-11+fot.+Magdalena+Kubiak.jpg
-      author: Magdalena Kubiak
+      author: Piotr Kędzia
     - position: 10
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-5+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 11
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-14+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 12
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-13+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 13
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-9+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 14
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-6+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 15
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-8+fot.+Grzegorz+Mandziak.jpg
-      author: Grzegorz Mandziak
+      author: Piotr Kędzia
     - position: 16
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-7+fot.+Rafa%C5%82+Ogrodowczyk.jpg
-      author: Rafał Ogrodowczyk
+      author: Piotr Kędzia
+  paragraph_5: "Zdjęcia: Piotr Kędzia"

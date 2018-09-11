@@ -2,9 +2,15 @@ $(document).ready(function() {
     var $calendar = $('.home-calendar-events');
     var $calendarMobile = $('.home-calendar-events--mobile');
     var $blogBackground = $('.base.blog');
-    var $galleryImages = $('.gallery-row');
+    var $galleryImages = $('.gallery-row-main');
     var $newsletterSubmitBtn = $('.newsletter-submit');
     var $gridWrapper = $('.blog-snippets-wrapper');
+
+    var $reportGallery1 = $('.gallery-row-1');
+    var $reportGallery2 = $('.gallery-row-2');
+    var $reportGallery3 = $('.gallery-row-3');
+    var $reportGallery4 = $('.gallery-row-4');
+    var $reportGallery5 = $('.gallery-row-5');
 
     $newsletterSubmitBtn.on('click', function () {
         var email = $('.newsletter-input').val();
@@ -27,6 +33,111 @@ $(document).ready(function() {
             slidesToShow: 3,
             infinite: false,
             appendArrows: $('.gallery-arrows'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery1.length) {
+        $reportGallery1.slick({
+            vertical: false,
+            slidesToScroll: 2,
+            slidesToShow: 2,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-1'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery2.length) {
+        $reportGallery2.slick({
+            vertical: false,
+            slidesToScroll: 2,
+            slidesToShow: 2,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-2'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery3.length) {
+        $reportGallery3.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-3'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery4.length) {
+        $reportGallery4.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-4'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery5.length) {
+        $reportGallery5.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-5'),
             prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
             nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
             responsive: [
