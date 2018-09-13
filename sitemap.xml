@@ -37,4 +37,12 @@ exclude:
   </url>
   {% endfor %}
 
+  {% for url in site.data['news_urls'] %}
+    <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <loc>{{site.url}}{{ url | trailing_slash }}</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>daily</changefreq>
+    </url>
+  {% endfor %}
+
 </urlset>

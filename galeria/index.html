@@ -13,7 +13,7 @@ body_class: 'black'
     <div class="music-separator music-separator--color">
     </div>
     <div class="container">
-        <div class="row gallery-row">
+        <div class="row gallery-row gallery-row-main">
             {% assign photos = site.data.gallery | sort:"position" %}
             {% for photo in photos %}
                 <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">

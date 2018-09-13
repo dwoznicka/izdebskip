@@ -16,6 +16,8 @@ instagram_url: 'https://www.instagram.com/nieokiemznany/'
 twitter_url: 'https://twitter.com/IzdebskiGra'
 facebook_url: 'https://www.facebook.com/pawelizdebskipl'
 permalink: /blog/:title/
+news_path: '/news'
+news_page_layout: 'report'
 gems:
   - jekyll-watch
   - jekyll-paginate-v2
