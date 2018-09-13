@@ -85,16 +85,16 @@
     oraz Kasię, której jestem wdzięczny za to, że przelewa swoją wrażliwość na moją muzykę i 
     jest najlepszym przyjacielem na scenie. Widzimy się wkrótce :)
   photos_4:
-    - position: 1
+    - position: 8
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-15+fot.+Magdalena+Kubiak.jpg
       author: Piotr Kędzia
-    - position: 2
+    - position: 9
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-16+fot.+Magdalena+Kubiak.jpg
       author: Piotr Kędzia
-    - position: 8
+    - position: 1
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-12+fot.+Magdalena+Kubiak.jpg
       author: Piotr Kędzia
-    - position: 9
+    - position: 2
       url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-11+fot.+Magdalena+Kubiak.jpg
       author: Piotr Kędzia
     - position: 10

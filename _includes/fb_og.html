@@ -12,12 +12,8 @@
     <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
 {% endif %}
 
-{% if layout.is_blog_page %}
-    {% if page.image_index_url %}
-        <meta property="og:image" content="{{ page.image_index_url }}">
-    {% else %}
-        <meta property="og:image" content="{{ 'ksiaze_naiwnosci_450.png' | asset_path | absolute_url}}">
-    {% endif %}
+{% if page.image_index_url %}
+    <meta property="og:image" content="{{ page.image_index_url }}">
 {% else %}
     <meta property="og:image" content="{{ 'ksiaze_naiwnosci_450.png' | asset_path | absolute_url}}">
 {% endif %}

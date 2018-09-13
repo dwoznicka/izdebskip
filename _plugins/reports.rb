@@ -12,6 +12,7 @@ module Jekyll
       self.data['report'] = report
       self.data['title'] = "#{report['title']} | Relacja"
       self.data['description'] = report['title']
+      self.data['image_index_url'] = report['image_url']
     end
   end
   
