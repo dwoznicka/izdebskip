@@ -7,10 +7,11 @@
         background-color: $brand-blue;
     }
 
-    &.report {
+    &.white {
         background-color: $brand-white;
 
-        .report-content * {
+        .report-content *,
+        .report-title {
             font-family: 'Lato', sans-serif !important;
         }
     }
