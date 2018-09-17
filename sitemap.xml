@@ -20,7 +20,6 @@ exclude:
     <loc>{{site.url}}</loc>
     <priority>1.000</priority>
   </url>
-
   {% for site_page in page.site_pages %}
   <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <loc>{{site.url}}{{site_page}}</loc>
@@ -28,7 +27,6 @@ exclude:
     <changefreq>daily</changefreq>
   </url>
   {% endfor %}
-
   {% for post in site.posts %}
   <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <loc>{{ site.url}}{{ post.url }}</loc>
@@ -36,7 +34,6 @@ exclude:
     <changefreq>daily</changefreq>
   </url>
   {% endfor %}
-
   {% for url in site.data['news_urls'] %}
   <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <loc>{{site.url}}{{ url | trailing_slash }}</loc>
