@@ -100,11 +100,12 @@
 
         &::before {
             content: "“";
+            font-family: 'Playfair Display', serif;
             position: absolute;
             font-size: 200px;
             height: 200px;
             z-index: 0;
-            opacity: 0.4;
+            opacity: 0.3;
             left: -20px;
             top: -20px;
             line-height: 200px;
@@ -124,10 +125,11 @@
         &::before {
             content: "“";
             position: absolute;
+            font-family: 'Playfair Display', serif;
             font-size: 200px;
             height: 200px;
             z-index: 0;
-            opacity: 0.4;
+            opacity: 0.3;
             left: -20px;
             bottom: 0;
             line-height: 200px;
