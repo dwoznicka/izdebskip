@@ -66,14 +66,14 @@
 
     &-header-title {
         font-size: 60px;
-        letter-spacing: 1px;
+        font-family: 'Playfair Display', serif;
+        letter-spacing: 3px;
         text-align: center;
 
         @media (max-width: $screen-sm-max) {
-            font-size: 50px;
-        }
-        @media (max-width: $screen-xs-max) {
+            font-family: 'Lato', sans-serif;
             padding-top: 30vh;
+            font-size: 50px;
         }
     }
 
@@ -125,7 +125,7 @@
     }
 
     &-calendar-title {
-        letter-spacing: 1.4px;
+        letter-spacing: 2px;
         text-align: right;
         text-transform: uppercase;
     }
@@ -191,6 +191,30 @@
 
     .slick-disabled {
         opacity: 0;
+    }
+
+    &-news {
+        margin: 70px 0;
+    }
+
+    &-news-container--mobile {
+        margin: 0 auto;
+        max-width: 90vw;
+    }
+
+    &-news-title {
+        position: absolute;
+        bottom: 20px;
+        left: 9%;
+        text-transform: uppercase;
+        letter-spacing: 1.2px;
+
+        @media (max-width: $screen-sm-max) {
+            position: relative;
+            width: 100%;
+            text-align: right;
+            left: -10px;
+        }
     }
 
     &-calendar-events,
@@ -336,7 +360,7 @@
                 border: 1px $brand-white solid;
                 color: $brand-white;
                 cursor: pointer;
-                line-height: 35px;
+                line-height: 34px;
                 padding: 0 5px;
                 text-align: center;
                 transition: 0.2s all ease;
@@ -352,11 +376,11 @@
                     width: 75px;
                     min-width: 75px; 
                     max-height: 45px;
-                    line-height: 35px;
+                    line-height: 34px;
                 }
 
                 @media (max-width: $screen-sm-max) {
-                    line-height: 45px;
+                    line-height: 44px;
                 }
             }
 

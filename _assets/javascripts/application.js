@@ -5,6 +5,8 @@ $(document).ready(function() {
     var $galleryImages = $('.gallery-row-main');
     var $newsletterSubmitBtn = $('.newsletter-submit');
     var $gridWrapper = $('.blog-snippets-wrapper');
+    var $newsContainer = $('.home-news-container');
+    var $newsContainerMobile = $('.home-news-container--mobile');
 
     var $reportGallery1 = $('.gallery-row-1');
     var $reportGallery2 = $('.gallery-row-2');
@@ -16,6 +18,31 @@ $(document).ready(function() {
         var email = $('.newsletter-input').val();
         ga('set', 'userId', email); 
     });
+
+    if ($newsContainer.length) {
+        $newsContainer.slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: false,
+            draggable: true,
+            vertical: false,
+            infinite: false,
+            arrows: false,
+            dots: true
+        });
+    }
+
+    if ($newsContainerMobile.length) {
+        $newsContainerMobile.slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            draggable: false,
+            vertical: false,
+            infinite: false,
+            arrows: false,
+            dots: true
+        });
+    }
 
     if ($gridWrapper.length) {
         $gridWrapper.masonry({

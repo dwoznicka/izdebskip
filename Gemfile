@@ -11,6 +11,7 @@ gem 'liquid', '~> 3.0.0'
 gem 'liquid-c', '~> 3.0.0'
 gem 'jekyll-paginate-v2', '~> 1.8.2'
 gem 'jekyll-autoprefixer', '~> 1.0', '>= 1.0.1'
+gem 'jekyll-redirect-from'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
