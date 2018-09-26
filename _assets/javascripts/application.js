@@ -1,3 +1,37 @@
+
+/**
+* Smooth scrolling to anchor link under various conditions:
+* - from within the page where the target is (both on page load and after cliking on an anchor link on the same page)
+* - from a different the page where the target is
+**/
+
+function smooth_scroll_to(hash, e) {
+    if(hash === '') {
+        return false;
+    } else {
+        if($(hash).length > 0) {
+            if(typeof e !== 'undefined') {
+                e.preventDefault();
+                history.pushState(null, null, $(e.target).attr('href'));
+            }
+            var offset;
+            if ($(window).width() < 1000) {
+                offset = $('.home-news').eq(1).height() + 150;
+            }
+            else {
+                offset = $('.home-news').eq(0).height() + 300;
+            }
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top - offset
+            }, 350 );
+        }
+    }
+}
+
+$(window).on('load',function() {
+    smooth_scroll_to(window.location.hash);
+});
+
 $(document).ready(function() {
     var $calendar = $('.home-calendar-events');
     var $calendarMobile = $('.home-calendar-events--mobile');
@@ -13,6 +47,11 @@ $(document).ready(function() {
     var $reportGallery3 = $('.gallery-row-3');
     var $reportGallery4 = $('.gallery-row-4');
     var $reportGallery5 = $('.gallery-row-5');
+
+
+    $('#newsLink').on('click', function(e) {
+        smooth_scroll_to('#newsy', e);
+    });
 
     $newsletterSubmitBtn.on('click', function () {
         var email = $('.newsletter-input').val();
