@@ -3,6 +3,7 @@
 @import 'scss/navbar';
 @import 'scss/newsletter';
 @import 'scss/home';
+@import 'scss/news';
 @import 'scss/blog';
 @import 'scss/bio';
 @import 'scss/band';
@@ -11,10 +12,11 @@
 @import 'scss/lyrics';
 @import 'scss/gallery';
 @import 'scss/report';
+@import 'scss/slick';
 
 body,
 body * {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lato', sans-serif;
     color: $brand-white;
 }
 

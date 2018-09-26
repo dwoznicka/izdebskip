@@ -1,7 +1,7 @@
 - url: 'http://mad-music.pl/chce-lapac-momenty-w-ktorych-beda-przechodzily-mnie-ciarki-wywiad-z-pawlem-izdebskim/?utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=wywiady'
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-13+fot.+Grzegorz+Mandziak.jpg'
   author: 'mad-music.pl'
-  title: '„CHCĘ ŁAPAĆ MOMENTY, W KTÓRYCH BĘDĄ PRZECHODZIŁY MNIE CIARKI” – WYWIAD Z PAWŁEM IZDEBSKIM'
+  title: '„Chcę łapać momenty, w których będą przechodziły mnie ciarki” – wywiad dla Mad Music'
   position: 0
 
 - url: 'https://www.facebook.com/heartrockowanie/photos/a.200992117095611/410629042798583/?type=3&theater=&utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=hr2019'
@@ -122,3 +122,15 @@
       url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5635.jpg'
       author: Piotr Kędzia
   paragraph_5: "Zdjęcia: Piotr Kędzia"
+
+- url: 'https://www.youtube.com/watch?v=C1krzFXZuMw&index=1&list=UUoX8tn1NKyWlD1uvf7r0NHw&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/teaser-lowcy.jpg'
+  position: 5
+  author: 'YouTube'
+  title: "Nowe wideo - Łowcy Gwiazd ★ (CLEO Cover) - Paweł Izdebski ft. Pablo Rhodo"
+  
+- url: 'https://www.youtube.com/watch?v=KuXnxb6oieM&index=1&list=UUoX8tn1NKyWlD1uvf7r0NHw&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/no_coz.jpg'
+  position: 6
+  author: 'YouTube'
+  title: "Nocna Sesja Na Strychu: Paweł Izdebski - No Cóż"

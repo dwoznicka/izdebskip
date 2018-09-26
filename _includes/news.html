@@ -1,0 +1,5 @@
+{% assign news = site.data.news | sort:"position" | reverse %}
+
+{% for article in news %}
+    {% include news_snippet.html article=article  %}
+{% endfor %}

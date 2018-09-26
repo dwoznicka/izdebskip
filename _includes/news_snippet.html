@@ -1,17 +1,20 @@
 {% assign post = include.article %}
 {% assign image_url = post.image_url %}
 
-<article class="blog-post-container" style="border-color: #ffffff50 !important;">
-    <div class="blog-post-container-inner">
+<article class="news-post-container" style="border-color: #ffffff50 !important;">
+    <div class="news-post-container-inner">
         {% unless post.is_report %}
-            <a class="blog-post-snippet" href="{{ post.url }}" target="_blank">
+            <a class="news-post-snippet" href="{{ post.url }}" target="_blank">
                 <div class="img-responsive-container">
                     <img class="img-responsive post-image" src="{{ image_url }}" alt="{{ post.title }}" />
                 </div>
                 <h4 class="post-title">{{ post.title }}</h4>
+                {% if post.subtitle %}
+                    <h6 class="post-excerpt-news">{{ post.subtitle }}</h6>
+                {% endif %}
             </a>
         {% else %}
-        <a class="blog-post-snippet" href="{{ post | news_path | absolute_url }}" target="_blank">
+        <a class="news-post-snippet" href="{{ post | news_path | absolute_url }}" target="_blank">
             <div class="img-responsive-container">
                 <img class="img-responsive post-image" src="{{ image_url }}" alt="{{ post.title }}" />
             </div>
