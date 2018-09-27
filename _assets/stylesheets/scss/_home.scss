@@ -204,17 +204,24 @@
 
     &-news-title {
         position: absolute;
-        bottom: 20px;
+        bottom: 140px;
         left: 9%;
         text-transform: uppercase;
-        letter-spacing: 1.2px;
+        letter-spacing: 2.2px;
 
-        @media (max-width: $screen-sm-max) {
-            position: relative;
-            width: 100%;
-            text-align: right;
-            left: -10px;
+        @media (max-width: $screen-md-max) {
+            bottom: 115px;
         }
+    }
+
+    &-news-title--mobile {
+        position: relative;
+        width: 100%;
+        text-align: right;
+        left: -10px;
+        text-transform: uppercase;
+        letter-spacing: 1.2px;
+        margin-bottom: 20px;
     }
 
     &-calendar-events,

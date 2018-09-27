@@ -45,7 +45,9 @@ redirect_from:
             <div class="home-calendar-events">
                 {% include calendar.html %}
             </div>
-            <h4 class="home-news-title">aktualności</h4>
+            <div class="home-news-titleContainer">
+              <h4 class="home-news-title">aktualności</h4>
+            </div>
         </div>
         <div class="home-news row">
           <div class="col-md-10 offset-md-1">
@@ -90,7 +92,7 @@ redirect_from:
             </div>
             <div class="row home-news">
               <div class="col-xs-10 offset-xs-1">
-                <h4 class="home-news-title">aktualności</h4>
+                <h4 class="home-news-title--mobile">aktualności</h4>
                 <div class="home-news-container--mobile">
                   {% include news.html %}
                 </div>
