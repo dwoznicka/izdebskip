@@ -146,3 +146,10 @@
   position: 8
   author: kupbilecik.pl
   title: "Bilety na koncert Solo Act w Toruniu już w sprzedaży na kupbilecik.pl!"
+
+- url: https://www.youtube.com/watch?v=2T-FEmsL40U&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/festiwal-piosenki-gitarowej.png'
+  position: 9
+  author: "Paweł Izdebski & Chwyty Dozwolone"
+  title: "Paweł Jurorem na III Festiwalu Piosenki Gitarowej!"
+  subtitle: "Paweł we współpracy z kanałem Chwyty Dozwolone zapraszają do konkursu!"
