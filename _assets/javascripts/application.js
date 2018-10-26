@@ -61,7 +61,7 @@ $(document).ready(function() {
     if ($newsContainer.length) {
         $newsContainer.slick({
             slidesToShow: 3,
-            slidesToScroll: 1,
+            slidesToScroll: 2,
             autoplay: false,
             draggable: true,
             vertical: false,
