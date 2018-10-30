@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GITARA W&nbsp;DŁOŃ!"
-title_og: "GITARA W& DŁOŃ!"
+title_og: "GITARA W DŁOŃ!"
 readtime: "4 minut"
 second_readtime: "Czas oglądania polecanych filmików: ok. 41 minut"
 description: "Umówmy&nbsp;się, jest ich wiele. Jako uzależniony od youtube’a człowiek, muszę przyznać, że znam większość kanałów, gdzie motywem przewodnim jest gitara – ale jeden kanał to taki, na którym podziwiamy najszybszego gitarzystę na świecie, a&nbsp;drugi to ten który subskrybujemy, bo jego autor jest bardzo charyzmatyczną postacią..."
