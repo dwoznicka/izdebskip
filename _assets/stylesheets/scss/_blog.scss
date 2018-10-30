@@ -129,7 +129,7 @@
 
     &-title {
         position: absolute;
-        bottom: 70px;
+        bottom: 90px;
         left: 50px;
         font-size: 40px;
         letter-spacing: 1px;
@@ -138,20 +138,38 @@
 
         @media (max-width: $screen-sm-max) {
             font-size: 32px;
+            bottom: 110px;
         }
     }
 
     &-date {
         position: absolute;
-        bottom: 45px;
+        bottom: 65px;
         left: 50px;
         font-size: 16px;
         letter-spacing: 1px;
         width: 75%;
         text-align: left;
+
+        @media (max-width: $screen-sm-max) {
+            bottom: 85px;
+        }
     }
 
     &-readTime {
+        position: absolute;
+        bottom: 40px;
+        left: 50px;
+        font-size: 16px;
+        letter-spacing: 1px;
+        width: 75%;
+        text-align: left;
+        @media (max-width: $screen-sm-max) {
+            bottom: 60px;
+        }
+    }
+
+    &-readTime--2 {
         position: absolute;
         bottom: 20px;
         left: 50px;

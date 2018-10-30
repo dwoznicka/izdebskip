@@ -10,6 +10,7 @@ body_class: 'blogpost'
     <h1 class="blog-post-title">{{ page.title }}</h1>
     <h3 class="blog-post-date">{% include translated_date.html date=page.date format="%e %B %Y" lang="pl" %}</h3>
     <h5 class="blog-post-readTime">Czas czytania: ok. {{ page.readtime }}</h5>
+    {% if page.second_readtime %}<h5 class="blog-post-readTime--2">{{ page.second_readtime }}</h5>{% endif %}
 </section>
 
 <article class="container-fluid blog-post-content {% if page.hide_header %}mb-0{% endif %}">
