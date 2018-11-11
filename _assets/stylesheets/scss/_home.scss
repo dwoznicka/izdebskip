@@ -194,7 +194,25 @@
     }
 
     &-news {
-        margin: 70px 0;
+        margin: 70px 0 100px;
+    }
+
+    &-newsLink {
+        position: absolute;
+        bottom: -50px;
+        right: 0;
+
+        @media (max-width: $screen-sm-max) {
+            bottom: -75px;
+            left: 50%;
+            right: unset;
+            -webkit-transform: translateX(-50%);
+            transform: translateX(-50%)
+        }
+    }
+
+    &-newsColumn {
+        position: relative;
     }
 
     &-news-container--mobile {
@@ -221,7 +239,7 @@
         left: -10px;
         text-transform: uppercase;
         letter-spacing: 1.2px;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 
     &-calendar-events,

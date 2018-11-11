@@ -2,8 +2,6 @@
 layout: base
 title: Książę Naiwności
 body_class: 'black'
-redirect_from:
-  - /news/ 
 ---
 {% include navbar_home.html %}
 {% assign video = site.data.home_video.first %}
@@ -54,6 +52,7 @@ redirect_from:
             <div class="home-news-container">
               {% include news.html %}
             </div>
+            <a class="bio-galleryLink home-newsLink" href="{{ "/news/" | absolute_url }}" target="_blank">Zobacz wszystkie Newsy >></a>
           </div>
         </div>
     </div>
@@ -91,11 +90,12 @@ redirect_from:
                 </div>
             </div>
             <div class="row home-news">
-              <div class="col-xs-10 offset-xs-1">
+              <div class="col-xs-10 offset-xs-1 home-newsColumn">
                 <h4 class="home-news-title--mobile">aktualności</h4>
                 <div class="home-news-container--mobile">
                   {% include news.html %}
                 </div>
+                <a class="bio-galleryLink home-newsLink" href="{{ "/news/" | absolute_url }}" target="_blank">Zobacz wszystkie Newsy >></a>
               </div>
             </div>
         </div>

@@ -1,0 +1,30 @@
+---
+layout: base
+title: "Newsy - Wiadomości - Aktualności"
+body_class: 'black'
+---
+
+{% include navbar.html %}
+
+<div class="container-fluid contact-container">
+        <div class="contact-header">
+            <h1 class="contact-title">PAWEŁ IZDEBSKI | NEWSY</h1>
+        </div>
+        <div class="contact-separator contact-separator--color">
+    
+        </div>
+
+        <section class="blog-page-wrapper container mb-4 mt-2">
+            <div class="blog-snippets-wrapper">
+                <div class="grid-sizer"></div>
+                <div class="gutter-sizer"></div>
+                {% assign news = site.data.news | sort:"position" | reverse %}
+                {% for article in news %}
+                    {% include news_snippet.html article=article  %}
+                {% endfor %}
+                <div class="clearfix"></div>
+            </div>
+        </section>
+</div>
+
+{% include footer.html %}
