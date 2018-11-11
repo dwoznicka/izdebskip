@@ -9,6 +9,7 @@ site_pages:
   - /muzyka/
   - /teksty/
   - /zespol/
+  - /news/
 exclude: 
   - /404.html
   - /robots.txt

@@ -1,4 +1,29 @@
 .news {
+  &-page-wrapper {
+
+    .news-snippets-wrapper {
+      margin: 100px 0;
+      margin-right: -5%;
+
+      @media (max-width: $screen-sm-max) {
+        margin: 50px 0;
+        margin-right: 0;
+      }
+    }
+
+    .blog-post-container {
+      margin-right: 2.5%;
+      width: 45%;
+
+      @media (max-width: $screen-sm-max) {
+        margin-right: 0;
+        margin-left: 0;
+        width: 100%;
+      }
+    }
+
+  }
+
   &-post-snippet {
     letter-spacing: 1px;
     overflow: hidden;
@@ -35,8 +60,10 @@
       font-size: 19px;
     }
   }
-  
-  &-post-container {
+}
+
+.home-news {
+  .blog-post-container {
     border: 1px $brand-violet solid;
     border: 1px $brand-violet-alpha solid;
     display: inline-block;
@@ -47,6 +74,6 @@
       font-size: 12px;
       opacity: 0.6;
       padding: 10px 20px;
-  }
+    }
   }
 }
