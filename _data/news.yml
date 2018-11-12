@@ -181,9 +181,9 @@
   title: Paweł Izdebski i Kasia Mazurkiewicz ogłaszają koncert w Blues Club Gdynia
   subtitle: 15 grudnia 2018
 
-# - url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a.jpg'
-#   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a-xs.jpg'
-#   position: 14
-#   author: Ośrodek Działań Twórczych "Pogodna"
-#   title: Paweł Izdebski i Kasia Mazurkiewicz w podwarszawskiej Wesołej!
-#   subtitle: 8 grudnia 2018
+- url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a.jpg'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a-xs.jpg'
+  position: 14
+  author: Ośrodek Działań Twórczych "Pogodna"
+  title: Paweł Izdebski i Kasia Mazurkiewicz w podwarszawskiej Wesołej!
+  subtitle: 8 grudnia 2018
