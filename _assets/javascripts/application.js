@@ -47,6 +47,8 @@ $(document).ready(function() {
     var $reportGallery3 = $('.gallery-row-3');
     var $reportGallery4 = $('.gallery-row-4');
     var $reportGallery5 = $('.gallery-row-5');
+    var $reportGallery6 = $('.gallery-row-6');
+    var $reportGallery7 = $('.gallery-row-7');
 
 
     $('#newsLink').on('click', function(e) {
@@ -204,6 +206,48 @@ $(document).ready(function() {
             slidesToShow: 3,
             infinite: false,
             appendArrows: $('.gallery-arrows-5'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery6.length) {
+        $reportGallery6.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-6'),
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
+            responsive: [
+                {
+                    breakpoint: 1000,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        })
+    }
+
+    if ($reportGallery7.length) {
+        $reportGallery7.slick({
+            vertical: false,
+            slidesToScroll: 3,
+            slidesToShow: 3,
+            infinite: false,
+            appendArrows: $('.gallery-arrows-7'),
             prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
             nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
             responsive: [
