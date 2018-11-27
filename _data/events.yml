@@ -17,16 +17,6 @@
   city: WARSZAWA
   link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
 
-- date: 2018-11-16
-  name: Support przed Ralph Kaminski - Solo Act
-  city: KATOWICE
-  link_tickets: https://goingapp.pl/evt/1784678/p23-ralph-kaminski-pozegnanie-z-m-o-r-z-e-m?utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=calendar
-
-- date: 2018-11-17
-  name: Support przed Ralph Kaminski - Solo Act
-  city: WROCŁAW
-  link_tickets: http://staryklasztor.com.pl/bilety/?utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=calendar
-
 - date: 2018-12-07
   name: Support przed Ralph Kaminski - Solo Act
   city: WARSZAWA
@@ -38,6 +28,11 @@
   link_fb: https://www.facebook.com/events/338096486997536/
 
 - date: 2018-12-14
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+
+- date: 2018-12-11
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
