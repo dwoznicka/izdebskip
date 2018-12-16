@@ -1,16 +1,7 @@
-- date: 2018-12-08
-  name: Paweł Izdebski & Kasia Mazurkiewicz
-  city: WARSZAWA
-
 - date: 2019-02-22
   name: HEARTRockowanie - Walentynki w rytmie rocka
   city: WARSZAWA
   link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
-
-- date: 2018-12-07
-  name: Support przed Ralph Kaminski - Solo Act
-  city: WARSZAWA
-  link_tickets: https://palladium.pl/events/ralph-kaminski-pozegnanie-z-m-o-r-z-e-m/?utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=calendar
 
 - date: 2018-12-15
   name: Paweł Izdebski & Kasia Mazurkiewicz
@@ -27,7 +18,27 @@
   city: POZNAŃ
   link_tickets: https://www.interticket.pl/program/pawel-izdebski-4400
 
-- date: 2018-12-09
+- date: 2019-01-20
+  name: Paweł Izdebski & Kasia Mazurkiewicz
+  city: KRAKÓW
+  link_fb: https://www.facebook.com/events/724024007968863/
+
+- date: 2018-12-29
+  name: Koncert Sylwestrowy - Studio Accantus (18:00)
+  city: OPOLE
+  link_tickets: http://accantus.info/bilety/
+
+- date: 2018-12-30
+  name: Koncert Sylwestrowy - Studio Accantus (18:00)
+  city: OPOLE
+  link_tickets: http://accantus.info/bilety/
+
+- date: 2018-12-31
+  name: Koncerty Sylwestrowe - Studio Accantus (18:00 i 21:30)
+  city: OPOLE
+  link_tickets: http://accantus.info/bilety/
+
+- date: 2019-01-29
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
-  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=01
