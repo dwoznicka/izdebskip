@@ -10,6 +10,7 @@ site_pages:
   - /teksty/
   - /zespol/
   - /news/
+  - /fotorelacje/
 exclude: 
   - /404.html
   - /robots.txt

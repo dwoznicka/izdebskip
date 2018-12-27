@@ -6,6 +6,7 @@
         line-height: 1.45;
         letter-spacing: 0.5px;
         margin-bottom: 30px;
+        word-break: break-word;
 
         @media (max-width: $screen-sm-max) {
             font-size: 17px;

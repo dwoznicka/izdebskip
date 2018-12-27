@@ -41,15 +41,7 @@ $(document).ready(function() {
     var $gridWrapper = $('.blog-snippets-wrapper');
     var $newsContainer = $('.home-news-container');
     var $newsContainerMobile = $('.home-news-container--mobile');
-
-    var $reportGallery1 = $('.gallery-row-1');
-    var $reportGallery2 = $('.gallery-row-2');
-    var $reportGallery3 = $('.gallery-row-3');
-    var $reportGallery4 = $('.gallery-row-4');
-    var $reportGallery5 = $('.gallery-row-5');
-    var $reportGallery6 = $('.gallery-row-6');
-    var $reportGallery7 = $('.gallery-row-7');
-
+    var $reportGalleryRows = $('.gallery-row');
 
     $('#newsLink').on('click', function(e) {
         smooth_scroll_to('#newsy', e);
@@ -115,13 +107,14 @@ $(document).ready(function() {
         })
     }
 
-    if ($reportGallery1.length) {
-        $reportGallery1.slick({
+    if ($reportGalleryRows.length) {
+        $reportGalleryRows.each( function (index) {
+            $(this).slick({
             vertical: false,
-            slidesToScroll: 2,
+            slidesToScroll: 1,
             slidesToShow: 2,
             infinite: false,
-            appendArrows: $('.gallery-arrows-1'),
+            appendArrows: $('.gallery-arrows-'+index),
             prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
             nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
             responsive: [
@@ -133,133 +126,8 @@ $(document).ready(function() {
                     }
                 }
             ]
-        })
-    }
-
-    if ($reportGallery2.length) {
-        $reportGallery2.slick({
-            vertical: false,
-            slidesToScroll: 2,
-            slidesToShow: 2,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-2'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
-    }
-
-    if ($reportGallery3.length) {
-        $reportGallery3.slick({
-            vertical: false,
-            slidesToScroll: 3,
-            slidesToShow: 3,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-3'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
-    }
-
-    if ($reportGallery4.length) {
-        $reportGallery4.slick({
-            vertical: false,
-            slidesToScroll: 3,
-            slidesToShow: 3,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-4'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
-    }
-
-    if ($reportGallery5.length) {
-        $reportGallery5.slick({
-            vertical: false,
-            slidesToScroll: 3,
-            slidesToShow: 3,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-5'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
-    }
-
-    if ($reportGallery6.length) {
-        $reportGallery6.slick({
-            vertical: false,
-            slidesToScroll: 3,
-            slidesToShow: 3,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-6'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
-    }
-
-    if ($reportGallery7.length) {
-        $reportGallery7.slick({
-            vertical: false,
-            slidesToScroll: 3,
-            slidesToShow: 3,
-            infinite: false,
-            appendArrows: $('.gallery-arrows-7'),
-            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
-        })
+            });
+        });
     }
 
     if ($calendar.length) {

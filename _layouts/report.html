@@ -12,181 +12,34 @@ body_class: 'white'
         <h1 class="report-title">{{ report.title }}</h1>
     </div>
     <div class="container mt-5">
-        {% if report.paragraph_1 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_1 }}
-                        </p>
+        {% for paragraph in report.paragraphs %}
+            {% if paragraph.text %}
+                <div class="row report-content">
+                    <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
+                        <div class="col-md-12">
+                            <p class="mt-5">
+                                {{ paragraph.text }}
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
-        {% endif %}
-        {% if report.photos_1 %}
-        <div class="row gallery-row gallery-row-1 mt-3">
-            {% assign photos = report.photos_1 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-6 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows gallery-arrows-1"></div>
-        {% endif %}
-        {% if report.paragraph_2 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_2 }}
-                        </p>
+            {% endif %}
+            {% if paragraph.photos %}
+                <div class="row gallery-row gallery-row-{{ paragraph.position }} mt-3">
+                    {% assign photos = paragraph.photos | sort:"position" %}
+                    {% for photo in photos %}
+                    <div class="col-xs-12 col-sm-12 col-md-12 mb-3 gallery-col">
+                        <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
+                            <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
+                        </a>
                     </div>
+                    {% endfor %}
                 </div>
-            </div>
-        {% endif %}
-        {% if report.photos_2 %}
-        <div class="row gallery-row gallery-row-2 mt-3">
-            {% assign photos = report.photos_2 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-6 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows gallery-arrows-2"></div>
-        {% endif %}
-        {% if report.paragraph_3 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_3 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
-        {% if report.photos_3 %}
-        <div class="row gallery-row gallery-row-3 mt-3">
-            {% assign photos = report.photos_3 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-12 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows gallery-arrows-3"></div>
-        {% endif %}
-        {% if report.paragraph_4 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_4 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
-        {% if report.photos_4 %}
-        <div class="row gallery-row gallery-row-4 mt-3">
-            {% assign photos = report.photos_4 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows gallery-arrows-4"></div>
-        {% endif %}
-        {% if report.paragraph_5 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_5 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
-        {% if report.photos_5 %}
-        <div class="row gallery-row gallery-row-5 mt-3">
-            {% assign photos = report.photos_5 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows-5 gallery-arrows"></div>
-        {% endif %}
-        {% if report.paragraph_6 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_6 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
-        {% if report.photos_6 %}
-        <div class="row gallery-row gallery-row-6 mt-3">
-            {% assign photos = report.photos_6 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-4 mb-3 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows-6 gallery-arrows"></div>
-        {% endif %}
-        {% if report.paragraph_7 %}
-            <div class="row report-content">
-                <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
-                    <div class="col-md-12">
-                        <p class="mt-5">
-                            {{ report.paragraph_7 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
-        {% if report.photos_7 %}
-        <div class="row gallery-row gallery-row-7 mt-3">
-            {% assign photos = report.photos_7 | sort:"position" %}
-            {% for photo in photos %}
-            <div class="col-xs-12 col-sm-12 col-md-12 mb-4 gallery-col">
-                <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
-                    <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-        <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
-        <div class="gallery-arrows-7 gallery-arrows"></div>
-        {% endif %}
+                <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
+                <div class="gallery-arrows gallery-arrows-{{ paragraph.position }}"></div>
+            {% endif %}
+        {% endfor %}
+
         {% if report.link_url %}
           <a href="{{ report.link_url }}" class="gallery-link gallery-hint" target="_blank">{% if report.link_text %} {{ report.link_text }} {% else %} Zobacz Więcej {% endif %} >></a>
         {% endif %}
@@ -197,7 +50,7 @@ body_class: 'white'
     <div class="container-fluid report-videos-container">
         <div class="row" class="insta-invitation">
             <h2 class="gallery-channel-invitation">
-                <a href="{{ '/news/' | absolute_url }}" >ZOBACZ WIĘCEJ AKTUALNOŚCI >> </a>
+                <a href="{{ '/fotorelacje/' | absolute_url }}" >ZOBACZ INNE FOTORELACJE >> </a>
             </h2>
         </div>
     </div>

@@ -29,99 +29,105 @@
   image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5773.jpg"
   author: "7 września 2018"
   title: 'PAWEŁ IZDEBSKI & Kasia Mazurkiewicz w TU, Łódź - Fotorelacja | 7 września 2018'
-  paragraph_1: |
-    Do wszystkich obecnych na ostatnim koncercie w Łodzi! Jak mogliście!<br/>
-    Jak mogliście mnie tak zaskoczyć i doprowadzić do rumieńców!
-    7 września zagraliśmy po raz drugi z Kasią Mazurkiewicz (piano) w Łodzi, 
-    w cudownym miejscu o nazwie “TU”. I choć właścicielki zmieniły lokalizację na jeszcze 
-    lepszą, to atmosfera została, a nawet zrobiło się o wiele goręcej. 
-  photos_1:
+  paragraphs:
     - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5383.jpg'
-      author: Piotr Kędzia
+      text: |
+        Do wszystkich obecnych na ostatnim koncercie w Łodzi! Jak mogliście!<br/>
+        Jak mogliście mnie tak zaskoczyć i doprowadzić do rumieńców!
+        7 września zagraliśmy po raz drugi z Kasią Mazurkiewicz (piano) w Łodzi, 
+        w cudownym miejscu o nazwie “TU”. I choć właścicielki zmieniły lokalizację na jeszcze 
+        lepszą, to atmosfera została, a nawet zrobiło się o wiele goręcej. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5383.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5454-2.jpg'
+          author: Piotr Kędzia
     - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5454-2.jpg'
-      author: Piotr Kędzia
-  paragraph_2: |
-    Wiecie co? Uwielbiam ten moment, kiedy na 15 minut przed rozpoczęciem słyszę dźwięk 
-    Waszych rozmów, uśmiechów i drinków zamawianych na barze. I potem wychodzimy z Kasią i 
-    widzę Wasze twarze i robi mi się gorąco. Puls się zwiększa, staję na scenie i zaczynamy 
-    pierwsze dźwięki piosenki, a Wy… w skupieniu słuchacie. Mam wielkie szczęście. 
-    Miałem wrażenie, że nie było tu przypadkowych osób, a nawet jeśli, to w ogóle tego nie 
-    odczułem. Nie wspomnę o tym, że dwa dni przed koncertem obchodziłem swoje 28 urodziny, 
-    długo czekałem na ten koncert. Nie będę ukrywał, spodziewałem się, że ktoś złoży mi 
-    spóźnione życzenia, ale Wy… przygotowaliście się o wiele lepiej ode mnie.
-  photos_2:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5493.jpg'
-      author: Piotr Kędzia
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6037-2.jpg'
-      author: Piotr Kędzia
-  paragraph_3: |
-    Zawsze, gdy jadę na swój koncert, to na dzień przed jak i w dniu koncertu - wizualizuję, 
-    zakładam najgorsze scenariusze typu - zerwie mi się struna na pierwszym utworze, 
-    będzie burza i nie będzie prądu, potknę się na schodach z ukulele, które złamie się w pół. 
-    Nic takiego się nie stało. Z ręką na sercu mogę napisać, że był to chyba mój najlepszy 
-    koncert, jeśli chodzi o klimat, atmosferę i ludzi. Sprawiliście, że ciężko mi było 
-    odszukać cień dyskomfortu czy napięcia, wydawałem z siebie dźwięki, o których nigdy nie 
-    myślałem i poczułem się przez kilka chwil wolny i najszczęśliwszy. Dla tych momentów 
-    występuję. Narkotyk.
-  photos_3:
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5439.jpg'
-      author: Piotr Kędzia
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5423.jpg'
-      author: Piotr Kędzia
+      text: |
+        Wiecie co? Uwielbiam ten moment, kiedy na 15 minut przed rozpoczęciem słyszę dźwięk 
+        Waszych rozmów, uśmiechów i drinków zamawianych na barze. I potem wychodzimy z Kasią i 
+        widzę Wasze twarze i robi mi się gorąco. Puls się zwiększa, staję na scenie i zaczynamy 
+        pierwsze dźwięki piosenki, a Wy… w skupieniu słuchacie. Mam wielkie szczęście. 
+        Miałem wrażenie, że nie było tu przypadkowych osób, a nawet jeśli, to w ogóle tego nie 
+        odczułem. Nie wspomnę o tym, że dwa dni przed koncertem obchodziłem swoje 28 urodziny, 
+        długo czekałem na ten koncert. Nie będę ukrywał, spodziewałem się, że ktoś złoży mi 
+        spóźnione życzenia, ale Wy… przygotowaliście się o wiele lepiej ode mnie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5493.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6037-2.jpg'
+          author: Piotr Kędzia
     - position: 2
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5618.jpg'
-      author: Piotr Kędzia
-  paragraph_4: |
-    Dziękuję Wam za obecność i mam nadzieję, że to nie był nasz ostatni raz. Ściskam 
-    najmocniej Olę, Zuzię, Mamę Oli i Zuzi, które nas zaprosiły i ugościły, Nidi i Magika 
-    za pomoc i fireshow, który uświetnił koncert, Artura, który nas nagłośnił, Piotra, który 
-    uwiecznił ten koncert i nas wszystkich, Darię, która była moim aniołem stróżem tego dnia 
-    oraz Kasię, której jestem wdzięczny za to, że przelewa swoją wrażliwość na moją muzykę i 
-    jest najlepszym przyjacielem na scenie. Widzimy się wkrótce :)
-  photos_4:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6282.jpg'
-      author: Piotr Kędzia
-    - position: 9
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5448.jpg'
-      author: Piotr Kędzia
-    - position: 2
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5986.jpg'
-      author: Piotr Kędzia
+      text: |
+        Zawsze, gdy jadę na swój koncert, to na dzień przed jak i w dniu koncertu - wizualizuję, 
+        zakładam najgorsze scenariusze typu - zerwie mi się struna na pierwszym utworze, 
+        będzie burza i nie będzie prądu, potknę się na schodach z ukulele, które złamie się w pół. 
+        Nic takiego się nie stało. Z ręką na sercu mogę napisać, że był to chyba mój najlepszy 
+        koncert, jeśli chodzi o klimat, atmosferę i ludzi. Sprawiliście, że ciężko mi było 
+        odszukać cień dyskomfortu czy napięcia, wydawałem z siebie dźwięki, o których nigdy nie 
+        myślałem i poczułem się przez kilka chwil wolny i najszczęśliwszy. Dla tych momentów 
+        występuję. Narkotyk.
+      photos:
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5439.jpg'
+          author: Piotr Kędzia
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5423.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5618.jpg'
+          author: Piotr Kędzia
     - position: 3
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5540-2.jpg'
-      author: Piotr Kędzia
+      text: |
+        Dziękuję Wam za obecność i mam nadzieję, że to nie był nasz ostatni raz. Ściskam 
+        najmocniej Olę, Zuzię, Mamę Oli i Zuzi, które nas zaprosiły i ugościły, Nidi i Magika 
+        za pomoc i fireshow, który uświetnił koncert, Artura, który nas nagłośnił, Piotra, który 
+        uwiecznił ten koncert i nas wszystkich, Darię, która była moim aniołem stróżem tego dnia 
+        oraz Kasię, której jestem wdzięczny za to, że przelewa swoją wrażliwość na moją muzykę i 
+        jest najlepszym przyjacielem na scenie. Widzimy się wkrótce :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6282.jpg'
+          author: Piotr Kędzia
+        - position: 9
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5448.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5986.jpg'
+          author: Piotr Kędzia
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5540-2.jpg'
+          author: Piotr Kędzia
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5925.jpg'
+          author: Piotr Kędzia
+        - position: 10
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6188.jpg'
+          author: Piotr Kędzia
+        - position: 11
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6261.jpg'
+          author: Piotr Kędzia
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5489.jpg'
+          author: Piotr Kędzia
+        - position: 8
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5760.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5773.jpg'
+          author: Piotr Kędzia
+        - position: 7
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5456.jpg'
+          author: Piotr Kędzia
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5635.jpg'
+          author: Piotr Kędzia
     - position: 4
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5925.jpg'
-      author: Piotr Kędzia
-    - position: 10
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6188.jpg'
-      author: Piotr Kędzia
-    - position: 11
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6261.jpg'
-      author: Piotr Kędzia
-    - position: 5
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5489.jpg'
-      author: Piotr Kędzia
-    - position: 8
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5760.jpg'
-      author: Piotr Kędzia
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5773.jpg'
-      author: Piotr Kędzia
-    - position: 7
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5456.jpg'
-      author: Piotr Kędzia
-    - position: 6
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5635.jpg'
-      author: Piotr Kędzia
-  paragraph_5: "Zdjęcia: Piotr Kędzia"
+      text: "Zdjęcia: Piotr Kędzia"
 
 - url: 'https://www.youtube.com/watch?v=C1krzFXZuMw&index=1&list=UUoX8tn1NKyWlD1uvf7r0NHw&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news'
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/teaser-lowcy.jpg'
@@ -200,108 +206,114 @@
   is_report: true
   image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7529-xs.jpg"
   author: "Fot. Magdalena Halicka"
-  title: 'Piernik Szczęścia czyli fotorelacja z koncertu w Toruniu | PAWEŁ IZDEBSKI Solo Act | 9 listopada 2018'
-  paragraph_1: |
-    Tak, po koncercie w Toruńskim klubie Dwa Światy zmieniłem się w szczęście i kolejny dzień spędziłem w swojej głowie, wspominając Wasze uśmiechy i radosne rozmowy po występie.
-    Żeby nie było - przywitałem się z Mikołajem Kopernikiem, a także starówkowym osłem.
-  photos_1:
+  title: ' Piernik Szczęścia czyli fotorelacja z koncertu w Toruniu | PAWEŁ IZDEBSKI Solo Act | 9 listopada 2018'
+  paragraphs:
     - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7250.jpg'
-      author: Magdalena Halicka
+      text: |
+        Tak, po koncercie w Toruńskim klubie Dwa Światy zmieniłem się w szczęście i kolejny dzień spędziłem w swojej głowie, wspominając Wasze uśmiechy i radosne rozmowy po występie.
+        Żeby nie było - przywitałem się z Mikołajem Kopernikiem, a także starówkowym osłem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7250.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7253.jpg'
+          author: Magdalena Halicka
     - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7253.jpg'
-      author: Magdalena Halicka
-  paragraph_2: |
-    Najpierw kabelki…
-  photos_2:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7276.jpg'
-      author: Magdalena Halicka
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7289.jpg'
-      author: Magdalena Halicka
-  paragraph_3: |
-    A potem chwila na wyciszenie i medytację...
-  photos_3:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7332.jpg'
-      author: Magdalena Halicka
-  paragraph_4: |
-    I gramy! Na scenę przy ulicy Św. Ducha zabrałem ze sobą Rachel (elektroakustyk), Pocahontas (gitara elektryczna) i Nalę (Ukulele).
-    Wszystkie były lekko zestresowane na chwilę przed, ale kilka słów otuchy na uszko przy gryfie (tak, gitary mają uszy) dodało im sił i cudownie sprawdziły się w stolicy pierników!
-  photos_4:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7345.jpg'
-      author: Magdalena Halicka
+      text: |
+        Najpierw kabelki…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7276.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7289.jpg'
+          author: Magdalena Halicka
     - position: 2
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7456.jpg'
-      author: Magdalena Halicka
+      text: |
+        A potem chwila na wyciszenie i medytację...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7332.jpg'
+          author: Magdalena Halicka
     - position: 3
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7358.jpg'
-      author: Magdalena Halicka
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7438.jpg'
-      author: Magdalena Halicka
+      text: |
+        I gramy! Na scenę przy ulicy Św. Ducha zabrałem ze sobą Rachel (elektroakustyk), Pocahontas (gitara elektryczna) i Nalę (Ukulele).
+        Wszystkie były lekko zestresowane na chwilę przed, ale kilka słów otuchy na uszko przy gryfie (tak, gitary mają uszy) dodało im sił i cudownie sprawdziły się w stolicy pierników!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7345.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7456.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7358.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7438.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7454.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7379.jpg'
+          author: Magdalena Halicka
     - position: 4
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7454.jpg'
-      author: Magdalena Halicka
+      text: |
+        Ostatnimi czasy, na koncerty wożę ze sobą jakieś 50% mojego pokoju (bez cegieł, okien i łóżka).
+        Dlatego też dzięki pomocy tajemniczych istot udało mi się zamontować troszkę nocnego nieba na scenie, co spowodowało, że czułem się jak w domu.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7494.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7529.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7501.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7523.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7478.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7459.jpg'
+          author: Magdalena Halicka
     - position: 5
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7379.jpg'
-      author: Magdalena Halicka
-  paragraph_5: |
-    Ostatnimi czasy, na koncerty wożę ze sobą jakieś 50% mojego pokoju (bez cegieł, okien i łóżka).
-    Dlatego też dzięki pomocy tajemniczych istot udało mi się zamontować troszkę nocnego nieba na scenie, co spowodowało, że czułem się jak w domu.
-  photos_5:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7494.jpg'
-      author: Magdalena Halicka
-    - position: 2
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7529.jpg'
-      author: Magdalena Halicka
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7501.jpg'
-      author: Magdalena Halicka
-    - position: 3
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7523.jpg'
-      author: Magdalena Halicka
-    - position: 4
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7478.jpg'
-      author: Magdalena Halicka
-    - position: 5
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7459.jpg'
-      author: Magdalena Halicka
-  paragraph_6: |
-    Dzięki Wam postanowiłem sobie jedną małą rzecz - na pewno wrócę.
-    Przyszliście w super nastrojach co odbiło się na mojej energii.
-    Sam pokonałem kilka strachów w swojej głowie. Wspólne fotki, wymiana zdań i podpisywanie “Księcia Naiwności” tylko utwierdziły mnie w tym, że Toruń trzyma za mnie kciuki i moim obowiązkiem jest powrócić ze zdwojoną mocą.
-    Dziękuję i do zobaczenia :)
-  photos_6:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7536.jpg'
-      author: Magdalena Halicka
-    - position: 1
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7532.jpg'
-      author: Magdalena Halicka
-    - position: 2
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7569.jpg'
-      author: Magdalena Halicka
-    - position: 3
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7602.jpg'
-      author: Magdalena Halicka
-    - position: 4
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7611.jpg'
-      author: Magdalena Halicka
-    - position: 5
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7542.jpg'
-      author: Magdalena Halicka
-  paragraph_7: |
-    Ściskam najmocniej moją mobilną drużynę gitary w składzie Karolina ”Nidi” Rawdanik, Daria “Darielka” Woźnicka i Magdalena Halicka, dzięki której ten koncert został uwieczniony na zawsze (lub do momentu, w którym na świecie ktoś zlikwiduje wszystkie cyfrowe zdjęcia, a to się raczej nie stanie, bo nikt nie ma w tym żadnego interesu)
-  photos_7:
-    - position: 0
-      url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7614.jpg'
-      author: Magdalena Halicka
-  link_url: 'https://www.dropbox.com/sh/u51vvy7ysomkrgw/AADkiUxMajSZdSGlCDfJ1e7ka?dl=0'
-  link_text: Przygotowałem też dla Was zbiór Waszych zdjęć ze mną do pobrania tutaj. Link wkrótce wygaśnie!
+      text: |
+        Dzięki Wam postanowiłem sobie jedną małą rzecz - na pewno wrócę.
+        Przyszliście w super nastrojach co odbiło się na mojej energii.
+        Sam pokonałem kilka strachów w swojej głowie. Wspólne fotki, wymiana zdań i podpisywanie “Księcia Naiwności” tylko utwierdziły mnie w tym, że Toruń trzyma za mnie kciuki i moim obowiązkiem jest powrócić ze zdwojoną mocą.
+        Dziękuję i do zobaczenia :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7536.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7532.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7569.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7602.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7611.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7542.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Ściskam najmocniej moją mobilną drużynę gitary w składzie Karolina ”Nidi” Rawdanik, Daria “Darielka” Woźnicka i Magdalena Halicka, dzięki której ten koncert został uwieczniony na zawsze (lub do momentu, w którym na świecie ktoś zlikwiduje wszystkie cyfrowe zdjęcia, a to się raczej nie stanie, bo nikt nie ma w tym żadnego interesu)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7614.jpg'
+          author: Magdalena Halicka
 
 - url: 'https://youtu.be/vKTKa8hv6Ps'
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Big-Ol-Game.jpg'
@@ -356,3 +368,111 @@
   author: Chicago Jazz Live Music Kraków
   title: Paweł Izdebski zagra w Krakowie z pianistką Kasią Mazurkiewicz!
   subtitle: 20 stycznia 2019
+
+- id: 'fotorelacja-grudzien-2018'
+  position: 25
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9684-xs.jpg'
+  author: "Fot. Magdalena Halicka & Piotr Kędzia"
+  title: 'Warszawskie granie! | Paweł Izdebski | Fotorelacja'
+  paragraphs:
+    - position: -1
+      text: |
+        Stało się. W Grudniu zagrałem dwa razy w stolicy. W 2018 omijałem Warszawę żeby na koniec roku ją przytulić - czy uczucie zostało odwzajemnione? Zapraszam do krótkiej fotorelacji z komentarzem :)
+    - position: 0
+      text: |
+        Pierwszy koncert zagrałem solo w klubie Palladium, było to dla mnie ogromne przeżycie, bo na tej scenie grało wielu moich idoli (Tommy Emmanuel, Glen Hansard). I choć na tej scenie już wcześniej szarpałem struny to tym razem mogłem zagrać swoje numery. &lt;Odchacza_spełnione_marzenie&gt;. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9645.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Gwiazdą tego wieczoru był Ralph Kamiński, który koncertem na ul. Złotej podsumował dwuletnią już historię jego debiutanckiego albumu “Morze” który odbił się echem w całym kraju. Jest 19:50 i dostaję sygnał że mam ruszyć na scenę. Lekka spinka, głęboki oddech, sprawdzanie kostek do gry po kieszeniach - wszystko się zgadza - wchodzę. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9739.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Zagrałem 6 piosenek, te 30 minut to był zastrzyk SuperElektroMagnesowejMotywującejWitaminyX. Fani Ralfa przyjeli mnie ultra ciepło a i po samym koncercie usłyszałem dużo za dużo dobrych słów, co tylko wzmocniło mojego wewnętrznego narcyza.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9684.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Było introwertycznie, czyli tak jak lubię na co dzień. Natomiast mocny koniec był nieuchronną częścią mojego występu i jak zwykle troszkę mnie poniosło. Dziękuję Ralfowi za zaproszenie, ArtGrupie za możliwość występu na tej scenie i wszystkim którzy dołożyli starań żeby mój występ wypadł jak najlepiej. <Chowa_wspomnienie_do_szuflady_z_napisem_zapamiętać_do_końca_życia>
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9732-2.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Zdjęcia podczas koncertu w Palladium zrobiła Magdalena Halicka / Magryzki
+
+        Następnego dnia tj. 8 grudnia przenieśliśmy się trochę na południowy-wschód i daliśmy czadu z Kasią Mazurkiewicz w Ośrodku Działań Twórczych “Pogodna” w dzielnicy Wesoła. Zaczeliśmy od wspólnej fotki! :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3622.jpg'
+          author: Piotr Kędzia
+    - position: 5
+      text: |
+        A potem już zasypaliśmy Was dźwiękami a Wy… słuchaliście tak że znów poczułem po co to robię.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3695.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3749.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3838.jpg'
+          author: Piotr Kędzia
+    - position: 6
+      text: |
+        Mamy taki rytuał z Kasią że co jakiś czas przybijamy sobie żółwika, zwłaszcza kiedy zagraliśmy tak jak nigdy :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4004.jpg'
+          author: Piotr Kędzia
+    - position: 7
+      text: "Nawet Nala wystroiła się jak nigdy…"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3591.jpg'
+          author: Piotr Kędzia
+    - position: 8
+      text: |
+        Jeśli ktoś myśli że przestałem ze śmieszkowaniem na scenie to jest w dużym błędzie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3889.jpg'
+          author: Piotr Kędzia        
+    - position: 9
+      text: |
+        P.S Nie, nie zostanę stand-uperem…
+
+        Przed, NIGDY w trakcie i po, można było zabrać do domu część mojej duszy i kilka innych drobiazgów :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3599.jpg'
+          author: Piotr Kędzia 
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3615.jpg'
+          author: Piotr Kędzia 
+    - position: 10
+      text: |
+        Po koncercie zbijaliśmy piątki i robiliśmy sobie fotki - znaczy się, pozowaliśmy do czujnego oka Piotra Kędzi :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4194.jpg'
+          author: Piotr Kędzia 
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4146.jpg'
+          author: Piotr Kędzia 
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4161.jpg'
+          author: Piotr Kędzia 
+    - position: 11
+      text: "A na początku stycznia fotorelacja z koncertu w Gdyni! ^^"
