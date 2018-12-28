@@ -3,16 +3,6 @@
   city: WARSZAWA
   link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
 
-- date: 2018-12-15
-  name: Paweł Izdebski & Kasia Mazurkiewicz
-  city: GDYNIA
-  link_fb: https://www.facebook.com/events/338096486997536/
-
-- date: 2018-12-14
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://www.teatrroma.pl/spektakl/once/#accept
-
 - date: 2019-02-10
   name: Paweł Izdebski Solo Act
   city: POZNAŃ
@@ -42,3 +32,63 @@
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=01
+
+- date: 2019-01-09
+  name: Koncert Opencall for music
+  city: WARSZAWA
+  link_fb: https://www.facebook.com/events/2111850605812240/
+
+- date: 2019-02-24
+  name: Accantus LIVE
+  city: WARSZAWA
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-03-01
+  name: Accantus LIVE
+  city: KRAKÓW
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-03-16
+  name: Accantus LIVE
+  city: WROCŁAW
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-03-17
+  name: Accantus LIVE
+  city: ZABRZE
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-03-31
+  name: Accantus LIVE
+  city: CZĘSTOCHOWA
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-04-07
+  name: Accantus LIVE
+  city: SZCZECIN
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-04-28
+  name: Accantus LIVE
+  city: ŁÓDŹ
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-05-01
+  name: Accantus LIVE
+  city: GDAŃSK
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-05-18
+  name: Accantus LIVE
+  city: POZNAŃ
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-05-19
+  name: Accantus LIVE
+  city: TORUŃ
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
+
+- date: 2019-06-16
+  name: Accantus LIVE
+  city: LUBLIN
+  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/

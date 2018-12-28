@@ -8,6 +8,7 @@ Gravity - John Mayer - już? To teraz się rozsiądź, zaczynamy!"
 image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/podsumowanie_2018.jpg'
 image_index_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/podsumowanie_2018_xs.jpg'
 hide_header: false
+published: false
 ---
 
 *Przed rozpoczęciem czytania należy włączyć ten utwór:
