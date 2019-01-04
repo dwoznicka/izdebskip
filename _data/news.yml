@@ -484,8 +484,14 @@
   title: Podsumowanie roku 2018
   subtitle: "Spełniłem więcej marzeń, czy, jak kto woli, celów niż chciałem i to wszystko, co zrobiłem od stycznia, odbije się bardzo mocno na 2019. Sam nie mogę się doczekać. Póki co analiza ukochanego 2018 :)"
 
-- id: 'fotorelacja-15-grudnia-2018-gdynia'
+- url: 'https://web.facebook.com/events/2111850605812240/'
+  image_url: 'https://z-p3-scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/48425572_2211524365725932_5170943438140473344_n.jpg?_nc_cat=111&_nc_ht=z-p3-scontent-waw1-1.xx&oh=4d94e152e7b95fd8eecb0668fceaf063&oe=5CC4F14D'
   position: 27
+  author: '9 stycznia 2019'
+  title: Paweł Izdebski zagra na koncercie OpenCall For Music
+
+- id: 'fotorelacja-15-grudnia-2018-gdynia'
+  position: 28
   is_report: true
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0591_xs.jpg'
   author: "Fot. Magdalena Halicka"
