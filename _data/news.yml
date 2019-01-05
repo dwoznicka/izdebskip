@@ -498,10 +498,7 @@
   title: 'Muzyczni piraci w Gdyni! | Paweł Izdebski & Kasia Mazurkiewicz | Fotorelacja'
   paragraphs:
     - position: 0
-      text: |
-        Ahoj Morskie Struny!
-    - position: 1
-      text: "Kilka wiadomości z piasczystego portu w Yrgram-Dir. Otóż 15 grudnia w Gdyńskim Blues Clubie zagrałem w duecie z Panią Kapitan Kasią Mazurkiewicz! Jak było? Zapraszam na pokład. Zdjęcia wykonała legendarna postać fotograficznego morza: Magdalena Halicka."
+      text: "Ahoj Morskie Struny!<br/>Kilka wiadomości z piasczystego portu w Yrgram-Dir. Otóż 15 grudnia w Gdyńskim Blues Clubie zagrałem w duecie z Panią Kapitan Kasią Mazurkiewicz! Jak było? Zapraszam na pokład. Zdjęcia wykonała legendarna postać fotograficznego morza: Magdalena Halicka."
       photos:
         - position: 0
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0591.jpg'
@@ -509,7 +506,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0603.jpg'
           author: Magdalena Halicka
-    - position: 2
+    - position: 1
       text: |
         Scenografia - wisi. To teraz sztylety i brzytwy… znaczy się instrumenty.
       photos:
@@ -519,7 +516,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0680.jpg'
           author: Magdalena Halicka
-    - position: 3
+    - position: 2
       text: |
         Czas na dowcip, dziękuję wszystkim którzy docenili sztucznym śmiechem :D
       photos:
@@ -529,7 +526,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0677.jpg'
           author: Magdalena Halicka
-    - position: 4
+    - position: 3
       text: |
         …
         Zawsze mogę liczyć na tą Panią!
@@ -540,7 +537,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0662.jpg'
           author: Magdalena Halicka
-    - position: 5
+    - position: 4
       text: |
         Na naszych koncertach dzieją się rzeczy, które ciężko wytłumaczyć, po prostu trzeba przyjść… 
       photos:
@@ -550,7 +547,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0734.jpg'
           author: Magdalena Halicka
-    - position: 6
+    - position: 5
       text: |
         Dlatego więcej Wam nie zdradzę, kolejne rejsy są na bieżąco podawane na tej stronie w kalendarzu, zapraszam (mamy środki na chorobę morską). 
       photos:
@@ -560,7 +557,7 @@
         - position: 1
           url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0636.jpg'
           author: Magdalena Halicka
-    - position: 7
+    - position: 6
       text: |
         Chwila ej! Jeszcze Wy! To przez Was wszystko! 
       photos:
