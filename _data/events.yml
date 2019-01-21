@@ -18,11 +18,6 @@
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=01
 
-- date: 2019-01-09
-  name: Koncert Opencall for music
-  city: WARSZAWA
-  link_fb: https://www.facebook.com/events/2111850605812240/
-
 - date: 2019-02-24
   name: Accantus LIVE
   city: WARSZAWA
@@ -87,3 +82,8 @@
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=02&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-03-30
+  name: Paweł Izdebski
+  city: ŁÓDŹ
+  link_tickets: https://www.kupbilecik.pl/impreza-34086-pawel.izdebski.lodz.html
