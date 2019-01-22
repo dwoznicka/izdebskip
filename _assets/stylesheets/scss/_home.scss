@@ -28,9 +28,12 @@
     }
 
     &-header {
-        background-image: linear-gradient(to top right, $brand-dark-violet, $brand-blue 80%);
         position: relative;
-
+        background-color: black;
+        
+        @media (min-width: $screen-md-min) {
+            background-image: linear-gradient(to top right, $brand-dark-violet, $brand-blue 80%);
+        }
         @media (max-width: $screen-sm-max) {
             padding-top: 75px;
             background-color: unset;
