@@ -28,7 +28,7 @@
     }
 
     &-header {
-        background-color: $brand-dark-violet;
+        background-image: linear-gradient(to top right, $brand-dark-violet, $brand-blue 80%);
         position: relative;
 
         @media (max-width: $screen-sm-max) {
