@@ -8,11 +8,6 @@
   city: POZNAŃ
   link_tickets: https://www.interticket.pl/program/pawel-izdebski-4400
 
-- date: 2019-02-03
-  name: Spektakl "Once" Teatr Roma (18:00)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=02&utm_source=pawelizdebski.pl&utm_medium=calendar
-
 - date: 2019-02-24
   name: Accantus LIVE
   city: WARSZAWA
@@ -73,13 +68,13 @@
   city: RYKI
   link_fb: https://www.facebook.com/events/2064174576981468/?utm_source=pawelizdebski.pl&utm_medium=calendar
 
-- date: 2019-02-01
-  name: Spektakl "Once" Teatr Roma (19:30)
+- date: 2019-02-23
+  name: Spektakl "Once" Teatr Roma (20:00)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=02&utm_source=pawelizdebski.pl&utm_medium=calendar
 
 - date: 2019-03-30
-  name: Paweł Izdebski
+  name: PAWEŁ IZDEBSKI (z zespołem)
   city: ŁÓDŹ
   link_tickets: https://www.kupbilecik.pl/impreza-34086-pawel.izdebski.lodz.html
 
@@ -87,3 +82,8 @@
   name: Paweł Izdebski & Kasia Mazurkiewicz
   city: WARSZAWA
   link_tickets: https://goingapp.pl/evt/2086526/pawel-izdebski-kasia-mazurkiewicz-2203-warszawa
+
+- date: 2019-03-08
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=03&utm_source=pawelizdebski.pl&utm_medium=calendar
