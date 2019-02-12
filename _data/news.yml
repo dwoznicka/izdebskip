@@ -752,3 +752,15 @@
   position: 31
   author: 'Świat Kultury Poznań'
   title: Paweł Izdebski i jego muzyczna dusza - relacja z koncertu w Blue Note Poznań 
+
+- url: 'https://www.youtube.com/watch?v=1jtT0RhdxjU&utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/drive-incubus.png'
+  position: 32
+  author: 'YouTube'
+  title: "Nowe wideo na Youtube! Paweł Izdebski & Grzegorz Zimny - Drive (Incubus Cover)"
+
+- url: 'http://www.lepszypoznan.pl/2019/02/10/pawel-izdebski-zdjecia.html?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'http://www.lepszypoznan.pl/wp-content/uploads/2019/02/5FE8IE-1200x800.jpg'
+  position: 33
+  author: lepszypoznan.pl
+  title: Paweł Izdebski wystąpił w poznańskim klubie Blue Note - relacja
