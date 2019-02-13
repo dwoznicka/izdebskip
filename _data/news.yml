@@ -758,3 +758,194 @@
   position: 33
   author: lepszypoznan.pl
   title: Paweł Izdebski wystąpił w poznańskim klubie Blue Note - relacja
+
+- id: 'fotorelacja-10-lutego-2019-poznan'
+  position: 34
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4289_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Paweł Izdebski Solo Act | Poznań 10 lutego 2019 | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        W Poznaniu byłem już o 2 nad ranem. Dziewięć godzin wcześniej miałem przyjemność zobaczyć
+        spektakl Jesus Christ Superstar w Teatrze Muzycznym w Łodzi. Sztuka nastroiła mnie w refleksyjny sposób do niedzielnego koncertu w Blue Note i wygląda na to,
+        że to był strzał w dziesiątkę. Dnia następnego pozwiedzałem Poznań i, rzecz jasna, udało się zrobić zdjęcia,
+        do których kiedyś będę ronił łzy szczęścia i tęsknoty za młodością :D.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3830.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Dzięki przewodniczce Mai, udało się poznać historię <i>Starego Marycha</i> i poprosić go o fotę. Jak się okazało, warunkiem było założenie łańcucha…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3864.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Po drodze spotkaliśmy też Pana Kota, Pan Kot siedział w sklepie i ignorował nas przez dobre 10 minut.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3857.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Tego dnia miałem zadziwiająco taneczny nastrój, więc uznałem, że pokażę miejscowym kilka jazzowych figur na tle nowoczesnej architektury.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3869.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: "Przez przypadek zasnęliśmy ze street teamem (Od lewej: Paweł, Maja, Needy, Darielka, Sandra) w centrum miasta. Nie wiadomo dlaczego Sandra nie spała."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3877.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Nie będę ukrywał, skrzywdziłem ten piękny pomnik swoim zachowaniem. Ale uznałem, że te lwy naprawdę czują się samotnie i wszyscy tylko robią im zdjęcia i się na nie gapią.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4036.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Magdalena Halicka to autorka zdjęć, która nie pyta, Magdalena rozumie. Więc ja kładę się w dziwnych miejscach i potem wychodzą takie kosmogeometrie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4052.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Próba przywitania gości przed koncertem...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4056.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Próba dźwięku czas, start."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4067.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4117.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4140.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Montaż scenografii, inżynier Needy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4113.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: "Rozśpiewka w garderobie: Żuchwa luźno w dół!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4231.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Start..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4128.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4235.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4248.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Pierwszy żart?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4252.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Pełny klub i uśmiechnięte twarze to największy prezent dla występującego. Po pierwszym numerze wiedziałem, że ten wieczór zapamiętam na bardzo długo…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4281.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4289.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: "Koncert walentynkowy to walentynkowa solówka na plecach w piosence… :) Śpiewaliście i mam dowody :D"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4342.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Pokłon w stronę balkonu, na który zerkałem za rzadko, ale dostałem okejki i uśmiechy z lewej burty, to też czułem wsparcie każdego bijącego serca w Poznańskim Blue Note!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4347.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Nie zabrakło tłustych bitów i rapsów!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4371.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Harmonijka ustna to ostatnio mój towarzysz na scenie. Bardzo lubię te country dźwięki, ostatnio coraz bardziej w połączeniu z gitarą elektryczną!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4398.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Kameleon...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4402.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Wyszło szydło z worka, nie każdy wie, ale jestem fanem śpiewu klasycznego.
+        Moja ulubiony głos to Renee Fleming (Sopranistka ze Stanów Zjednoczonych).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4427.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        I zdjęcie koncertu… czerwone motyle, dawno nie korzystałem z magii miłości. Uznałem, że w Poznaniu zaryzykuję.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4434.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        To jest napiękniejsze w życiu, że możemy się śmiać, możemy płakać, możemy myśleć o czym nam się podoba,
+        możemy słuchać tego, czego chcemy słuchać, możemy przeżywać po swojemu. Dziękuję Wam za obecność, za gromkie brawa, za śmiech, za chwilę refleksji i skupienia. Kocham. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4451.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        STOP! Tak jak obiecałem, <a class="report-link" href="https://www.dropbox.com/sh/ibq0d65bj4z4un5/AADfyvoWyXpiJ7lIaL9Wzy2Ya" target="_blank">link do folderu ze zdjęciami w super jakości</a> :) Zapraszam do udostępniania, oznaczania i dzielenia się radością.
+        <br/>Ogromna prośba o oznaczenie cudownej autorki zdjęć @magryzki_foto 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4220.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        Ekipa, bez której bym siedział w domu i grał w gry komputerowe. Bartek, Needy, Daria, Magda, Andrzej. 
+        Na zdjęciu nie ma, ale ogromne podziękowania dla Sandry, która nas ugościła o północy i pozwoliła smacznie przespać sobotnią noc,
+        Mai za opiekę turystyczną, Kubie, który cudownie zrealizował dźwiękowo-świetlnie mój koncert. Dziękuję Wam.
+        <br/> /P

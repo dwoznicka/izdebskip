@@ -1,4 +1,9 @@
 .report {
+    &-link {
+        border: 1px dotted #000;
+        color: rgba(35,3,79, 0.7) !important;
+    }
+
     &-content,
     &-content * {
         color: $brand-blue;
