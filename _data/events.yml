@@ -1,13 +1,3 @@
-- date: 2019-02-22
-  name: HEARTRockowanie - Walentynki w rytmie rocka
-  city: WARSZAWA
-  link_fb: https://www.facebook.com/events/1817509948288831/?active_tab=discussion
-
-- date: 2019-02-24
-  name: Accantus LIVE
-  city: WARSZAWA
-  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
-
 - date: 2019-03-01
   name: Accantus LIVE
   city: KRAKÓW
@@ -57,11 +47,6 @@
   name: Accantus LIVE
   city: LUBLIN
   link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
-
-- date: 2019-02-23
-  name: Spektakl "Once" Teatr Roma (20:00)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=02&utm_source=pawelizdebski.pl&utm_medium=calendar
 
 - date: 2019-03-30
   name: PAWEŁ IZDEBSKI (z zespołem)
