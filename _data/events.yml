@@ -77,3 +77,18 @@
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=03&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-03-02
+  name: Spektakl "Once" Teatr Roma (16:00 i 19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=03&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-04-26
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=04&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-04-27
+  name: Spektakl "Once" Teatr Roma (16:00 i 19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=04&utm_source=pawelizdebski.pl&utm_medium=calendar
