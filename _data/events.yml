@@ -1,8 +1,3 @@
-- date: 2019-03-01
-  name: Accantus LIVE
-  city: KRAKÓW
-  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
-
 - date: 2019-03-16
   name: Accantus LIVE
   city: WROCŁAW
@@ -63,11 +58,6 @@
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=03&utm_source=pawelizdebski.pl&utm_medium=calendar
 
-- date: 2019-03-02
-  name: Spektakl "Once" Teatr Roma (16:00 i 19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=03&utm_source=pawelizdebski.pl&utm_medium=calendar
-
 - date: 2019-04-26
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
@@ -77,3 +67,13 @@
   name: Spektakl "Once" Teatr Roma (16:00 i 19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=04&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-04-13
+  name: PAWEŁ IZDEBSKI (z zespołem)
+  city: KATOWICE
+  link_tickets: https://www.kupbilecik.pl/impreza-35796-pawel.izdebski.katowice.html
+
+- date: 2019-04-14
+  name: PAWEŁ IZDEBSKI (z zespołem)
+  city: WROCŁAW
+  link_tickets: https://www.kupbilecik.pl/impreza-35797-pawel.izdebski.wroclaw.html
