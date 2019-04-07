@@ -1,8 +1,3 @@
-- date: 2019-03-31
-  name: Accantus LIVE
-  city: CZĘSTOCHOWA
-  link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
-
 - date: 2019-04-28
   name: Accantus LIVE
   city: ŁÓDŹ
@@ -33,15 +28,10 @@
   city: LUBLIN
   link_tickets: https://goout.net/pl/artysci/studio-accantus/wxebg/
 
-- date: 2019-03-30
-  name: PAWEŁ IZDEBSKI (z zespołem)
-  city: ŁÓDŹ
-  link_tickets: https://www.kupbilecik.pl/impreza-34086-pawel.izdebski.lodz.html
-
-- date: 2019-03-22
+- date: 2019-05-05
   name: Paweł Izdebski & Kasia Mazurkiewicz
-  city: WARSZAWA
-  link_tickets: https://goingapp.pl/evt/2086526/pawel-izdebski-kasia-mazurkiewicz-2203-warszawa
+  city: BIAŁYSTOK
+  link_fb: https://www.facebook.com/events/2340242329359968/
 
 - date: 2019-04-26
   name: Spektakl "Once" Teatr Roma (19:30)

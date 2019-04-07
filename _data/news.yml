@@ -968,3 +968,193 @@
   position: 37
   author: Mad-Music.pl
   title: Paweł Izdebski na południu Polski!
+
+- url: 'https://www.facebook.com/wampiriada.sgh/photos/a.174196209257992/2979272755416976/?type=3&theater'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/wampiriada_2019.jpg'
+  position: 38
+  author: NZS SGH
+  title: Paweł Izdebski ambasadorem Wampiriady NZS SGH 2019 ❤
+  subtitle: Pokaż serce, oddaj krew!
+
+- id: 'fotorelacja-30-marca-2019-lodz'
+  position: 39
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6368.jpg'
+  author: "Fot. Magdalena Halicka i Piotr Kędzia"
+  title: 'Nasz pierwszy raz :) | Łódź 30 marca 2019 | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Hej Struny, <br/>
+        Jest niedziela, wstałem i mam na zegarku 14:25. Nie ma się czym chwalić, ten dzień spisuję na straty,
+        jeśli chodzi o moją produktywność i plan zdobywania świata. W tle "Tropical Chill Mix Sunday Morning".
+        Zjadłem ciastko owsiane i napiłem się napoju, który mówi mi, że ma w sobie 100% (NIE MA).
+        Dostałem cudowne zdjęcia od Magdaleny Halickiej i Piotra Kędzi i teraz Wam opowiem jak to było w Łodzi,
+        gdzie przy ul. Rewolucji 1905r. zagrałem swój pierwszy koncert z zespołem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6322.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        W klubie TU grałem już wcześniej w duecie z Kasią Mazurkiewicz
+        (z którą zaraz gramy w <a class="report-link" href="https://www.facebook.com/events/2340242329359968/" target="_blank">Białymstoku</a>!).
+        Tym razem musieliśmy się zapakować w 3 auta. Oczywiście, akurat 30 marca musieli kręcić film w centrum Łodzi,
+        więc sama wyprawa pod drzwi klubu dodawała adrenaliny. Dla tych, którzy nie doczytają do końca… koncert się odbył :D
+        a tuż po przyjeździe scena rosła w oczach i światełkach.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5662.jpg'
+          author: Piotr Kędzia
+    - position: 2
+      text: |
+        I choć Książę Naiwności powoli szykuje się na powrót do galaktyki Naiwności, to nie mogło zabraknąć go w Łodzi.
+        Mowa tu o pewnej piosence z mojej ostatniej EP, ale także o przypineczkach i płytach, które będzie można nabyć na koncertach
+        w <a class="report-link" href="https://www.facebook.com/events/1623412244468927/" target="_blank">Katowicach</a> i we <a class="report-link" href="https://www.facebook.com/events/330011040973580/" target="_blank">Wrocławiu</a>.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5672.jpg'
+          author: Piotr Kędzia
+    - position: 3
+      text: "Czas zacząć soundcheck..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6185.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6266.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6270.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6331.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6249.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6279.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: "I powiesić światełka..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6241.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: "Ale najpierw rozplątać, przy jednoczesnym załamaniu Kapral Nidi, która łapie się za głowę widząc plątaninę kabelków…"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6212.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: "Czas sprawdzić kostkę mocy na numer finałowy."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6346.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: "I po próbie!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6285.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Teraz już tylko pozostaje czekać, aż ktoś przyjdzie, scena gotowa."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5649.jpg'
+          author: Piotr Kędzia
+    - position: 9
+      text: |
+        Nie oszukujmy się, czas na najciekawsze zdjęcia - z garderoby :D Komentarze i opisy dopiszcie sobie sami.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6379.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6380.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6386.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6391.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6394.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        W dniu koncertu zawsze ktoś to powie "Chciałbym juz grać". W takim razie zaczynajmy :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6477.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6448.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6423.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6417.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5896.jpg'
+          author: Piotr Kędzia
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6504.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6551.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Bez zbędnego opisu krajobrazu, było cudownie. Wy byliście nam bardzo przychylni i życzymy każdemu zespołowi,
+        żeby tak wyglądał ich pierwszy koncert. My bawiliśmy się wcześniej i już teraz nie możemy się doczekać nadchodzących koncertów na południu Polski.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5783.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5814.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6525.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5992.jpg'
+          author: Piotr Kędzia
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6506.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6570.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6018.jpg'
+          author: Piotr Kędzia
+    - position: 12
+      text: |
+        Dziękuję każdemu, kto pojawił się tego wieczoru w klubie TU, dziękuję dziewczynom Zuzi, Oli i Żanecie za zaufanie i oddanie nam przestrzeni,
+        abyśmy mogli grać muzykę! Ogromne podziękowania dla Roberta Juzali z firmy GoSound, który jest przecudownym realizatorem i który sprawił,
+        że czuliśmy się komfortowo na scenie, a Wy dostaliście brzmienie, na jakim nam bardzo zależało.
+        Dziękuję naszej menadżerce Darii Woźnickiej, bez której nadal więcej grałbym w gry na komputerze niż grał na gitarze.
+        Dziękuję fotografom, dzięki którym pamięć o nas nigdy nie zaniknie :) Magdalena Halicka, Piotr Kędzia - dziękujemy i ściskamy mocniej, niż można to robić!
+        Dziękuję Nidi za udzieloną pomoc i dobrą energię.
+        Dziękuję Mel za wsparcie kostiumograficzne w garderobie i za dobrego ducha podczas wyprawy..
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6638.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        I na koniec dziękuję Wam; Diana, Bartek, Marcin, Grzegorz, że mogę z Wami dzielić scenę i czuć się szczęśliwym.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6587.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: "/P"
