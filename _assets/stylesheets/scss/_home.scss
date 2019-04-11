@@ -69,12 +69,12 @@
 
     &-header-title {
         font-size: 60px;
-        font-family: 'Playfair Display', serif;
+        font-family: 'Comfortaa', cursive;
         letter-spacing: 3px;
         text-align: center;
 
         @media (max-width: $screen-sm-max) {
-            font-family: 'Lato', sans-serif;
+            font-family: 'Comfortaa', cursive;
             padding-top: 30vh;
             font-size: 50px;
         }
