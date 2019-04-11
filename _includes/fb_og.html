@@ -2,20 +2,20 @@
 {% if layout.is_blog_page %}
     {% if page.title_og %}
         <meta property="og:title" content="{{ page.title_og | xml_escape }}">
-        <meta property="og:description" content="{{ page.title_og }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+        <meta property="og:description" content="{{ page.title_og }} | Paweł Izdebski Official Website | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
     {% else %}
         <meta property="og:title" content="{{ page.title | xml_escape }}">
-        <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+        <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
     {% endif %}
 {% else %}
     <meta property="og:title" content="{{ page.title | xml_escape }}">
-    <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+    <meta property="og:description" content="{{ page.title }} | Paweł Izdebski Official Website | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
 {% endif %}
 
 {% if page.image_index_url %}
     <meta property="og:image" content="{{ page.image_index_url }}">
 {% else %}
-    <meta property="og:image" content="{{ 'ksiaze_naiwnosci_450.png' | asset_path | absolute_url}}">
+    <meta property="og:image" content="{{ 'pawel_izdebski.jpg' | asset_path | absolute_url}}">
 {% endif %}
 
 <meta property="og:image:width" content="1200">
@@ -31,12 +31,12 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@IzdebskiGra">
-<meta property="twitter:image" content="{{ 'ksiaze_naiwnosci_450.png' | asset_path | absolute_url}}">
+<meta property="twitter:image" content="{{ 'pawel_izdebski.jpg' | asset_path | absolute_url}}">
 <meta name="twitter:creator" content="@IzdebskiGra">
 <meta name="twitter:title" content="{{ page.title | xml_escape }}">
 {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+    <meta name="twitter:description" content="{{ page.description }} | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
 {% else %}
-    <meta name="twitter:description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
+    <meta name="twitter:description" content="{{ page.title }} | Paweł Izdebski Official Website | Paweł Izdebski – Wokalista, gitarzysta piosenkopisarz i youtuber.">
 {% endif %}
 <meta name="twitter:url" content="{{ page.url | absolute_url }}">
