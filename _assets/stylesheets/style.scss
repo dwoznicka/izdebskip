@@ -27,12 +27,6 @@ body * {
     .d-md-block.d-lg-none {
         display: block !important;
     }
-    .navbar-expand-lg .navbar-collapse {
-        display: none !important;
-    }
-    .navbar-expand-lg .navbar-toggler {
-        display: block !important;
-    }
 }
 
 @media (min-width: $screen-md-min) {

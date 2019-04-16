@@ -1,54 +1,45 @@
-<!-- <nav class="navbar navbar-expand-lg navbar-dark">
+<nav class="navbar navbar-expand-lg navbar-expand-md navbar-light">
     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"></span>
     </button>
-  
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto left-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/" | absolute_url }}">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/bio/" | absolute_url }}">bio</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/muzyka/" | absolute_url }}">muzyka</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/teksty/" | absolute_url }}">teksty</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/galeria/" | absolute_url }}">foto</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/zespol/" | absolute_url }}">zespół</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/news/" | absolute_url }}">newsy</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/blog/" | absolute_url }}">blog</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "/kontakt/" | absolute_url }}">kontakt</a>
-        </li>
-      </ul>
-      <ul class="navbar-nav ml-auto right-nav">
+        <ul class="navbar-nav mr-auto left-nav">
             <li class="nav-item">
-                <a class="nav-link" target="_blank" href="{{ site.spotify_url }}"><i class="fab fa-spotify"></i></a>
+            <a class="nav-link" href="{{ "/" | absolute_url }}">
+                <img class="nav-logo" src="{{ 'logo/black_logo.png' | asset_path | absolute_url }}" alt="Paweł Izdebski" title="Strona domowa · Paweł Izdebski">
+            </a>
+            </li>
+        </ul>
+
+        <ul class="navbar-nav ml-auto right-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ "/muzyka/" | absolute_url }}">muzyka</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" target="_blank" href="{{ site.youtube_url }}"><i class="fab fa-youtube"></i></a>
+                <a class="nav-link" href="{{ "/bio/" | absolute_url }}">bio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" target="_blank" href="{{ site.instagram_url }}"><i class="fab fa-instagram"></i></a>
+                <a class="nav-link" href="{{ "/galeria/" | absolute_url }}">galeria</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" target="_blank" href="{{ site.facebook_url }}"><i class="fab fa-facebook-f"></i></a>
+                <a class="nav-link" href="{{ "/news/" | absolute_url }}">newsy</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" target="_blank" href="{{ site.twitter_url }}"><i class="fab fa-twitter"></i></a>
+                <a class="nav-link" href="{{ "/fotorelacje/" | absolute_url }}">fotorelacje</a>
             </li>
-      </ul>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ "/teksty/" | absolute_url }}">teksty</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ "/zespol/" | absolute_url }}">zespół</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ "/blog/" | absolute_url }}">blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ "/kontakt/" | absolute_url }}">kontakt</a>
+            </li>
+        </ul>
     </div>
-</nav> -->
+</nav>

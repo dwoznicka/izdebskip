@@ -1,0 +1,9 @@
+<div class="home-gallery">
+    {% assign images = site.data.home_images | sort: "position" %}
+    {% for image in images %}
+    <figure class="home-gallery-imageContainer">
+        <img src="{{ image.url }}" alt="{{ image.name }}">
+        <figcaption>Fot. {{ image.author }}</figcaption>
+    </figure>
+    {% endfor %}
+</div>

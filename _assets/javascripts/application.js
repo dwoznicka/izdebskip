@@ -43,14 +43,44 @@ $(document).ready(function() {
     var $newsContainerMobile = $('.home-news-container--mobile');
     var $reportGalleryRows = $('.gallery-row');
 
+    var $homeGallery = $('.home-gallery');
+
     $('#newsLink').on('click', function(e) {
         smooth_scroll_to('#newsy', e);
     });
+
+    $('.navbar-collapse').collapse("hide");
 
     $newsletterSubmitBtn.on('click', function () {
         var email = $('.newsletter-input').val();
         ga('set', 'userId', email); 
     });
+
+    if ($homeGallery.length) {
+        $homeGallery.slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            draggable: true,
+            vertical: false,
+            infinite: true,
+            arrows: false,
+            dots: false,
+            pauseOnHover: false,
+            pauseOnFocus: false,
+            variableWidth: true,
+            autoplaySpeed: 5500,
+            speed: 800,
+            responsive: [
+                {
+                    breakpoint: 767,
+                    settings: {
+                        autoplay: false,
+                    }
+                }
+            ]
+        });
+    }
 
     if ($newsContainer.length) {
         $newsContainer.slick({
