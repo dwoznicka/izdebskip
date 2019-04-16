@@ -43,17 +43,17 @@
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=04&utm_source=pawelizdebski.pl&utm_medium=calendar
 
-- date: 2019-04-13
-  name: PAWEŁ IZDEBSKI (z zespołem)
-  city: KATOWICE
-  link_tickets: https://www.kupbilecik.pl/impreza-35796-pawel.izdebski.katowice.html
-
-- date: 2019-04-14
-  name: PAWEŁ IZDEBSKI (z zespołem)
-  city: WROCŁAW
-  link_tickets: https://www.kupbilecik.pl/impreza-35797-pawel.izdebski.wroclaw.html
-
 - date: 2019-04-30
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=04&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-05-09
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=05&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-05-10
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=05&utm_source=pawelizdebski.pl&utm_medium=calendar
