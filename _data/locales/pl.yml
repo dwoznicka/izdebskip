@@ -17,18 +17,18 @@ full_weekday:
   - Piątek
   - Sobota
 abbreviated_month:
-  - sty
-  - lut
-  - mar
-  - kwi
-  - maj
-  - cze
-  - lip
-  - sie
-  - wrz
-  - paź
-  - lis
-  - gru
+  - stycznia
+  - lutego
+  - marca
+  - kwietnia
+  - maja
+  - czerwca
+  - lipca
+  - sierpnia
+  - września
+  - października
+  - listopada
+  - grudnia
 full_month:
   - Stycznia
   - Lutego
