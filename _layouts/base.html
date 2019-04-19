@@ -12,6 +12,8 @@
             <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
             <meta name="description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta, piosenkopisarz i youtuber." />
         {% endif %}
+        <script type="text/javascript" src="{{ 'pace.js' | asset_path | absolute_url }}"></script>
+        <link rel="stylesheet" href="{{ 'pace.css' | asset_path | absolute_url }}">
         <meta name="copyright" content="{{ site.copyright | strip_html | xml_escape }}"/>
         <meta name="keywords" content="Paweł,Izdebski,songwriter,piosenkopisarz,youtuber,gitarzysta,guitarist,wokalista,vocalist,bluepop,książę,naiwności,Accantus,Roma,Eamon">
         <meta name="google-site-verification" content="1LJzit3OSHETwC6JRrGXii5u5J1Q_EtdjeLtFhwZwBg" />
@@ -32,6 +34,13 @@
     <body class="base {% if page.body_class %}{{ page.body_class }}{% endif %}{% if layout.body_class %}{{ layout.body_class }}{% endif %}">
         {{ content }}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Pace.on('done', function(){
+                setTimeout(function () {
+                    $('.nav-logo-item').eq(0).removeClass('nav-logo-item--loading');
+                }, 500)
+            });
+        </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>

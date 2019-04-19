@@ -18,6 +18,21 @@ footer {
     }
 }
 
+.nav-logo-item--loading {
+    transform: scale(2.8) !important;
+    position: fixed;
+    background: #fff;
+    padding: 600px !important;
+    top: -300px;
+    left: -300px;
+    top: calc(40% - 600px);
+    left: calc(45% - 600px);
+}
+
+.nav-logo-item {
+    transition: all 1s ease;
+}
+
 .navbar {
     background-color: transparent;
     letter-spacing: 2px;

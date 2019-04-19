@@ -1,4 +1,3 @@
-
 /**
 * Smooth scrolling to anchor link under various conditions:
 * - from within the page where the target is (both on page load and after cliking on an anchor link on the same page)
