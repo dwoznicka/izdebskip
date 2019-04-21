@@ -1,10 +1,35 @@
 .bio {
     &-container {
         min-height: 100vh;
-        background: linear-gradient(90deg, $brand-blue, $brand-dark-violet);
-        margin-bottom: 50px;
-        padding-top: 100px;
+        background: linear-gradient(90deg, #fcfcfc, #dddddd);
+        padding-top: 150px;
         position: relative;
+        padding-bottom: 50px;
+
+        @media (max-width: $screen-sm-max) {
+            padding-top: 250px;
+        }
+
+        &::after {
+            content: " ";
+            padding-bottom: 50px;
+            background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: right top;
+            width: 100vw;
+            height: 200px;
+            position: absolute;
+            bottom: -30px;
+            left:0;
+
+            @media (max-width: $screen-sm-max) {
+                height: 100px;
+                bottom: -60px;
+            }
+    
+        }
+
     }
 
     &-image {
@@ -39,6 +64,7 @@
         height: 400px;
         width: 720px;
         max-width: 100%;
+        margin: 0 auto;
 
         iframe {
             position: absolute;
@@ -132,7 +158,11 @@
             opacity: 0.3;
             left: -20px;
             bottom: 0;
-            line-height: 200px;
+            line-height: 260px;
+
+            @media (max-width: $screen-xs-max) {
+                bottom: 260px;
+            }
         }
 
         &::after {

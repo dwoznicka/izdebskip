@@ -15,7 +15,7 @@
         padding-top: 150px;
 
         @media (max-width: $screen-sm-max) {
-            padding-top: 75px;
+            padding-top: 225px;
         }
     }
 
@@ -124,6 +124,10 @@
             height: 95vh;
             height: calc(100vh - 50px);
             background-attachment: unset;
+        }
+
+        * {
+            color: $brand-white;
         }
     }
 

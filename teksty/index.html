@@ -1,16 +1,13 @@
 ---
 layout: base
 title: "Teksty - Lyrics"
-body_class: 'black'
 ---
 
 {% include navbar.html %}
 
 <div class="container-fluid lyrics-container">
     <div class="lyrics-header">
-        <h1 class="lyrics-title">PAWEŁ IZDEBSKI | TEKSTY</h1>
-    </div>
-    <div class="lyrics-separator lyrics-separator--color">
+        <h1 class="lyrics-title">TEKSTY</h1>
     </div>
     {% assign lyrics = site.data.lyrics | sort:"position" %}
     {% for lyric in lyrics %}
@@ -30,6 +27,9 @@ body_class: 'black'
                     <div class="modal-header">
                         {% if lyric.yt_link %}
                             <a target="_blank" href="{{ lyric.yt_link}}" class="lyrics-modal-ytlink"><i class="fab fa-youtube"></i> Posłuchaj na Youtube >></a>
+                        {% endif %}
+                        {% if lyric.spotify_link %}
+                            <a target="_blank" href="{{ lyric.spotify_link}}" class="lyrics-modal-ytlink"><i class="fab fa-spotify"></i> Posłuchaj na Spotify >></a>
                         {% endif %}
                     </div>
                     <div class="modal-body">

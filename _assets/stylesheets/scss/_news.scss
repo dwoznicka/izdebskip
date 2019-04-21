@@ -1,4 +1,29 @@
 .news {
+    &-header {
+        margin: 0 -15px;
+        height: 250px;
+        display: table;
+        position: relative;
+        width: 100vw;
+
+        @media (max-width: $screen-xs-max) {
+            padding-top: 250px;
+        }
+    }
+    &-title {
+      vertical-align: bottom;
+      display: table-cell;
+      text-align: center;
+      font-size: 60px;
+      letter-spacing: 1.2px;
+      width: 100%;
+
+      @media (max-width: $screen-sm-max) {
+          font-size: 32px;
+      }
+  }
+
+
   &-page-wrapper {
 
     .news-snippets-wrapper {

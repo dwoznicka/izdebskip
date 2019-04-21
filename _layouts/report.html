@@ -44,17 +44,13 @@ body_class: 'white'
           <a href="{{ report.link_url }}" class="gallery-link gallery-hint" target="_blank">{% if report.link_text %} {{ report.link_text }} {% else %} Zobacz Więcej {% endif %} >></a>
         {% endif %}
     </div>
-    <div class="report-separator report-separator--white">
 
-    </div>
     <div class="container-fluid report-videos-container">
         <div class="row" class="insta-invitation">
             <h2 class="gallery-channel-invitation">
                 <a href="{{ '/fotorelacje/' | absolute_url }}" >ZOBACZ INNE FOTORELACJE >> </a>
             </h2>
         </div>
-    </div>
-    <div class="report-separator report-separator--color mb-5">
     </div>
 </div>
 {% include footer.html dark_footer=true %}

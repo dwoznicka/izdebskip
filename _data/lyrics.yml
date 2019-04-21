@@ -1,5 +1,5 @@
 - title: 'Książę Naiwności'
-  position: 0
+  position: 1
   yt_link: 'https://www.youtube.com/watch?v=TIcKFld_DhE&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=4'
   text: |
     Zakładam koronę mieni się czystym złotem
@@ -34,7 +34,7 @@
     Jak Książę Naiwności
 
 - title: 'Balon'
-  position: 1
+  position: 2
   yt_link: 'https://www.youtube.com/watch?v=xcXnqFMatBU&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=3'
   text: |
     Trzymam sznurek od balona
@@ -85,7 +85,7 @@
     Niż po ziemi chodzić sam
 
 - title: 'Nadzieja w Nowym Jorku'
-  position: 2
+  position: 3
   yt_link: "https://www.youtube.com/watch?v=LuXa7OMxbVc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=12"
   text: |
     Przez dzień cały w Nowym Jorku 
@@ -116,7 +116,7 @@
     Jak dla ludzi jest ich Bóg
 
 - title: 'Nigdy nie przestanę'
-  position: 3
+  position: 4
   yt_link: "https://www.youtube.com/watch?v=nlPWKWMAHqY&index=2&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Pytam wkoło cały czas
@@ -171,7 +171,7 @@
     W ramionach mocno trzymam Cię
 
 - title: 'Cisza'
-  position: 4
+  position: 5
   yt_link: "https://www.youtube.com/watch?v=JI7c7jjwYEY&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=4"
   text: |
     Nie pamiętam kiedy było lepiej
@@ -201,7 +201,7 @@
     Okłam mnie zabierz mnie
 
 - title: 'Moja Khaleesi'
-  position: 5
+  position: 6
   yt_link: "https://www.youtube.com/watch?v=F4-KHbswlhY&index=1&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Fioletowe oczy srebrno-złote włosy
@@ -253,8 +253,8 @@
     Moja Khaleesi pozwól mi Cię zabrać stąd
 
 - title: 'No cóż'
-  position: 9
-  yt_link: "https://www.youtube.com/watch?v=rVJhnuh_UqU&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=11"
+  position: 0
+  spotify_link: "https://open.spotify.com/track/0uYtuYA3AEDPeCI7bAVDev"
   text: |
     Chyba już zapomniałem jak dobrze miało być
     naprawdę nie chciałem szukać gdzie indziej
@@ -266,7 +266,7 @@
     Nad nami już nie ma nieba
     pod nami został tylko lód
     Ty się i tak uśmiechasz
-    zginiemy razem
+    toniemy razem
     No cóż
 
     No pewnie że boli nie jest łatwo
@@ -282,11 +282,11 @@
     Nad nami już nie ma nieba
     pod nami został tylko lód
     Ty się i tak uśmiechasz
-    zginiemy razem
+    toniemy razem
     No cóż
 
 - title: 'Przystanki na żądanie'
-  position: 7
+  position: 8
   yt_link: "https://www.youtube.com/watch?v=tv-gIZFlf64&index=31&list=UUoX8tn1NKyWlD1uvf7r0NHw"
   text: |
     Powietrze lekko dziś gra
@@ -328,7 +328,7 @@
     Mieszkają na stałe tu
 
 - title: 'Może'
-  position: 8
+  position: 9
   yt_link: "https://www.youtube.com/watch?v=elkrN4Mugrc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=8"
   text: |
     A może
@@ -383,7 +383,7 @@
     Może
 
 - title: 'Czekam na Ciebie'
-  position: 6
+  position: 7
   yt_link: "https://www.youtube.com/watch?v=K7fYlmUBvos&index=5&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Każdy gdzieś na kogoś czeka zakochany o tym wie
