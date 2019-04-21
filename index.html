@@ -5,6 +5,9 @@ body_class: 'home'
 ---
 {% include navbar_home.html %}
 {% include home_gallery.html %}
+
+{% assign video = site.data.home_video.first %}
+
 <a class="home-galleryLink" href="{{ "/galeria/" | absolute_url }}" target="_blank">Więcej zdjęć w Galerii >></a>
 
 <div class="home-section row">
@@ -17,8 +20,26 @@ body_class: 'home'
         </div>
     </div>
     <div class="col-lg-5 col-md-12 col-sm-12 order-lg-1 order-sm-2 order-md-2 home-section--video">
-
+        {% if video %}
+        <div class="home-header-video">
+            <div class="video-container">
+                <iframe width="100%" height="250" src="{{ video.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="z-index: 100;"></iframe>
+                <h2 class="home-header-video-title">{{ video.title }}</h2>
+                <a class="home-galleryLink" style="margin-left: 10%;" href="{{ "/muzyka/" | absolute_url }}" target="_blank">Przejdź do działu Muzyka >></a>
+            </div>
+        </div>
+        {% endif %}
     </div>
+</div>
+<div class="home-section home-section--news row">
+    <div class="col-md-10 offset-md-1 home-news-col">
+        <div class="home-news-container">
+            {% include news.html %}
+        </div>
+        <a class="home-galleryLink home-newsLink" href="{{ "/news/" | absolute_url }}" target="_blank">Zobacz wszystkie Newsy >></a>
+        <a class="home-galleryLink home-newsLink" href="{{ "/fotorelacje/" | absolute_url }}" target="_blank">Zobacz fotorelacje z koncertów >></a>
+    </div>
+    <div class="home-news-separator"></div>
 </div>
 
 {% include footer.html %}

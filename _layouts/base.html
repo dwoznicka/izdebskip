@@ -38,7 +38,8 @@
             Pace.on('done', function(){
                 setTimeout(function () {
                     $('.nav-logo-item').eq(0).removeClass('nav-logo-item--loading');
-                }, 500)
+                    $('.mobile-loader').eq(0).removeClass('mobile-loader--loading');
+                }, 750)
             });
         </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

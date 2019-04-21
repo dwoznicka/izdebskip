@@ -90,19 +90,23 @@ $(document).ready(function() {
             vertical: false,
             infinite: false,
             arrows: false,
-            dots: true
-        });
-    }
-
-    if ($newsContainerMobile.length) {
-        $newsContainerMobile.slick({
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            draggable: false,
-            vertical: false,
-            infinite: false,
-            arrows: false,
-            dots: true
+            adaptiveHeight: true,
+            dots: true,
+            responsive: [
+                {
+                    breakpoint: 767,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        draggable: false,
+                        adaptiveHeight: true,
+                        vertical: false,
+                        infinite: false,
+                        arrows: false,
+                        dots: true
+                    }
+                }
+            ]
         });
     }
 
@@ -141,20 +145,12 @@ $(document).ready(function() {
             $(this).slick({
             vertical: false,
             slidesToScroll: 1,
-            slidesToShow: 2,
+            slidesToShow: 1,
             infinite: false,
+            adaptiveHeight: true,
             appendArrows: $('.gallery-arrows-'+index),
             prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
             nextArrow: '<button type="button" class="slick-next">Następne &gt;&gt;</button>',
-            responsive: [
-                {
-                    breakpoint: 1000,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-            ]
             });
         });
     }
@@ -167,8 +163,8 @@ $(document).ready(function() {
             vertical: true,
             infinite: false,
             appendArrows: $('.events-arrows'),
-            prevArrow: '<button type="button" class="slick-prev">Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne</button>',
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne  &gt;&gt;</button>',
         });
     }
 
@@ -180,24 +176,24 @@ $(document).ready(function() {
             vertical: true,
             infinite: false,
             appendArrows: $('.events-arrows--mobile'),
-            prevArrow: '<button type="button" class="slick-prev">Poprzednie</button>',
-            nextArrow: '<button type="button" class="slick-next">Następne</button>'
+            prevArrow: '<button type="button" class="slick-prev">&lt;&lt; Poprzednie</button>',
+            nextArrow: '<button type="button" class="slick-next">Następne  &gt;&gt;</button>'
         });
     }
 
-    if ($blogBackground.length) {
-        var num = 50;
-        var increase = true;
-        window.setInterval(function () {
-            // increase by num 1, reset to 0 at 10
-            num = increase ? (num + 1) : (num - 1);
-            if (num === 100) {
-                increase = false;
-            }
-            else if (num === 0) {
-                increase = true;
-            }
-            $blogBackground.css('background-position-x', num+'%');
-        }, 500); // repeat forever, polling every 3 seconds
-    }
+    // if ($blogBackground.length) {
+    //     var num = 50;
+    //     var increase = true;
+    //     window.setInterval(function () {
+    //         // increase by num 1, reset to 0 at 10
+    //         num = increase ? (num + 1) : (num - 1);
+    //         if (num === 100) {
+    //             increase = false;
+    //         }
+    //         else if (num === 0) {
+    //             increase = true;
+    //         }
+    //         $blogBackground.css('background-position-x', num+'%');
+    //     }, 500); // repeat forever, polling every 3 seconds
+    // }
 });
