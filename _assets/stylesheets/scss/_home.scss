@@ -94,9 +94,15 @@
             }
         }
 
-        @media (min-width: 1201px) {
+        @media (min-width: 1201px) and (max-width: $screen-lg-max) {
             &::after {
                 bottom: -7%;
+            }
+        }
+
+        @media (min-width: $screen-xl-min) {
+            &::after {
+                bottom: 0;
             }
         }
 

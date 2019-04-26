@@ -38,6 +38,12 @@
             @media (max-width: $screen-sm-max) {
                 height: 0;
             }
+
+            @media (min-width: $screen-xl-min) {
+                height: 20vw;
+                bottom: -75px;
+            }
+
         }
     }
 
@@ -155,6 +161,11 @@
                 bottom: -50px;
                 height: 225px;
                 left: 0;
+
+                @media (min-width: $screen-xl-min) {
+                    height: 20vw;
+                    bottom: -75px;
+                }
         }
     }
 

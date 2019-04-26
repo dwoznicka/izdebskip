@@ -109,6 +109,10 @@ footer {
     @media (max-width: $screen-sm-max) {
         font-size: 13px;
     }
+
+    @media (min-width: $screen-xl-min) {
+        padding-bottom: 9vw;
+    }
 }
 
 .navbar-toggler {
