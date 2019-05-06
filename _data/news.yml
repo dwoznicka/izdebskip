@@ -1192,3 +1192,278 @@
   author: 9 czerwca 2019, Centru Artystyczne Eljazz
   title: Paweł Izdebski i Kasia Mazurkiewicz zagrają w Bydgoszczy!
   subtitle: 'Bilety dostępne na kupbilecik.pl'
+
+- id: 'fotorelacja-kwiecien-2019-poludniowa-minitrasa'
+  position: 45
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7251_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Południowa Minitrasa! | Katowice - Wrocław | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Złociste promienie słońca musnęły moje oczy i obudziły w najlepszy możliwy spos…
+        Tak naprawdę tego dnia wstałem i pierwsze, co zobaczyłem, to śnieg, biały śnieg padający w połowie kwietnia.
+        Nie tak sobie wyobrażałem pierwszy dzień minitrasy, którą miałem odbyć z zespołem… a jednak,
+        było przecudownie. Zapraszam Was do krainy muzyki i zdjęć autorstwa Magdaleny Halickiej, która za pomocą obrazów
+        przeniesie Was do Katowickiego Królestwa i Wrocławskiego klubu Alive! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7604.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Pierwszym przystankiem było Królestwo w Katowicach. Muszę przyznać, że ten klub po środku ronda mnie ucieszył,
+        a jego wnętrza spowodowały, że hormon szczęścia wzrósł w tempie pilnym. Graty wniesione, kawka wypita - czas na Soundcheck (próba dźwięku).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6834.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6816.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6864.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6870.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        I nasz dzielny, ukochany i najcierpliwszy realizator dźwięku - Robert Juzala i jego maszyna czasumilająca :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6825.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6849.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Jak zawsze, najciekawsze rzeczy dzieją się… w garderobie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6910.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6916.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6924.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Decyzje, dylematy...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6927.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: "- Kiedy wiesz, że Twoje okulary są fajne? <br/>- Kiedy wszyscy w nich chodzą!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6939.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6944.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Kiedy jesteś jedyną dziewczyną w zespole i nie godzisz się na pomysły chłopców :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6991.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: "Kiedy chłopcy znają umiar:"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6977.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Żeby tylko móc porzucać piłką jak Ross i Joey z Przyjaciół!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6994.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7016.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Bartek gra na gitarze, ale gdy Diana gra na skrzypcach, Bartek jest ochroniarzem (wolontaryjnie).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7024.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Okej, ja też już chcę na scenę! Zapraszam! ^^
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7130.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7160.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7185.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Te dwie osóbki to są moim drugim sercem."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7165.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: "Zawsze mogę liczyć na Bartka, któremu nie umknie żaden suchar na scenie!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7175.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7227.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Czasami sobie myślę, że każdy z nas ma swoją Gwiazdę Północy, jedni jej nie widzą, inni nie chcą widzieć,
+        jeszcze inni - znaleźli i zamiast się jej trzymać - szukają większego światła. Moja czasami się odwdzięcza
+        i świeci dla mnie, choćby przez moment.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7238.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Dziękuję wszystkim obecnym w Królestwie, dla nas, jako zespołu, był to drugi występ dla publiki, koncert nie do zapomnienia. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7278.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7286.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7281.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7297.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7299.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7404-2.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: "Katowice - <3"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7385.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: "To co?  Pakujemy się i do Wrocka!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7464.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: "&lt;Teleport_Aktywowany&gt;"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7617.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Pierwsza zasada gitarzysty - po koncercie zwiń po bożemu kable, bo... “Jak zadbasz o kable, tak kable o Ciebie”.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7621.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        3 dni później...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7625.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Nawet krasnal przy klubie Alive miał ze mnie bekę...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7636.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Nie wiem o co chodzi, najpierw okulary, teraz kapelusz. Co lepsze, znów Ci sami Panowie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7696.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7697.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        To ewidentnie kapelusz Diany...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7700.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        We  Wrocławiu byliście na wyciągnięcie ręki. Pierwszy rząd dzielnie odpierał ataki mojej śliny :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7747.jpg'
+          author: Magdalena Halicka
+    - position: 24
+      text: |
+        Stół do ping-ponga to nieodłączny element naszych prób. Przed trasą grałem z Bartkiem. Nie była to zwykła gra.
+        Przegrany miał wystąpić we Wrocławiu bez butów… Niestety zignorowałem cierpliwość Bartka (KTÓREGO REGULARNIE OGRYWAM)
+        i przegrałem na przewagi. Na szczęście Grzegorz zadbał o stylowe skarpety z Fredim :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7770.jpg'
+          author: Magdalena Halicka
+    - position: 25
+      text: |
+        Muzyka ożyła, ja odżyłem i świat stał się piękniejszy! Wrocław - przechodzicie do historii naszego zespołu :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7838.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7844.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7777.jpg'
+          author: Magdalena Halicka
+    - position: 26
+      text: |
+        Nie obyło się bez selfie ze sceny ;D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7860.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7863.jpg'
+          author: Magdalena Halicka
+    - position: 27
+      text: |
+        Dziękuję każdej pojedynczej duszy za obecność na tym koncercie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7868.jpg'
+          author: Magdalena Halicka
+    - position: 28
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7948.jpg'
+          author: Magdalena Halicka
+    - position: 29
+      text: |
+        Tak jak obiecałem, <a class="report-link" href="https://www.dropbox.com/sh/qdvwxm297rsepmw/AAAF1DMYRCorWcQDg9k_6-n0a?dl=0" target="_blank">link do folderu ze zdjęciami z Wami!</a> :)
+        <br/>Ogromna prośba o oznaczenie cudownej autorki zdjęć @magryzki_foto (której nieziemsko dziękujemy) przy udostępnianiu :)
+        <br/><b>/P</b>
