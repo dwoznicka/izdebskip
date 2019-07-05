@@ -1488,3 +1488,288 @@
   author: 23 czerwca 2019
   title: Paweł Izdebski wraca do GDYNI ze swoim aktem solowym!
   subtitle: Bilety już w sprzedaży
+
+- url: 'https://www.youtube.com/watch?v=BaBXN0hzzC8'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/profilowe.jpg'
+  position: 49
+  author: YouTube
+  title: X
+  subtitle: Teaser
+
+- id: 'fotorelacja-podroze-duze-i-jeszcze-wieksze-maj-2019'
+  position: 50
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5044_xs.jpg'
+  title: 'Podróże duże i jeszcze większe!'
+  subtitle: Fotorelacja z koncertów majowych i czerwcowych z Kasią Mazurkiewicz!
+  paragraphs:
+    - position: 0
+      text: |
+        Merhaba! <br/><br/>
+        I choć nie jesteśmy w Turcji, to zapragnąłem się z Wami przywitać w tamtejszym języku
+        (po prostu, bez powodu!). Początek wakacji był bardzo duetowy! Odwiedziliśmy z Kasią trzy
+        wspaniałe miejsca w ciągu kilku tygodni… <br/></br/>
+        B I A Ł Y S T O K
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-27.jpg'
+          author: Oleg Zubel
+    - position: 1
+      text: |
+        Ależ tam było... żółto! Nie będę ściemniał, byliśmy z Kasią pierwszy raz w Białym i chcieliśmy Was zaskoczyć… więc ubraliśmy się w barwy Jagi! :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-40.jpg'
+          author: Oleg Zubel
+    - position: 2
+      text: |
+        Klub Jazzon to totalny odjazd. Miejsce jest cudownie klimatyczne, ale też bardzo intymne,
+        co na początku spowodowało lekki stres. Tak naprawdę Białystok był specyficzny, przez kilka 
+        chwil myślałem, że coś jest nie tak. Kompletna cisza. Nikt nie gada. To była moja nadinterpretacja.
+        Wy aktywnie słuchaliście, każdego dźwięku, każdego słowa. Zrozumiałem to jakoś w połowie koncertu
+        i dopiero powrót uzmysłowił mi co się stało.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-36.jpg'
+          author: Oleg Zubel
+    - position: 3
+      text: |
+        Wy po prostu przyszliście po muzykę. I to jest kurde piękne. Stary fortepian dodawał tylko romantyczności całemu wydarzeniu.
+        Świeczki przy zgaszonych światłach spowodowały, że chyba czułem się trochę jak na randce.
+        Podekscytowany i czasami niepewny. Niepewność - w książkach tego zabraniają na scenie. A może po
+        prostu przestać uciekać i zaakceptować swój strach?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-39.jpg'
+          author: Oleg Zubel
+    - position: 4
+      text: "Teraz zaprezentuję jak działa muzyka. Jesteście gotowi? Bo to, co zaraz zobaczycie, jest mocno “wzruszable”: <br/><br/> Nadawca"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-48.jpg'
+          author: Oleg Zubel
+    - position: 5
+      text: "Odbiorca"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-47.jpg'
+          author: Oleg Zubel
+    - position: 6
+      text: |
+        Może przesadzam, a może po prostu tak jest, że niektóre koncerty potrafią zmienić życie. Nie mówię, że ten,
+        mówię że warto na nie chodzić, bo w końcu trafimy na taki, który zmieni nas samych :). Na koniec moja ulubiona fota.
+        Myślę, że w Białymstoku nie ma dużo takich miejsc. Klimatycznych i obłędnych, zwłaszcza... gdy stoi się na scenie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-54.jpg'
+          author: Oleg Zubel
+    - position: 7
+      text: |
+        Białystok niech wie - że prośbę spełnimy i wrócimy. Dziękujemy za zaproszenie i kapitalne warunki.
+        A Wam drodzy fani z Podlasia i okolic - za obecność. <br/><br/>
+        Autorem zdjęć z Białego jest Oleg Zubel - dziękujemy :) <br/><br/>
+        Czas zamknąć kabinę wehikułu czasu (pasy człowieku!) i przenieść się do najchłodniejszego miejsca w naszym kraju.
+        Tak naprawdę - tylko z nazwy, bo w Mrozach było bardzo ciepło!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5382.JPG'
+          author: GCK Mrozy
+    - position: 8
+      text: |
+        (choć jak teraz patrzę na to zdjęcie, to ten dym na scenie wygląda jak para lodowa z zamrażalki, więc może coś w tej nazwie jest ;))
+        <br/><br/>
+        Wróć. Izdebski. Dlaczego było? Bo pierwszy raz występowaliśmy przed uczestnikami konkursu artystycznego
+        “Kulturomaniak”. Mieliśmy przyjemność być muzyczną wisienką na torcie i zagrać dla laureatów tego wydarzenia.
+        A nie jest to łatwe. I nigdy nie będzie. Odnalezienie spokoju w momencie kiedy świadomie występujesz przed ludźmi,
+        którzy zajmują się tym co Ty - napawa lękiem. Ale jak się okazało, to znowu był mój “overthinking” i koncert nie dość,
+        że był intymny (a takie się pamięta na bardzo długo), to sala Centrum Kultury w Mrozach była pełna. To zawsze niewypowiedziany
+        na głos komplement.
+        <br/><br/>
+        Ej bez kitu. Nawet scenografia i światła nadały mroźnego klimatu, ale to mylne wrażenie, bo w serduszkach czuliśmy dużo ciepła.
+        &lt; robię_się_przesadnie_słodki &gt;
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5044.JPG'
+          author: GCK Mrozy
+    - position: 9
+      text: |
+        Wyjątkowe skupienie u naszej dwójki to rzadkość. Zazwyczaj wpadam na scenie na 100 nowych pomysłów, o których nie wspominam Kasi przed koncertem
+        i często zdarza nam się improwizować (co czasem pozytywnie zaskakuje nas samych). Tym razem oddałem moją gwiezdną girlandę na rzecz instrumentu Kasi
+        (trzeba się dzielić, nie?) <br/><br/>
+        Patrząc na foty, zdałem sobie sprawę, że przez cały koncert byliśmy związani niebieską poświatą i wiecie co? Jeszcze bardziej uwielbiam ten kolor
+        (a nie wiedziałem, że można stopniować miłość do kolorów).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5315.JPG'
+          author: GCK Mrozy
+    - position: 10
+      text: |
+        Jak zwykle, przez moje gadanie, koncert wydłużył się ponad scenariuszowe założenia, ale Dyrektor Centrum Kultury dał mi zielone światło,
+        więc nie obeszło się bez bisów! (zaplanowanych :D). Czy wrócimy do Mrozów? Jeśli dostaniemy zaproszenie, to nie będzie momentu zawahania!
+        Dziękujemy i wysyłamy o takie uśmiechy jak poniżej!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5412.JPG'
+          author: GCK Mrozy
+    - position: 11
+      text: |
+        Zostało nam 17%  w akumulatorze - kto leci z nami do Bydgoszczy?! (wiem, że chcesz bez pasów, ale jak nie zapniesz to… nie patrz tymi oczami! Zapinaj!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/Sowa.jpg'
+          author: stocksy.com
+    - position: 12
+      text: |
+        xD <br/><br/>
+        BYYYYYYYYYYYYYDGOSZCZ! Tu też nas nie zaskoczyliście, bo było cudownie, co lepsze, cały dzień był lekko owiany w tajemnice przed… Kasią :D,
+        która tego dnia obchodziła swoje urodziny (według nas, bo docelowa data była dwa dni później). Ale o tym za chwilę. Zbudujmy napięcie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9264.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Krok. 1, zacznijmy czymś zwyczajnym. To ja, na dzień przed, u autorki zdjęć z Bydgoszczy - Magdy Halickiej, którą już pewnie dobrze znacie z naszych koncertów.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_8972.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Jak widać emocje sięgają zenitu. <br/><br/>
+        Zaraz po przyjeździe do klubu ElJazz w Bydgoszczy, załączył się typowy dla mojego mózgu “sprzątacz/ układacz/ koleś_szukający_śrubokręta”
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9131.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Jak przed każdym koncertem, czekała nas próba dźwięku. Jest to jeden z najważniejszych punktów w dniu koncertu.
+        To zazwyczaj ta godzina na scenie z realizatorem sprawia, że koncert jest słaby, średni, dobry, bardzo dobry, znakomity - nie do zapomnienia.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9173.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Jakiś basista chciał zagrać z Kasią, ale chyba powiedział jakiś słaby żart...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9144.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        W każdym razie, jak już się “nagłośnimy”, to następuję kolejna faza. Nasza niskobudżetowa scenografia czyli:</br>
+        &dash; lampki skradzione z choinki <br/>
+        &dash; artefakty z mojego poddasza <br/>
+        &dash; wszystko co świeci <br/>
+        &dash; jeszcze więcej świecących rzeczy <br/><br/>
+        Daria i Needy mają zawsze plan i są najszybsze z najszybszych (zawsze!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9170.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Pan po lewej ma zastrzeżenia do ostatniego zdania. <br/><br/>
+        Dźwięk działa, scena wygląda - czas wspiąć się do garderoby! A tam… Kasia aktywnie i z pełnym zaangażowaniem słucha, jak zrobiłem jej drinka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9126.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Potem robienie ostatecznej set listy. Powiem, że zawsze drukowałem, zazwyczaj za małą czcionką i nic nie widziałem,
+        co skutkowało schylaniem, a często wypinaniem do publiczności moim grzbietem. Ogólnie angażowałem wszystkie swoje ruchy,
+        żeby dopatrzeć się jaka piosenka jest następna. Zrozumiałem, że to był znak i najfajniej mieć po prostu analogowo stworzoną listę piosenek.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9221.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Wiecie, co jest najgorsze - to 20/30 minut przed koncertem. Kiedy czujesz, że jesteś już gotowy i pytasz co chwilę swojej menagerki
+        (Daria <3) czy już możesz iść grać i śpiewać i tańczyć! <br/><br/>
+        &dash; “Jeszcze chwilę” to najbardziej ekscytująca, irytująca i piękna odpowiedź. <br/><br/>
+        Ale dobra, nie przeciągam struny (hehe).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9232.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Zaczęliśmy koncert nową piosenką zatytułowaną “Niewiarygodne”. Nie wiem dlaczego, ale lubię zaczynać koncert z piosenką o refleksyjnym charakterze.
+        Sam zawsze lubię koncerty, po których wychodzę zamyślony, bujający w niebieskich obłokach. Od zawsze byłem człowiekiem melancholią.
+        Wynikało to z dość introwertycznego podejścia do świata. Ale scena zmienia człowieka. Ludzie zmieniają człowieka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9244.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9282.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        Tak! Potrafimy się uśmiechać, ci co byli to wiedzą, że przychodzi też moment na… “Tłuste bity”
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9366.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        Niektórzy wiedzą, co to za utwór. Nie powiem, wpieniło mnie zakończenie sezonu, a bohaterka piosenki… czy to nadal miłość? <br/><br/>
+        Apropo bohaterki. Tego dnia zrobiliśmy Kasi urodzinową niespodziankę. Uwaga, uwaga. Były nawet bio-eko-bezglutenowe babeczki,
+        które upichciła Needy :D To chyba było dość głośne 'sto lat' w stylistyce operowej.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9329-2.jpg'
+          author: Magdalena Halicka
+    - position: 24
+      text: |
+        Solenizantka. <br/>
+        Street Team Izdebski 1:0 Kasia Mazurkiewicz
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9335-4.jpg'
+          author: Magdalena Halicka
+    - position: 25
+      text: |
+        Urodziny urodzinami, ale koncert trzeba dokończyć :D. Na scenie była ze mną Róża, Pocahontas, Rachel oraz “świeżak”.
+        Ukulele tego dnia przybrało imię Glen (męskie, bo Ukulele tenorowe). Co lepsze, pierwszy raz w historii, imię dla mojej partnerki wybrał ktoś z publiki,
+        co oficjalnie zapisałem w moim pamiętniczku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9204.jpg'
+          author: Magdalena Halicka
+    - position: 26
+      text: |
+        A to Róża i jej pierwszy występ z uwiecznionym autografem Glena Hansarda! To słowo nad oznacza po irlandzku “With big love” - i jak ja mam nie kochać kurde życia?
+        Koncert powoli zbliżał się do końca i to jest bardzo smutna chwila, bo widzisz że piosenki się kończą i wyrywa Ci się ta informacja… i nagle słyszysz jęk. Wasz jęk.
+        I to jest miłe, bo chcecie więcej i nie puszczacie nas ze sceny. I to jest kolejny. Bezgłośny komplement.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9268.jpg'
+          author: Magdalena Halicka
+    - position: 27
+      text: |
+        Piękni ludzie i ich szczere uśmiechy, uwiecznione jako dowód, że muzyka to lek na codzienne smutki.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9186(1).jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9294.jpg'
+          author: Magdalena Halicka
+    - position: 28
+      text: |
+        I wiecie co? Mam tych zdjęć jeszcze kilkadziesiąt i każda zostawia mnie z 3 sekundowym zamyśleniem. Że to prawda i że się stało.
+        Więc jest możliwe. To jest to miejsce. Dziękujemy Wam za obecność, za wsparcie i energię, bo nie macie pojęcia, ile jej w nas zostawiacie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9444.jpg'
+          author: Magdalena Halicka
+    - position: 29
+      text: |
+        Autorem zdjęć z Bydgoszczy jest Magdalena Halicka <br/><br/>
+        A tutaj link do zdjęć z Wami! 
+        <a class="report-link" href="https://drive.google.com/open?id=1ddlaXy5bQyin9JQlyHnYwT18RQgKhW3q" target="_blank">Foty z wszystkich koncertów</a>

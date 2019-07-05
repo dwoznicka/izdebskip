@@ -121,6 +121,7 @@
             img {
                 height: 100%;
                 width: 100%;
+                min-width: 100vw;
                 object-fit: cover;
                 position: relative;
             }
