@@ -15,7 +15,7 @@
 {% if page.image_index_url %}
     <meta property="og:image" content="{{ page.image_index_url }}">
 {% else %}
-    <meta property="og:image" content="{{ 'pawel_izdebski.jpg' | asset_path | absolute_url}}">
+    <meta property="og:image" content="https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/strach/strach_1_xs.png">
 {% endif %}
 
 <meta property="og:image:width" content="1200">
@@ -31,7 +31,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@IzdebskiGra">
-<meta property="twitter:image" content="{{ 'pawel_izdebski.jpg' | asset_path | absolute_url}}">
+<meta property="twitter:image" content="https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/strach/strach_1_xs.png">
 <meta name="twitter:creator" content="@IzdebskiGra">
 <meta name="twitter:title" content="{{ page.title | xml_escape }}">
 {% if page.description %}
