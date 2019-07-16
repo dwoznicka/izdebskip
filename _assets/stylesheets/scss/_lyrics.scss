@@ -158,4 +158,36 @@
     &-dialog {
         max-width: 600px !important;
     }
+
+    &.black-modal {
+        .modal-content {
+            background-color: #0C0C2E;
+            color: $brand-white;
+            letter-spacing: 0.4px;
+            text-align: center;
+
+            * {
+                color: $brand-white !important;
+            }
+        } 
+    }
+
+    &-image {
+        cursor: pointer;
+        max-height: 100%;
+        max-width: 100%;
+        height: 500px;
+        width: 500px;
+        object-fit: contain;
+        transition: all 0.15s linear;
+
+        @media (max-width: 767px) {
+            height: 300px;
+            width: 300px; 
+        }
+
+        &:hover {
+            transform: scale(1.03);
+        }
+    }
 }

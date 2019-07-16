@@ -1785,3 +1785,119 @@
   position: 52
   title: Płyta "@strach" zapowiedziana na styczeń 2020
   subtitle: Zamów w przedsprzedaży już dziś!
+
+- id: 'fotorelacja-randka-w-gdyni-czerwiec-2019'
+  position: 53
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9909_xs.jpg'
+  title: 'Randka w Gdyni (udana)'
+  subtitle: Fotorelacja z koncertu Solo Act w Gdyni!
+  paragraphs:
+    - position: 0
+      text: |
+        Nadmorska Struno (wszystkie struny mogą zmieniać swoje lokalizacje oraz cechy, dlatego w tej chwili
+        Ty też jesteś nadmorska!),<br/><br/>
+        Gdynia. Oj często Cię odwiedzam. Dużo jest powodów. Jakoś łatwiej mi się otworzyć nad morzem.
+        Tak też było tym razem. Solo Act to dla mnie najbardziej intymna i zarazem najtrudniejsza forma koncertowa.
+        Będąc samemu na scenie możesz polegać tylko na sobie, musisz być odważny, musisz mieć wiedzieć po co stoisz na tym cudownym dywanie w Blues Club Gdynia.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9967.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        To zdjęcie zrobiła Magda Halicka (jak i resztę zdjęć) o 3 nad ranem. Ale o tym później, po prostu chciałem udowodnić,
+        że byłem nad morzem! <br/><br/>
+        Do Gdyni wróciłem po 7 miesiącach, tym razem sam z moimi pięknościami; Rachel, Glenem, Pocahontas i Różą. Przygotowałem seta,
+        który w moim odczuciu miał być bardziej wycofany i bardziej w głąb. Siebie. Nie lubię się powtarzać, więc na koncert przygotowałem kilka niespodzianek!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9581.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Jest kilka rzeczy, które uwielbiam w tym miejscu, po pierwsze to, że jest to stricte bluesowy club i to czuć.
+        Przez scenografię, przez neon na scenie i ludzi, którzy są jakby troszkę przesiąknięci tą muzyką.
+        Oprócz tego wszystkiego, mój ulubiony mural. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9681.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        W Gdyni było kilka premier i to do tego nie muzycznych. Po pierwsze wystąpiłem w marynarce zaprojektowanej przez Claudię Antoszewski,
+        która niepostrzeżenie stała się stylistką zespołu! Gorąco ją pozdrawiamy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9685.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9729.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Kolejnym ważnym momentem podczas koncertu było odczytanie mojego poematu, który siedział we mnie zbyt długo…
+        Wybrałem publiczność w Gdyni i nie żałowałem. Dużo ze mnie zeszło i utwierdziłem się w tym, że chcę pisać jeszcze więcej.
+        Piosenek, słów, wierszy. Wylewanie emocji na papier sprawia mi coraz więcej radości i modlę się o nieustanny progres w tej kwestii.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9859.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9861.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        I najważniejsze - piosenki.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9753.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9869.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9902.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        W Gdyni parzyło na zewnątrz, a i wiatraki czasami nie dają rady, to też zrobiliśmy chwilę przerwy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9921.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        A na przerwie spotkanie III stopnia…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9830.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "I wracamy na scenę :)"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9909.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9769.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Duża większość wie już o co chodzi z tym papirusem… co nie oznacza, że nadal nie jest to wielka misterna tajemnica! Nie zdradzamy! :) <br/><br/>
+        Piękny to był czas. Ale nie byłby nawet w połowie tak dobry bez ludzi, którzy wspierają mnie całym swoim sercem i razem tworzymy jedną wielką muzyczną ośmiornicę.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9934.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Dziewczyny - dziękuję! A Wam droga publiko dziękuję za kupienie biletów, za słuchanie, za aktywny udział w koncercie. Pora pożegnać się z morzem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9955.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        I obiecane <a class="report-link" href="https://drive.google.com/open?id=1Zd7nO3UJsJoa8aQEhQiDVD5x6uiFDOHg" target="_blank">zdjęcia z Wami w super jakości</a> (dzięki Magda &lt;bije_brawka&gt;) <br/><br/>
+        <b>Pa</b>(weł) <b>Robaczki!</b>
