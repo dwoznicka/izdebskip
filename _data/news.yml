@@ -1901,3 +1901,212 @@
       text: |
         I obiecane <a class="report-link" href="https://drive.google.com/open?id=1Zd7nO3UJsJoa8aQEhQiDVD5x6uiFDOHg" target="_blank">zdjęcia z Wami w super jakości</a> (dzięki Magda &lt;bije_brawka&gt;) <br/><br/>
         <b>Pa</b>(weł) <b>Robaczki!</b>
+
+- id: 'fotorelacja-kraków-lipiec-2019'
+  position: 54
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1165-xs.jpg'
+  title: 'Kraków - Luneta Nocą (Koncert w Forcie!) - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Pamiętam jak dziś, pakowaliśmy sprzęt do vana i ze wszystkich stron zleciały się wrony i kruki. Wydawały z siebie przerażające "Kra! Kra!".
+        Na początku nie wiedziałem, co ma oznaczać to przedziwne zjawisko, ale już kilka minut później zrobiło się jaśniej, gdy na swojej drodze spotkaliśmy
+        stado kameleonów, które wydawały z siebie przedziwne "ków, ków". Połączyłem oba fakty i wiedziałem, że koncert w Lunecie Warszawskiej (starodawny fort - czyli że łuki, miecze i ogry, to chyba czad nie?) będzie wyjątkowy.
+        Wyjazd na koncert zawsze łączy się z ulubioną częścią dnia wszystkich zespołów&colon; <em>Pakowanie sprzętu tak żeby wszystko się zmieściło.</em>
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/bagaz.jpg'
+          author: Paweł Izdebski
+    - position: 1
+      text: |
+        Dzień wcześniej mieliśmy próbę generalną, więc całą podróż przespaliśmy (oprócz Marcina, któremu należą się brawa za kierowanie przez całą drogę!) &lt;miejsce_na_brawa&gt;. 
+        <br/><br/>To Marcin.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0252.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Po drodze udało nam się odnaleźć najbardziej zdezelowaną stację benzynową, peleton rowerów, którego rajd zakłóciły krzyki Diany i zwierzęta, których jednak nie zobaczyliśmy.
+        Dotarliśmy do pięknego miejsca, jakim jest Luneta Warszawska w Krakowie. I zaczął się drugi etap wyjazdu - przygotowanie do próby dźwięku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0324.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0366.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0416.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Mam taką filozofię, że trzeba poczuć scenę, na której gra się koncert, dlatego na próbie dźwięku trzeba dać z siebie to samo 100%, które masz zamiar zaprezentować przed publiką.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0425.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Wiecie co? Mam ogromne szczęście, że mam wokół siebie ludzi, którzy robią rzeczy, o których nie macie pojęcia, a bez których wyszedłbym na scenę nie tylko z ekscytajcą, ale i z ogromnym stresem.
+        To jest Needy, kiedy zapomnę wydrukować setlisty, ten dzielny elf zaraz przychodzi mi z pomocą.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0312.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        A to Darielka, najlepsza menagerka na świecie. Nazywamy ją babcią, bo troszczy się o wszystkich w zespole i niweluje stres do poziomu zerowego (co nie znaczy, że nie krzyczy i nie pogania, kiedy trzeba).
+        <br/>Babciu kochamy Cię! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0315.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Staram się być profesjonalistą w dniu koncertu, ale zawsze wpadnę na coś bardzo, bardzo nieadekwatnego do sytuacji i miejsca.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0535.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        I szósty, mniej widoczny członek zespołu, zawsze jest po drugiej stronie, ale tak naprawdę to od niego zależy, czy Wam się będzie podobał koncert.
+        Robert po raz kolejny kłaniamy się nisko.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0320.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Czas mija nieubłaganie, a w Forcie pojawiają się pierwsze osoby, czym prędzej uciekamy na garderób i zaczynamy czuć ten przyjemny ścisk w żołądku.
+        Nie pokażemy Wam zdjęć z przebierania, bo jest tu za dużo nagości, więc uznajmy, że jesteśmy już w stylóweczkach! I to nie byle jakich.
+        Koncert w Krakowie był wyjątkowy również pod względem wizualnym. <a class="report-link" href="https://www.facebook.com/claudiaxant/" target="_blank">Claudia Antoszewski</a> to wschodząca gwiazda stylizacji i to właśnie ona przygotowała nam stroję na nadchodzącą trasę! :)
+        <br/><br/>Grzegorz znów pomylił soundcheck z koncertem...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0557.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Wiecie, co myślę o czesaniu włosów. Chyba najlepszym potwierdzeniem dla mojej opini jest mina Marcina.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0562.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Zgadnijcie, kto ćwiczy najwięcej. Dla Diany próba dźwięku nie ma końca.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0575.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Na 10 minut przed wejściem, jak widzicie nerwy zostały zjedzone przez naszą radość! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0594.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Dobra, gramy! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0634.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0628.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        O tak wyglądamy z przodu&colon;
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0740.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        A tak z tyłu
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0794.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0784.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Przyszliście tłumnie i fort ożył, emocjami, oddechami. Samo miejsce dodawało jakieś magicznej energii i wspólnie stworzyliśmy coś nadnaturalnie pięknego.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1030.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0809.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0807.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0834.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Jest tak dużo cudownych zdjęć że boli mnie od nich głowa. Dlatego… jeszcze kilka ok? :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1045.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1086.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0910.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Wydawałoby się, że to koniec. Ale tak szybko nas nie puściliście ze sceny! A to chyba największy komplement dla występujących!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1060.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        i.. Buuuuuuuuuuuuuuuuuuuuuuuuum
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1129.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1137.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1159.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        D z i ę k u j e m y
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1187.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1207.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Hola! Myślicie, że zapomniałem co? Tutaj <a class="report-link" target="_blank" href="https://drive.google.com/open?id=1v9tzHKQ7fP02XmZcK3D39-Y5JDPKBFSf">link do zdjęć z Wami</a> :) Śmiało pobierać i oznaczać cały band! :) 
+        <br/><br/> <em>"Szczęście to przyjemność, której się nie żałuje"</em><br/> Sokrates
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1307.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Zdjęcia zrobiła czarodziejka Magdalena Halicka (@ylariee)
+        <br/></br> 
+        <a class="report-link" target="_blank" href="https://www.youtube.com/watch?v=7NmOUyy2_64">Singiel "Niewiarygode"</a>
+        <br/><a class="report-link" target="_blank" href="http://preorder.pawelizdebski.pl/">Preorder płyty "@strach"</a>
+        <br/><br/>
