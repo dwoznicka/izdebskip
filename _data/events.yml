@@ -1,12 +1,7 @@
-- date: 2019-07-20
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=07&utm_source=pawelizdebski.pl&utm_medium=calendar
-
-- date: 2019-07-21
-  name: Spektakl "Once" Teatr Roma (18:00)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=07&utm_source=pawelizdebski.pl&utm_medium=calendar
+- date: 2019-09-23
+  name: Paweł Izdebski - koncert internetowy
+  city: StageIt
+  link_tickets: https://www.stageit.com/pawe_izdebski/koncert_akustyczny/67942
 
 - date: 2019-10-12
   name: Paweł Izdebski - Niewiarygodny Tour
