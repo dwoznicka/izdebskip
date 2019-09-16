@@ -3,6 +3,11 @@
   city: StageIt
   link_tickets: https://www.stageit.com/pawe_izdebski/koncert_akustyczny/67942
 
+- date: 2019-09-27
+  name: Paweł Izdebski - koncert zagadka
+  city: Warszawa
+  link_fb: https://www.facebook.com/events/2366967780066035/
+
 - date: 2019-10-12
   name: Paweł Izdebski - Niewiarygodny Tour
   city: KALISZ
@@ -23,7 +28,17 @@
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?year=2019&month=10&utm_source=pawelizdebski.pl&utm_medium=calendar
 
+- date: 2019-10-20
+  name: Spektakl "Once" Teatr Roma (18:00)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?year=2019&month=10&utm_source=pawelizdebski.pl&utm_medium=calendar
+
 - date: 2019-11-10
   name: Paweł Izdebski - Niewiarygodny Tour
   city: LUBLIN
   link_tickets: https://goout.net/pl/koncerty/niewiarygodny-tour-pawel-izdebski/kjiqe/+bdgjn/
+
+- date: 2019-11-09
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: RADOM
+  link_tickets: https://goout.net/pl/koncerty/pawel-izdebski/jriqe/+kegjn/
