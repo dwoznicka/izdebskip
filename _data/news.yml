@@ -2152,3 +2152,17 @@
   title: 'MUZYCZNA JESIEŃ 2019 – NA JAKIE KONCERTY SIĘ WYBRAĆ?'
   subtitle: 'WLKM.PL zaprasza na koncerty Pawła Izdebskiego'
   author: wlkm.pl
+
+- url: 'https://www.youtube.com/watch?v=SblnD_BQiws'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1137.jpg'
+  position: 61
+  title: 'Niawiarygodne live at Luneta Nocą 2019'
+  subtitle: 'Nagranie live z koncertu w Krakowie!'
+  author: YouTube
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2019/10/06/zapowiedz-plyty-i-premierowego-koncertu-pawla-izdebskiego/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/01-pawel_izdebski-fot.-Magdalena-Halicka.jpg'
+  position: 62
+  title: 'Zapowiedź płyty i premierowego koncertu Pawła Izdebskiego'
+  subtitle: 'Płyta Pawła Izdebskiego “@strach” pojawi się już w styczniu. Premierze będzie towarzyszył koncert w warszawskim klubie “Progresja”.'
+  author: Polska Płyta / Polska Muzyka
