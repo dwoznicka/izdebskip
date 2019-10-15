@@ -2180,3 +2180,24 @@
   title: '“Laura” kolejnym singlem Pawła Izdebskiego [PREMIERA]'
   subtitle: 'W czwartek 10 października premierę miał drugi singiel z płyty Pawła Izdebskiego.'
   author: Polska Płyta / Polska Muzyka
+
+- url: 'http://wlkm.pl/2-muzyczna-sciaga-05-10-12-10/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Laura.png'
+  position: 65
+  title: '#2 MUZYCZNA ŚCIĄGA: 05.10-12.10'
+  subtitle: 'Czym byłby kolejny tydzień jesieni bez zaskakujących premier muzycznych?'
+  author: WLKM.pl
+
+- url: 'https://www.cgm.pl/news/pawel-izdebski-prezentuje-nowy-klip/'
+  image_url: 'https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_670/https://www.cgm.pl/wp-content/uploads/2019/10/pawel_izdebski-fot_Magdalena_Kubiak-670x390.jpg'
+  position: 66
+  title: 'Paweł Izdebski prezentuje nowy klip'
+  subtitle: 'Artysta szykuje się do wydania debiutanckiej płyty.'
+  author: CGM.pl
+
+- url: 'https://www.facebook.com/events/762520977527034/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel_izdebski_zespol-fot_Magdalena_Kubiak_sm.jpg'
+  position: 67
+  title: 'Nowa data koncertu w Poznaniu!'
+  subtitle: 'Październikowy koncert został przełożony na 24.11'
+  author: All In Poznań / GoOut
