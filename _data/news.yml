@@ -2201,3 +2201,141 @@
   title: 'Nowa data koncertu w Poznaniu!'
   subtitle: 'Październikowy koncert został przełożony na 24.11'
   author: All In Poznań / GoOut
+
+- id: 'fotorelacja-warszawa-wrzesien-2019'
+  position: 68
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8596_xs.jpg'
+  title: 'Zagadkowo w Warszawie - klubokawiarnia Towarzyska - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Na Radamesa! Jesień! A jesień, moi mili, to czas koncertów. Zaczęliśmy skromnie i tajemniczo we wrześniu.
+        Jak się okazało, bardzo lubicie zagadki i pomimo tego, że nie było łatwo znaleźć na nie odpowiedzi - klub został wyprzedany,
+        przez co wielu z Was ucierpiało (wynagrodzimy to Wam w styczniu - <a class="report-link" href="https://www.facebook.com/events/758434724609552/" target="_blank">Koncert w Progresji!</a>).
+        Niemniej jednak ci, którzy dotarli do klubokawiarni Towarzyska, mieli okazję posłuchać materiału z nadchodzącej płyty @strach w wersji akustycznej.
+        Dla nas było to pierwszy taki występ i mamy niecne plany, jeśli chodzi o granie unplugged :) Ale wszystko w swoim czasie.
+        W Towarzyskiej jak zwykle było miło - co nie oznacza, że nie trzeba było zrobić próby dźwięku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8536.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Jak to na próbach dźwięku - iskrzy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8529.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Muszę przyznać, że pękało mi serce, gdy pisałem te posty z zagadkami, trudnymi, nie powiem. Kilka osób zaskoczyło mnie
+        swoją analizą. Im było bliżej terminu koncertu - tym bardziej chciałem wykrzyczeć odpowiedzi na głos! Na golasa, na balkonie,
+        żeby cała Warszawa usłyszała mój ryk! Niektórzy z Was popisali się znajomością trylogii Tolkiena, władaniem Sindarińskiego
+        (Język Szarych Elfów) oraz wiedzą na temat uniwersum Marvela! <br/><br/>
+        Jednak niektórzy reagowali na te zagadki-podpowiedzi jak Grzegorz, który tego wieczoru zagrał na cajonie
+        (to kwadratowe pudełko, na którym siedział).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8516.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8571.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Nie zabrakło mojego Glena i lampeczek z choinki. Towarzyska, jak zawsze, ma w sobie coś z wielkiego pokoju z kominkiem.
+        Lubię tam wracać w każdej formie. Nawet bez instrumentu, po prostu na kawę. Polecamy to miejsce do akustycznych przeżyć.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8522.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Pamiętacie Bartka? Do tej pory nie wiemy dlaczego cała trójka odkręciła głowy w jego stronę, niemniej jednak uznałem, że to musiało być coś ważnego, więc napisałem o tym w tej fotorelacji.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8519.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        A to Bartek :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8514.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Koncert czas zacząć. Wszystko punktualnie, bez przepychanek i w dobrej atmosferze. Tak lubię. Więc przebrałem się z radością i użyłem moich ulubionych perfum
+        (Halloween Rock’n’Roll <- ta nazwa zobowiązuje, wiem). A używam ich tylko na najważniejsze wydarzenia w moim życiu. To była jedna z nich. Koncert, na który odkryliśmy wiele kart. 
+        Między innymi nasze zielony outfit, skomponowany przez Claudię Antoszewski, która również była obecna na naszym koncercie! Mocno Cię pozdrawiamy C. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8574.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        A to już chyba pierwszy utwór, heheszki zmieniają się w skupienie i albumowy @strach :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8579.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Ja również się zmieniam - w Samarę.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8604.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: "Na koncerty zawsze zabieram kilka artefaktów, które przynoszą mi szczęście. <br/>Trzewiczki:"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8618.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: "oraz kota."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8619.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Tytuł płyty może wydawać się trochę mroczny, ale tak naprawdę chodzi o walkę, która ma jeden cel: wywołać uśmiech :)"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8664.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8615.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8686.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8666.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8659.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8633.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Pod koniec koncertu, czekał na Was gość specjalny, którego dobrze znacie - Kasia Mazurkiewicz, dołączyła do nas i wykonała z nami Chorobę (nasz duet instrumentalny), Szwy oraz Niewiarygodne w wersji akustycznej. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8677.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        I znów - byliście Wy, z bagażem wsparcia, walizkami energii i słowem po koncercie, który nie pozwala usiąść na chodniku i czekać aż coś się wydarzy.
+        Dziękuję Wam za obecność i chęć zaangażowania się w ten UDANY eksperyment z zagadkami. Dziękuję. <br/><br/>
+        Dziękuję.<br/> Tak dobiegł końca premierowy koncert akustyczny z materiałem @strach.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8654.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Zdjęcia wykonała Magdalena Halicka. <br/>/P
