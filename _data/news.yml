@@ -2339,3 +2339,24 @@
     - position: 13
       text: |
         Zdjęcia wykonała Magdalena Halicka. <br/>/P
+
+- url: 'https://www.radio.lublin.pl/news/koncert-pawla-izdebskiego?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/gallery/pawel_izdebski_z_zespolem-fot_Magdalena_Kubiak.jpg'
+  position: 69
+  title: 'Koncert Pawła Izdebskiego w Lublinie 10 listopada'
+  subtitle: 'Koncert Pawła Izdebskiego w Klubie 30 przy ulicy Jasnej w Lublinie jest częścią trasy Niewiarygodny Tour, promujący płytę "@strach"'
+  author: Radio Lublin
+
+- url: 'https://www.cozadzien.pl/kultura/koncert-pawla-izdebskiego-z-zespolem/60440?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/gallery/pawel_izdebski_zespol-fot_Magdalena_Kubiak.jpg'
+  position: 70
+  title: 'Paweł Izdebski wystąpi w Radomiu już 9 listopada'
+  subtitle: 'Razem ze swoim zespołem promować będą nadchodzący album "@strach" przedpremierowym koncertem w Cafe Elektrownia'
+  author: CoZaDzien.pl
+
+- url: 'https://agoramuzyka.ffm.to/pawelizdebskiszwy'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/okladka_szwy_beznapisow.png'
+  position: 71
+  title: '"Szwy" - trzeci singiel płyty "@strach" - będzie miał premierę już 14 listopada.'
+  subtitle: 'Już teraz możesz zapisać utwór w swojej playliście Spotify, Deezer lub Apple Music, aby dostać powiadomienie w dniu premiery! [kliknij tutaj]'
+  author: Fot. Magdalena Halicka
