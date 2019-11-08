@@ -2360,3 +2360,213 @@
   title: '"Szwy" - trzeci singiel płyty "@strach" - będzie miał premierę już 14 listopada.'
   subtitle: 'Już teraz możesz zapisać utwór w swojej playliście Spotify, Deezer lub Apple Music, aby dostać powiadomienie w dniu premiery! [kliknij tutaj]'
   author: Fot. Magdalena Halicka
+
+- url: 'https://radio.lublin.pl/news/pawel-izdebski-plyta-w-drodze-singiel-juz-jest-3634022?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://media.radio.lublin.pl/image/3634/3634022/3965007_lg.jpg'
+  position: 72
+  title: 'Paweł Izdebski: Płyta w drodze, singiel już jest'
+  subtitle: 'Na antenie Radio Lublin Paweł opowiedział o swojej twórczości i singlu "Niewiarygodne". 10 listopada Paweł wystąpi ze swoim zespołem w Lublinie.'
+  author: Radio Lublin
+
+- id: 'fotorelacja-kalisz-pazdziernik-2019'
+  position: 73
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8929_xs.jpg'
+  title: 'Niewiarygodnie w Kaliszu - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Pakowanie. Pakowanie sprzętu to etap 1. każdego wyjazdu na koncert czy w większą trasę.<br/>
+        Nie inaczej było u nas. W punkcie zbornym, naszych instrumentów pilnował agent specjalny aka “Barry”.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8724.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8723.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8720.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        1 pakuje, reszta ocenia, analizuje, krytykuje i daje swoje rady :D 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8727.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Nie będę ściemniał, ciężko było ustrzelić fotę w pełnym busie. W mgnieniu oka znaleźliśmy się w Kaliszu. A dokładnie w Centrum Kultury i Sztuki. Dopiero co się spakowali, a już muszą się rozstawiać.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8744.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Bartek przy rozstawianiu odkrył swoje prawdziwe powołanie. No cóż, tamburyn to też instrument!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8747.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        W Kaliszu miałem tylko jeden koszmar - urwana rączka w casie na gitarę. Musiałem ją nosić jak pannę młodą (i tak też robiłem!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8754.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Grzegorz ma spory zestaw perkusyjny, to też ostatni pije przedkoncertową kawę. Chwała Grzegorzowi!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8756.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Bartek i jego Fender, tuż po wylądowaniu. Piękny z nich duet. Na scenie tylko to potwierdzają!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8759.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Dianie coś się nie podoba i puls mi rośnie…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8762.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        A nie, jednak nie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8767.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        5 lat później…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8768.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        XD <br/><br/>
+        A to Robert Juzala (GoSound). Realizatorzy dźwięku często są niedoceniani. Dla mnie to członek zespołu,
+        bez którego wpadam w panikę. W Kaliszu był z nami i to dzięki niemu usłyszeliście każdy aranżacyjny szczegół!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8785.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Będziesz ładnie grał, czy nie, Grzesiu?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8788.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Dobra, próba dźwięku, za dwie godziny pierwsi goście!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8809.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8851.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Make up, fryz, przebiórki, chill (nigdy nie jestem w stanie na 100% wyczilować).<br/>
+        Diana uznała, że mi pierdyknie loka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8863.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Zrobiła to.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8869.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Wychodzimy! Jeszcze tylko piracki okrzyk i...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8885.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Czas święty święcić.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8895.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8900.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Zmiana światła!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8903.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8905.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Kurde, kocham śpiewać.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8929.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8977.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Diana w innym świecie…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8957.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Nie było nas dużo na sali, lecz nie daliście nam tego odczuć. Pozdrawiam gorąco dziewczyny, które tańcowały z boku i beztrosko cieszyły się muzyką.
+        Dziękuję wszystkim za obecność i aktywne słuchanie. Nasz materiał dojrzewa i byliście jednymi z pierwszych, którzy go usłyszeli.
+        Życzę sobie i Wam, żebyśmy kiedyś mogli wspomnieć pierwszy koncert na trasie “Niewiarygodny Tour” :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8950.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9008.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8940.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8915.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9017.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Na zdjęciu cała ekipa!<br/>
+        Ściskamy również Wiktorię, która zrobiła nam niesamowity prezent, który będziemy pamiętać przez cały rok :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9059.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        Jeśli to czytasz i nigdy nie byłeś na moim koncercie - wpadnij, nie pożałujesz :)<br/><br/>
+        Zdjęcia wykonała Magdalena Halicka <br/><br/>
+        <b>/P.</b>
