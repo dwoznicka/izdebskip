@@ -1,34 +1,37 @@
-- date: 2019-11-24
-  name: Paweł Izdebski - Niewiarygodny Tour
-  city: POZNAŃ
-  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/tqjf/
-
-- date: 2019-11-21
-  name: Spektakl "Once" Teatr Roma (19:30)
+- date: 2019-12-02
+  name: Eliminacje do Rock Na Bagnie
   city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2019-11-01&do=2019-11-30&utm_source=pawelizdebski.pl&utm_medium=calendar
+  link_fb: https://www.facebook.com/events/2624545574295780/
+
+- date: 2019-12-05
+  name: Wielka Draka Dla Dzieciaka
+  city: WROCŁAW
+  link_fb: https://www.facebook.com/events/448430785722656/
 
 - date: 2019-12-13
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?od=2019-12-01&do=2019-12-31&utm_source=pawelizdebski.pl&utm_medium=calendar
 
-- date: 2019-11-23
-  name: Paweł Izdebski - Niewiarygodny Tour
-  city: ŁÓDŹ
-  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/rwgf/
-
 - date: 2020-01-26
   name: Paweł Izdebski - KONCERT PREMIEROWY @strach
   city: WARSZAWA
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski-premiera-albumu/swgf/
 
-- date: 2019-11-18
-  name: Ostatnia syrena. Hydrozagadkowy ekomusical
-  city: WARSZAWA
-  link_fb: https://www.facebook.com/events/577947469413013/
-
 - date: 2019-12-11
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?od=2019-12-01&do=2019-12-31&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2020-01-10
+  name: Spektakl "Once" Teatr Roma (19:30)
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?od=2020-01-01&do=2020-01-31&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2020-01-17
+  name: Premiera płyty "@strach"
+
+- date: 2020-02-14
+  name: HeartRockowanie
+  city: WARSZAWA
+  link_tickets: http://heartrockowanie.pl/
