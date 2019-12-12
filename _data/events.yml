@@ -1,13 +1,3 @@
-- date: 2019-12-02
-  name: Eliminacje do Rock Na Bagnie
-  city: WARSZAWA
-  link_fb: https://www.facebook.com/events/2624545574295780/
-
-- date: 2019-12-05
-  name: Wielka Draka Dla Dzieciaka
-  city: WROCŁAW
-  link_fb: https://www.facebook.com/events/448430785722656/
-
 - date: 2019-12-13
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
@@ -17,11 +7,6 @@
   name: Paweł Izdebski - KONCERT PREMIEROWY @strach
   city: WARSZAWA
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski-premiera-albumu/swgf/
-
-- date: 2019-12-11
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2019-12-01&do=2019-12-31&utm_source=pawelizdebski.pl&utm_medium=calendar
 
 - date: 2020-01-10
   name: Spektakl "Once" Teatr Roma (19:30)
@@ -40,3 +25,8 @@
   name: Spektakl "Once" Teatr Roma (19:30)
   city: WARSZAWA
   link_tickets: https://bilety.teatrroma.pl/?od=2020-01-01&do=2020-01-31&utm_source=pawelizdebski.pl&utm_medium=calendar
+
+- date: 2019-12-22
+  name: Koncert Młodzieżowy Strajk Klimatyczny
+  city: WARSZAWA
+  link_fb: https://www.facebook.com/events/2521346257982401/
