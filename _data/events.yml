@@ -1,8 +1,3 @@
-- date: 2019-12-13
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2019-12-01&do=2019-12-31&utm_source=pawelizdebski.pl&utm_medium=calendar
-
 - date: 2020-01-26
   name: Paweł Izdebski - KONCERT PREMIEROWY @strach
   city: WARSZAWA
@@ -30,3 +25,36 @@
   name: Koncert Młodzieżowy Strajk Klimatyczny
   city: WARSZAWA
   link_fb: https://www.facebook.com/events/2521346257982401/
+
+- date: 2020-02-08
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: WROCŁAW
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/gqvf/
+
+- date: 2020-02-09
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: GLIWICE
+
+- date: 2020-02-23
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: BIAŁYSTOK
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/jqvf/
+
+- date: 2020-02-29
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: SZCZECIN
+
+- date: 2020-03-01
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: GDAŃSK
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/kqvf/
+
+- date: 2020-03-14
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: OLSZTYN
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/yqvf/
+
+- date: 2020-03-15
+  name: Paweł Izdebski - Niewiarygodny Tour
+  city: TORUŃ
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/prvf/

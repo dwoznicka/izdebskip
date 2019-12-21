@@ -1,7 +1,7 @@
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel-izdebski-004-fot-Daniel-Rusin.jpg
   author: Daniel Rusin
   name: Paweł Izdebski
-  position: 2
+  position: 4
 
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/01-pawel_izdebski-fot.-Magdalena-Halicka.jpg
   author: Magdalena Halicka
@@ -11,4 +11,14 @@
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel-izdebski-005-fot-Magdalena-Halicka.jpg
   author: Magdalena Halicka
   name: Paweł Izdebski
+  position: 2
+
+- url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/facebook-cover-photo-template_xl.png
+  author: Magdalena Halicka
+  name: Niewiarygodny Tour
   position: 1
+
+- url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/strach.png
+  author: Magdalena Halicka
+  name: Premiera "@strach" 17 stycznia
+  position: 3
