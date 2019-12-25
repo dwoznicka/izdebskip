@@ -1,5 +1,5 @@
 - title: 'Książę Naiwności'
-  position: 4
+  position: 7
   yt_link: 'https://www.youtube.com/watch?v=TIcKFld_DhE&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=4'
   text: |
     Zakładam koronę mieni się czystym złotem
@@ -34,7 +34,7 @@
     Jak Książę Naiwności
 
 - title: 'Balon'
-  position: 5
+  position: 8
   yt_link: 'https://www.youtube.com/watch?v=xcXnqFMatBU&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=3'
   text: |
     Trzymam sznurek od balona
@@ -85,7 +85,7 @@
     Niż po ziemi chodzić sam
 
 - title: 'Nadzieja w Nowym Jorku'
-  position: 6
+  position: 9
   yt_link: "https://www.youtube.com/watch?v=LuXa7OMxbVc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=12"
   text: |
     Przez dzień cały w Nowym Jorku 
@@ -116,7 +116,7 @@
     Jak dla ludzi jest ich Bóg
 
 - title: 'Nigdy nie przestanę'
-  position: 7
+  position: 10
   yt_link: "https://www.youtube.com/watch?v=nlPWKWMAHqY&index=2&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Pytam wkoło cały czas
@@ -171,7 +171,7 @@
     W ramionach mocno trzymam Cię
 
 - title: 'Cisza'
-  position: 8
+  position: 11
   yt_link: "https://www.youtube.com/watch?v=JI7c7jjwYEY&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=4"
   text: |
     Nie pamiętam kiedy było lepiej
@@ -201,7 +201,7 @@
     Okłam mnie zabierz mnie
 
 - title: 'Moja Khaleesi'
-  position: 9
+  position: 12
   yt_link: "https://www.youtube.com/watch?v=F4-KHbswlhY&index=1&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Fioletowe oczy srebrno-złote włosy
@@ -253,7 +253,7 @@
     Moja Khaleesi pozwól mi Cię zabrać stąd
 
 - title: 'No cóż'
-  position: 3
+  position: 4
   spotify_link: "https://open.spotify.com/track/0uYtuYA3AEDPeCI7bAVDev"
   text: |
     Chyba już zapomniałem jak dobrze miało być
@@ -286,7 +286,7 @@
     No cóż
 
 - title: 'Przystanki na żądanie'
-  position: 11
+  position: 14
   yt_link: "https://www.youtube.com/watch?v=tv-gIZFlf64&index=31&list=UUoX8tn1NKyWlD1uvf7r0NHw"
   text: |
     Powietrze lekko dziś gra
@@ -328,7 +328,7 @@
     Mieszkają na stałe tu
 
 - title: 'Może'
-  position: 12
+  position: 15
   yt_link: "https://www.youtube.com/watch?v=elkrN4Mugrc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=8"
   text: |
     A może
@@ -383,7 +383,7 @@
     Może
 
 - title: 'Czekam na Ciebie'
-  position: 10
+  position: 13
   yt_link: "https://www.youtube.com/watch?v=K7fYlmUBvos&index=5&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Każdy gdzieś na kogoś czeka zakochany o tym wie
@@ -417,7 +417,7 @@
     I pamiętaj czekam na Ciebie
 
 - title: 'Nietykalna'
-  position: 13
+  position: 16
   yt_link: "https://www.youtube.com/watch?v=mzGRH1T5hdE&index=3&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Widziałaś wiele
@@ -457,7 +457,7 @@
     Tak bardzo nie ma Cię
 
 - title: 'Turira-Paj'
-  position: 14
+  position: 17
   yt_link: "https://www.youtube.com/watch?v=2wVgOWx4Rc8&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=9"
   text: |
     Turira-paj
@@ -471,7 +471,7 @@
     Turira-paj
 
 - title: 'Plum'
-  position: 15
+  position: 18
   yt_link: "https://www.youtube.com/watch?v=Tl8ENBZBJlU&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=13"
   text: |
     Sam po środku morza sam
@@ -503,7 +503,7 @@
     Plum plum plum plum plum plum
 
 - title: 'Niewiarygodne'
-  position: 2
+  position: 3
   yt_link: "https://www.youtube.com/watch?v=7NmOUyy2_64"
   text: |
     Ciągle uciekam, ciągle znikam gdzieś
@@ -531,7 +531,7 @@
     Wiem to niewygodne, kochać dłużej niż jeden dzień
 
 - title: 'Laura'
-  position: 1
+  position: 2
   yt_link: "https://www.youtube.com/watch?v=Yvk_7MNC8Qg"
   text: |
     Na skos ustawiam się do Ciebie
@@ -575,7 +575,7 @@
     Laura muszę Ci powiedzieć
 
 - title: 'Szwy'
-  position: 0
+  position: 1
   yt_link: "https://www.youtube.com/watch?v=prAoa8lbAv4"
   text: |
     Nie pamiętasz moich słów
@@ -616,3 +616,78 @@
     Czas uleczy rany
     Ale to co było między nami
     zostanie w nas
+
+- title: 'Dom'
+  position: 0
+  yt_link: "https://www.youtube.com/watch?v=d8GrBXSQ8Yg"
+  text: |
+    Kolejny raz wracam w swoje strony
+    Gdzie drzewa zdobi srebrny płaszcz
+    Zapada zmrok, już tylko kilka godzin
+    Czy będziesz nadal w oknie stać?
+
+    Nie ma skrótów poprzez las
+    Śnieg już zakrył każdą
+    Ścieżkę którą znam
+    W starym fiacie zima trwa
+    W drogę ruszyć nadszedł czas
+
+    W stronę domu pcha mnie wiatr
+    Nawiguje najjaśniejsza z gwiazd
+    Czy to ty otworzysz drzwi 
+    Czy prezentem będziesz ty 
+
+    Kolejny raz, na strychu stare pudło   
+    Przywraca znów grudniowy czar
+    Za oknem mróz, rysuje cicho wzory
+    Sukienki na zimowy bal
+
+    Choć kolędy nadszedł czas
+    Z płyty Buckley słodko gra
+    Znów doceniam to co mam
+    Że w tę noc nie jestem sam
+
+    W stronę domu pcha mnie wiatr
+    Nawiguje najjaśniejsza z gwiazd
+    Czy to ty otworzysz drzwi 
+    Czy prezentem będziesz ty
+
+- title: 'Yeti George'
+  position: 5
+  yt_link: "https://www.youtube.com/watch?v=7K7gV9XK5IE"
+  text: |
+    GDY W NEPALU LATO TRWA
+    WIELKA STOPA RUSZA W ŚWIAT
+    MÓWIĄ ŻE TO WIELKI GOŚĆ
+    BIAŁE FUTRO ZĘBÓW STO
+    W HIMALAJACH SKALNY DOM 
+    NIKT NIE ODKRYŁ JESZCZE GO  
+    CIĄGLE BUDZI WIELKI STRACH
+    YETI HAS JUST LEFT THE CHAT
+      
+    TO NIE ŻADEN POTWÓR, DZIWAK ANI ORK,
+    PRZYBYŁ Z HIMALAJÓW SMUTNY YETI GEORGE
+    WSZYSCY MYŚLĄ O TYM JAKI GROŹNY JEST
+    YETI TAK NAPRAWDĘ CHCIAŁ POŻYCZYĆ ŚNIEG
+
+    TO NIE ŻADEN POTWÓR DZIWAK ANI ORK
+    PRZYBYŁ TU BY ZNALEŹĆ ŚNIEŻNOBIAŁY SCHRON
+    KIEDY WSZYSTKIE TWOJE PLANY IDĄ W ŁEB
+    GEORGE POMOŻE PRZESTAŃ MYŚLEĆ ŻE CIE ZJE
+    NIE ZJE
+    
+    DO TYBETU WRACAĆ CZAS
+    SPAKOWANY PLECAK MA
+    JUŻ NIE WRÓCI NIE MA SZANS
+    TO SIĘ ZDARZA TYLKO RAZ
+
+    TO NIE ŻADEN POTWÓR, DZIWAK ANI ORK,
+    PRZYBYŁ Z HIMALAJÓW SMUTNY YETI GEORGE
+    WSZYSCY MYŚLĄ O TYM JAKI GROŹNY JEST
+    YETI TAK NAPRAWDĘ CHCIAŁ POŻYCZYĆ ŚNIEG
+
+    TO NIE ŻADEN POTWÓR DZIWAK ANI ORK
+    PRZYBYŁ TU BY ZNALEŹĆ ŚNIEŻNOBIAŁY SCHRON
+    KIEDY WSZYSTKIE TWOJE PLANY IDĄ W ŁEB
+    GEORGE POMOŻE PRZESTAŃ MYŚLEĆ ŻE CIE ZJE
+    NIE ZJE
