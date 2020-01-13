@@ -3,11 +3,6 @@
   city: WARSZAWA
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski-premiera-albumu/swgf/
 
-- date: 2020-01-10
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2020-01-01&do=2020-01-31&utm_source=pawelizdebski.pl&utm_medium=calendar
-
 - date: 2020-01-17
   name: Premiera płyty "@strach"
 
@@ -15,16 +10,6 @@
   name: HeartRockowanie
   city: WARSZAWA
   link_tickets: http://heartrockowanie.pl/
-
-- date: 2020-01-07
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2020-01-01&do=2020-01-31&utm_source=pawelizdebski.pl&utm_medium=calendar
-
-- date: 2020-01-08
-  name: Spektakl "Once" Teatr Roma (19:30)
-  city: WARSZAWA
-  link_tickets: https://bilety.teatrroma.pl/?od=2020-01-01&do=2020-01-31&utm_source=pawelizdebski.pl&utm_medium=calendar
 
 - date: 2020-02-08
   name: Paweł Izdebski - Niewiarygodny Tour
@@ -34,6 +19,7 @@
 - date: 2020-02-09
   name: Paweł Izdebski - Niewiarygodny Tour
   city: GLIWICE
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/btxf/
 
 - date: 2020-02-23
   name: Paweł Izdebski - Niewiarygodny Tour
@@ -43,6 +29,7 @@
 - date: 2020-02-29
   name: Paweł Izdebski - Niewiarygodny Tour
   city: SZCZECIN
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/atxf/
 
 - date: 2020-03-01
   name: Paweł Izdebski - Niewiarygodny Tour
