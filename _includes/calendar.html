@@ -13,6 +13,8 @@
                 <a class="event-link" href="{{ event.link_fb }}" target="_blank">FB</a>
             {% elsif event.link_tickets %}
                 <a class="event-link" href="{{ event.link_tickets }}" target="_blank">Bilety</a>
+            {% elsif event.link_buy %}
+                <a class="event-link" href="{{ event.link_buy }}" target="_blank">Kup</a>
             {% else %}
                 <div class="event-link-placeholder"></div>
             {% endif %}

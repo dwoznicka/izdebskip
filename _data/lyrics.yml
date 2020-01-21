@@ -1,5 +1,5 @@
 - title: 'Książę Naiwności'
-  position: 7
+  position: 10
   yt_link: 'https://www.youtube.com/watch?v=TIcKFld_DhE&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=4'
   text: |
     Zakładam koronę mieni się czystym złotem
@@ -34,7 +34,7 @@
     Jak Książę Naiwności
 
 - title: 'Balon'
-  position: 8
+  position: 11
   yt_link: 'https://www.youtube.com/watch?v=xcXnqFMatBU&list=PLqCQLqu2-v2gEuRCvdda3U7U3BMjqX3-z&index=3'
   text: |
     Trzymam sznurek od balona
@@ -85,7 +85,7 @@
     Niż po ziemi chodzić sam
 
 - title: 'Nadzieja w Nowym Jorku'
-  position: 9
+  position: 12
   yt_link: "https://www.youtube.com/watch?v=LuXa7OMxbVc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=12"
   text: |
     Przez dzień cały w Nowym Jorku 
@@ -116,7 +116,7 @@
     Jak dla ludzi jest ich Bóg
 
 - title: 'Nigdy nie przestanę'
-  position: 10
+  position: 13
   yt_link: "https://www.youtube.com/watch?v=nlPWKWMAHqY&index=2&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Pytam wkoło cały czas
@@ -171,7 +171,7 @@
     W ramionach mocno trzymam Cię
 
 - title: 'Cisza'
-  position: 11
+  position: 14
   yt_link: "https://www.youtube.com/watch?v=JI7c7jjwYEY&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=4"
   text: |
     Nie pamiętam kiedy było lepiej
@@ -201,7 +201,7 @@
     Okłam mnie zabierz mnie
 
 - title: 'Moja Khaleesi'
-  position: 12
+  position: 15
   yt_link: "https://www.youtube.com/watch?v=F4-KHbswlhY&index=1&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Fioletowe oczy srebrno-złote włosy
@@ -253,8 +253,8 @@
     Moja Khaleesi pozwól mi Cię zabrać stąd
 
 - title: 'No cóż'
-  position: 4
-  spotify_link: "https://open.spotify.com/track/0uYtuYA3AEDPeCI7bAVDev"
+  position: 5
+  spotify_link: "https://open.spotify.com/track/31fejLhYZM7YUYRRVBqiK1?si=lSXEatWaQ5OFpxY13NL4YA"
   text: |
     Chyba już zapomniałem jak dobrze miało być
     naprawdę nie chciałem szukać gdzie indziej
@@ -286,7 +286,7 @@
     No cóż
 
 - title: 'Przystanki na żądanie'
-  position: 14
+  position: 18
   yt_link: "https://www.youtube.com/watch?v=tv-gIZFlf64&index=31&list=UUoX8tn1NKyWlD1uvf7r0NHw"
   text: |
     Powietrze lekko dziś gra
@@ -328,7 +328,7 @@
     Mieszkają na stałe tu
 
 - title: 'Może'
-  position: 15
+  position: 19
   yt_link: "https://www.youtube.com/watch?v=elkrN4Mugrc&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=8"
   text: |
     A może
@@ -383,7 +383,7 @@
     Może
 
 - title: 'Czekam na Ciebie'
-  position: 13
+  position: 16
   yt_link: "https://www.youtube.com/watch?v=K7fYlmUBvos&index=5&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Każdy gdzieś na kogoś czeka zakochany o tym wie
@@ -417,7 +417,7 @@
     I pamiętaj czekam na Ciebie
 
 - title: 'Nietykalna'
-  position: 16
+  position: 20
   yt_link: "https://www.youtube.com/watch?v=mzGRH1T5hdE&index=3&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302"
   text: |
     Widziałaś wiele
@@ -457,7 +457,7 @@
     Tak bardzo nie ma Cię
 
 - title: 'Turira-Paj'
-  position: 17
+  position: 21
   yt_link: "https://www.youtube.com/watch?v=2wVgOWx4Rc8&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=9"
   text: |
     Turira-paj
@@ -471,7 +471,7 @@
     Turira-paj
 
 - title: 'Plum'
-  position: 18
+  position: 22
   yt_link: "https://www.youtube.com/watch?v=Tl8ENBZBJlU&list=PLqCQLqu2-v2i-mwXOyajzEKI42CRov302&index=13"
   text: |
     Sam po środku morza sam
@@ -503,7 +503,7 @@
     Plum plum plum plum plum plum
 
 - title: 'Niewiarygodne'
-  position: 3
+  position: 1
   yt_link: "https://www.youtube.com/watch?v=7NmOUyy2_64"
   text: |
     Ciągle uciekam, ciągle znikam gdzieś
@@ -531,7 +531,7 @@
     Wiem to niewygodne, kochać dłużej niż jeden dzień
 
 - title: 'Laura'
-  position: 2
+  position: 4
   yt_link: "https://www.youtube.com/watch?v=Yvk_7MNC8Qg"
   text: |
     Na skos ustawiam się do Ciebie
@@ -575,7 +575,7 @@
     Laura muszę Ci powiedzieć
 
 - title: 'Szwy'
-  position: 1
+  position: 3
   yt_link: "https://www.youtube.com/watch?v=prAoa8lbAv4"
   text: |
     Nie pamiętasz moich słów
@@ -618,7 +618,7 @@
     zostanie w nas
 
 - title: 'Dom'
-  position: 0
+  position: 8
   yt_link: "https://www.youtube.com/watch?v=d8GrBXSQ8Yg"
   text: |
     Kolejny raz wracam w swoje strony
@@ -653,7 +653,7 @@
     Czy prezentem będziesz ty
 
 - title: 'Yeti George'
-  position: 5
+  position: 9
   yt_link: "https://www.youtube.com/watch?v=7K7gV9XK5IE"
   text: |
     GDY W NEPALU LATO TRWA
@@ -691,3 +691,218 @@
     KIEDY WSZYSTKIE TWOJE PLANY IDĄ W ŁEB
     GEORGE POMOŻE PRZESTAŃ MYŚLEĆ ŻE CIE ZJE
     NIE ZJE
+
+- title: 'Nora'
+  position: 0
+  spotify_link: "https://open.spotify.com/track/6jdcMdynuqStS4E0s042AW?si=9rIrz60jTUuLfqZUrlzsdA"
+  text: |
+    SPÓJRZ NIEWYGODNIE CI
+    ZE MNĄ ZE MNĄ
+    WSTYD NIE POZWALA CI 
+    STAĆ TU ZE MNĄ MÓWIĆ GŁOŚNO
+
+    IDŹ JEŚLI CHCESZ TO IDŹ 
+    SAMA SAMA 
+    NIC NIE POZOSTAJE NIC 
+    CO MOŻE POMÓC WSTRZYMAĆ OGIEŃ
+
+    NIE WSZYSTKO SKOŃCZY SIĘ TAK JAK CHCESZ
+    NIE WSZYSTKO ZNISZCZYSZ CHOĆ BARDZO CHCESZ
+    TO WSZYSTKO MUSI MIEĆ JAKIŚ SENS
+
+    BROŃ ZACIEKLE SWOICH PRAWD
+    SAMA SAMA
+    STRACH JUŻ MA GOTOWY PLAN
+    OCALIĆ COŚ CO NIE ISTNIEJE 
+    WRÓĆ I ZACZNIJ JESZCZE RAZ 
+    BŁAGAĆ BŁAGAĆ
+    WRÓĆ I ZACZNIJ JESZCZE RAZ
+    OD NOWA SKŁADAĆ SWOJE ŻYCIE
+
+    NIE WSZYSTKO SKOŃCZY SIĘ TAK JAK CHCESZ
+    NIE WSZYSTKO ZNISZCZYSZ CHOĆ BARDZO CHCESZ
+    TO WSZYSTKO MUSI MIEĆ JAKIŚ SENS
+
+    MUSI MIEĆ SENS 
+    MUSI MIEĆ SENS
+    MUSI MIEĆ SENS
+    MUSI MIEĆ SENS
+
+    NIE WSZYSTKO SKOŃCZY SIĘ TAK JAK CHCESZ
+    NIE WSZYSTKO ZNISZCZYSZ CHOĆ BARDZO CHCESZ
+    TO WSZYSTKO MUSI MIEĆ JAKIŚ SENS
+
+    CZEGO TAK NAPRAWDĘ CHCESZ
+    CZEGO CHCESZ
+
+- title: '3'
+  position: 2
+  yt_link: "https://www.youtube.com/watch?v=ezDvmqnuuT8"
+  text: |
+    PIERWSZA MYŚL TO TAKA KTÓRA NIE DAJE SPAĆ
+    BO PRZECIEŻ MUSZĘ COŚ NAPISAĆ CO PODBIJE CAŁY ŚWIAT
+    PRZEZ TYLE LAT CODZIENNIE ODBIERANA WIARA 
+    ZACZNIJ OD NOWA TEATR MOŻE JEDNAK NIE GITARA
+    KAŻDEGO DNIA WIDZĘ POCZĄTEK KOŃCA
+    CAŁY CZAS PYTAM SIEBIE CZY TYM RAZEM SPROSTAM
+    LECZ WIEM CO MNIE TRZYMA TO POJEDYNCZA CHWILA
+    ODRADZAM SIĘ NA NOWO ŻEBY ZMIENIAĆ INNE ŻYCIA
+
+    DRUGA MYŚL JEST TAKA ŻE WKRÓTCE CIĘ STRACĘ 
+    BO ILE MOŻNA BYĆ W NIEKOŃCZĄCEJ SIĘ TRASIE 
+    BEZ CELU PRZEZ OKNO W SZARE CHMURY SIĘ PATRZĘ
+    I STARAM SOBIE WMAWIAĆ ŻE TO NIE MIAŁO BYĆ ŁATWE 
+    NO WIĘC CZEKAM TĘSKNIĘ I WYPEŁNIAM KALENDARZE
+    MIAŁEM ZAJĄĆ SIĘ MUZYKĄ A PRZEGLĄDAM TATUAŻE 
+    NA PINEZCE W KUCHNI KARTKA CO MAM ROBIĆ W GORSZYCH CHWILACH
+    ALE ZAMIAST ZROZUMIENIA CORAZ CZĘŚCIEJ ZAPOMINAM
+
+    WIELKI STRACH PORYWA NAS
+    W CIEMNOŚCI STOJĘ NIE POWIEM ŻE SIĘ BOJĘ
+    CZARNY BLASK OŚLEPIA NAS 
+    W MROKU TONĘ NIE POWIEM ŻE SIĘ BOJĘ 
+    WIELKI STRACH OGARNIA NAS 
+    OTWIERAM OCZY NIE POWIEM ŻE SIĘ BOJĘ
+
+    TRZECIA MYŚL TYLU MĘDRCÓW WOKÓŁ MNIE SIĘ ZEBRAŁO
+    I DEBATUJĄ JAK MAM ŻYĆ CZY MAM IŚĆ W LEWO CZY PRAWO
+    A GDY ICH SŁUCHAM TRACĘ ZMYSŁY ZADAJĘ ZA DUŻO PYTAŃ 
+    NIEDŁUGO BĘDĘ ROZKMINIAŁ CZY POPRAWNIE ODDYCHAM
+    NAWET TERAZ KIEDY PISZĘ I KASUJĘ MNÓSTWO ZDAŃ 
+    NIE WIEM KIEDY JESTEM SOBĄ CZY TO NADAL TEN SAM PLAN
+    ZDRADZAM WŁASNE MARZENIA CHYBA MAM COŚ Z JUDASZA
+    A TO CZEGO SIĘ BOJĘ CAŁY CZAS DO MNIE WRACA
+
+    WIELKI STRACH PORYWA NAS
+    W CIEMNOŚCI STOJĘ NIE POWIEM ŻE SIĘ BOJĘ
+    CZARNY BLASK OŚLEPIA NAS 
+    W MROKU TONĘ NIE POWIEM ŻE SIĘ BOJĘ 
+    WIELKI STRACH OGARNIA NAS 
+    OTWIERAM OCZY NIE POWIEM ŻE SIĘ BOJĘ
+
+- title: 'Pożegnanie Niebieskich Ścian'
+  position: 6
+  spotify_link: "https://open.spotify.com/track/3z6yrCPaCFRk5fHwmBH7my?si=XEwUClxfQyio9WR7kq_yDw"
+  text: |
+    NA WSZYSTKIE STRONY ŚWIATA
+    ROZSYPANY PLAN
+    ZGUBIONE POCAŁUNKI NOCY
+    ZAPACH CZARNYCH RÓŻ
+    NIEBIESKI KOLOR ŚCIAN
+    NIEWIELE BRAKOWAŁO
+    BY OBUDZIĆ SIĘ ZNÓW TAM 
+
+    CZTERY LATA TEMU KSIĘŻYC ŚPIEWAŁ PIEŚŃ
+    O TYM JAK PRZETRWAMY WSZYSTKO
+    NAJGWAŁTOWNIEJSZE BURZE 
+    POWODZIE Z CUDZYCH RĄK
+    POMIMO TYLU ZWYCIĘSTW
+    POTRAFIŁAŚ ODEJŚĆ STĄD
+
+    I NIGDY NIE WRACAĆ 
+    BEZ POŻEGNANIA 
+    W TYCH ŚCIANACH ZATRZYMAŁ SIĘ DLA NAS CZAS
+    ON NIGDY NIE WRACA
+    OD ZMIERZCHU DO RANA
+    W NIEBIESKICH ŚCIANACH MY
+
+    UMIELIŚMY TYLKO ŚNIĆ
+    PRZESTALIŚMY LICZYĆ DNI
+    DOBRY CZAS ZOSTANIE W NAS
+    NIE POZWOLI NAM SIĘ BAĆ
+    JUŻ NIGDY WIĘCEJ
+
+    CZARNE SCENARIUSZE KTÓRE NIGDY NIE CHCĄ SPAĆ
+    WĘDRUJĄ CIĄGLE W MOJEJ GŁOWIE 
+    PAMIĘTAM CIEPŁE NOCE
+    LAS SPLECIONYCH RĄK
+    ZOSTAŁY TYLKO ZDJĘCIA
+    JAK MOGŁAŚ ODEJŚĆ STĄD 
+
+    I NIGDY NIE WRACAĆ 
+    BEZ POŻEGNANIA 
+    W TYCH ŚCIANACH ZATRZYMAŁ SIĘ DLA NAS CZAS
+    ON NIGDY NIE WRACA
+    OD ZMIERZCHU DO RANA
+    W NIEBIESKICH ŚCIANACH MY
+
+    UMIELIŚMY TYLKO ŚNIĆ
+    PRZESTALIŚMY LICZYĆ DNI
+    DOBRY CZAS ZOSTANIE W NAS
+    NIE POZWOLI NAM SIĘ BAĆ
+    JUŻ NIGDY WIĘCEJ
+
+- title: 'Ano Yoru ("あの夜")'
+  position: 7
+  spotify_link: "https://open.spotify.com/track/28sfANBD0TTZK9u5dIpqYm?si=9hMhlXF8Qx6xf4qRaDfxjA"
+  text: |
+    [JP]
+
+    地下水面に僕は
+    いくつかの思い出を探してる
+    風が電車のひびきを
+    はこんでくれたのを
+    かすかに覚えてる
+    焚火のそばで
+    ほほをなでて
+    眠ってる間
+    静かに歌っていた
+    覚えてるかい？
+    一、二、三
+    夢が消える
+    もう一度
+    時間はごくわずかになる
+    星の光がうすれゆくまで、
+    僕らは未来を一緒に
+    探していたが
+    別々の道を見つけた
+    あの夜も
+    僕らは
+    こどくだったと
+    分かるだろう
+    一、二、三
+    夢が消える
+    もう一度
+    時間はごくわずかになる
+    僕らはほこりにまみれて踊ったり
+    もえがらをつかんだりした
+    何よりも生きた
+    君と僕
+    うたがいもなく
+    古い夢や
+    過ちが
+    僕らを分けた
+    ー、二、三
+    ごくわずかになる
+
+
+    [PL]
+
+    W LUSTRZE WODY SZUKAM KILKU WSPOMNIEŃ
+    NIEWYRAŹNIE PAMIĘTAM JAK WIATR NIÓSŁ ODGŁOSY POCIĄGÓW
+    PRZY OGNISKU GŁADZIŁ POLICZKI
+    A PODCZAS SNU CICHO ŚPIEWAŁ
+    PAMIĘTASZ?
+    
+    RAZ, DWA, TRZY
+    ZNIKNĄ SNY
+    JESZCZE RAZ
+    NIEISTOTNY STANIE SIĘ CZAS
+    DO ZNIKNIĘCIA BLASKU GWIAZD
+    RAZEM SZUKALIŚMY PRZYSZŁOŚCI,
+    ALE ZNALEŹLIŚMY RÓŻNE DROGI
+    PEWNIE WIESZ, ŻE TAMTEJ NOCY TEŻ BYLIŚMY SAMOTNI
+    
+    RAZ, DWA, TRZY
+    ZNIKNĄ SNY
+    JESZCZE RAZ
+    NIEISTOTNY STANIE SIĘ CZAS
+    TAŃCZYLIŚMY POKRYCI PYŁEM, CHWYTALIŚMY ŻAR
+    ŻYLIŚMY PONAD WSZYSTKIM
+    TY I JA
+    BEZ WĄTPIENIA
+    STARE MARZENIA I SMAK WINA
+    ROZDZIELIŁY NAS
+    
+    RAZ, DWA, TRZY,
+    NIEISTOTNY STANIE SIĘ
