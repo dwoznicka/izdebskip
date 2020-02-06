@@ -3025,3 +3025,221 @@
   subtitle: 'Jedna z mocniejszych propozycji na płycie, przepełniona przesterami, cięższymi riffami, wokalista nie boi się też nieco inaczej posługiwać wokalem.'
   author: Wybieram Kulturę
 
+- url: 'https://www.youtube.com/watch?v=8_0eR0Mj424'
+  image_url: 'https://external-frt3-2.xx.fbcdn.net/safe_image.php?d=AQBKLA_CrMzSXP7A&w=796&h=416&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8_0eR0Mj424%2Fmaxresdefault.jpg'
+  position: 93
+  title: 'Grosza daj wiedźminowi (Toss a Coin to Your Witcher cover)'
+  author: Studio Accantus
+
+- url: 'https://muzykoholicy.com/wydarzenia/festiwal/poznalismy-kolejnych-artystow-enea-spring-break-2020/'
+  image_url: 'https://i2.wp.com/muzykoholicy.com/wp-content/uploads/2020/02/Spring-Break-e1580912560429.jpg'
+  position: 94
+  title: 'Paweł Izdebski wystąpi na Spring Breaku 25 kwietnia 2020!'
+  subtitle: 'Poznaliśmy kolejnych artystów ENEA SPRING BREAK 2020'
+  author: Muzykoholicy
+
+- id: 'fotorelacja-koncert-premierowy-progresja-2020'
+  position: 95
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/51-xs.jpg'
+  title: 'Premierowy @strach w Progresji! - Niewiarygodny Tour 2020 - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Japierdziu, nie da się wrócić, nie? Niby wiem, ale jakoś lubię sobie wyobrażać, że to rzeczywiście możliwe.
+        26 stycznia w Progresji odbył się koncert, na którym oficjalnie zagraliśmy cały, autorski materiał z płyty @strach.
+        I ten dzień zapamiętam jako jeden z najfajniejszych dni w moim życiu. <br/><br/>
+        Grałem już w Progresji ze Studiem Accantus i na HeartRockowaniu w 2019 i 2018, ale to w 2020 wystąpiłem na tej scenie z własnymi piosenkami.
+        I to. To mnie napawa dumą i satysfakcją. <br/> Ale też niedowierzaniem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/1.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Scenariusz koncertu pisałem od 1992 roku. Zobaczmy reakcje członków zespołu :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/3.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/11.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Standardowo - próba dźwięku, czyli prawie najważniejszy czas przed koncertem.
+        Czas goni, zaraz pojawią się nasi goście specjalni. Trochę wieje w Progresji, ale jesteśmy muzycznymi wikingami i dajemy 100%.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/2.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/9.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/16.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Soundcheck poszedł sprawne, acz nie bez stresu, sprawdziłem jeszcze zaplecze (tak, ten sklepik będzie z nami jeździł w trasę!)
+        i po 1000 razy sprawdziłem czy gitary stroją i czy wszystko jest na swoim miejscu… :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/4.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/5.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/6.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/8.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/18.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Nie pamiętam tego momentu, ale tuż przed koncertem ktoś wysłał nagie foty jednego z członków zespołu…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/13.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/14.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/15.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Chwilę po godzinie 19:00 na scenie pojawiła się Suzia. Dziewczyna z gitarą, którą poznałem na Festiwalu Fama lata temu.
+        Pamiętam, że przez pierwszy tydzień musiałem mocno się odkochiwać, żeby skupić się na warsztatach.
+        Suzia dowiedziała się o moim crushu na nią kilka dni temu :D. Z garderoby już dobrze było słychać, że moja ulubiona Polska Songwriterka pootwierała Wasze serca.
+        <br/>Dziękuję Ci przyjacielu! :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/25.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/26.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Okej, serce bije w ten znajomy sposób. To uczucie jest bardzo podobne do tego, gdy wiesz, że właśnie się zakochałeś i zachodzą w Tobie reakcje chemiczne, które nie do końca pozwalają Ci żyć normalnie.
+        O to chodzi w tym zawodzie. Właśnie o to chodzi. <br/>
+        Koncert zaczyna się od zielonego światła od naszego zespołowego Zordona - Robert Juzala mówi start - startujemy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/24.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Serce uspokaja się po 30/40 sekundach pierwszego utworu. Od pierwszych 15 zależy praktycznie cały koncert. Bardzo szybko odpowiadam sobie wtedy na jedno pytanie - jak bardzo chcę stać na scenie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/33.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/28.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/40.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Po piątym utworze na scenie pojawia się Kasia Mazurkiewicz, z którą gramy 3 utwory, "Balona" z EP “Książę Naiwnośći”, instrumentalną “Chorobę” i “Chcę Miłości” z repertuaru Jacka White'a.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/44.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/46.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Ostatnie dźwięki pianina zwiastują powrót wybuchów!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/51.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/53.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Choć potraficie mnie zaskoczyć, to czasami przypominacie mi o moich zapomnianych fantazjach koncertowych.
+        Nie prosiłem Was o to, a śmiałem się w duchu, że może kiedyś ktoś tak zrobi na Szwach :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/49.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/45.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Pod koniec koncertu na scenę wszedł On&colon; Ralph Kaminski! Dopiero co wydał swój drugi album pt. “Młodość”. Na szczęście 26 stycznia był dla nas łaskawy i Ralphy zaśpiewał mój ulubiony utwór z płyty “Morze” :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/55.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/56.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        My już w trakcie koncertu nie mogliśmy przestać się cieszyć, i choć przed nami zostało jeszcze kilka utworów, to było czuć w powietrzu, że ten wieczór powiększył nam serducha. Dzięki Wam! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/57.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/58.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/60.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/61.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/63.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/68.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/62.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Na koniec (prawie koniec), moja ulubiona fota z tego koncertu. Wiecie jak to jest. Widzicie takie zdjęcia swoich idoli na plakatach i po prostu sobie wyobrażacie. Ja już nie muszę :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/69.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Dziękuję&colon; Marcin Goszczyński, Diana Lewandowska, Grzegorz Zimny, Bartek Orliński, Daria Woźnicka, Suzia, Kasia Mazurkiewicz, Ralph Kaminski, Filip Jurczyk, Robert Juzala, Magdalena Halicka, Nidi, Klub Progresja, Wiśnia, Claudia Antoszewski, Puste Słoiki po kawie Izdeba, Struny :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/70.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/71.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Zdjęcia ustrzeliła Magdalena Halicka <br/><br/>
+        A teraz... Niewiarygodny Tour 2020!<br/>
+        <a class="report-link" href="https://www.facebook.com/events/787988441675018/" target="_blank">Wrocław!</a>
+        <a class="report-link" href="https://www.facebook.com/events/3134394076575001/" target="_blank">Gliwice!</a><br/>
+        <a class="report-link" href="https://www.facebook.com/events/460025374713292/" target="_blank">Białystok!</a>
+        <a class="report-link" href="https://www.facebook.com/events/795139134263595/" target="_blank">Szczecin!</a>
+        <a class="report-link" href="https://www.facebook.com/events/497781674421948/" target="_blank">Gdańsk!</a><br/>
+        <a class="report-link" href="https://www.facebook.com/events/856064234852399/" target="_blank">Olsztyn!</a>
+        <a class="report-link" href="https://www.facebook.com/events/442431143118350/" target="_blank">Toruń!</a>
+        <a class="report-link" href="https://www.facebook.com/events/527183797826018/" target="_blank">Poznań!</a>
+        <br/><br/><br/> Paweł Paweliusz XIV
