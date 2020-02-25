@@ -1,13 +1,3 @@
-- date: 2020-02-14
-  name: HeartRockowanie
-  city: WARSZAWA
-  link_tickets: http://heartrockowanie.pl/
-
-- date: 2020-02-23
-  name: Paweł Izdebski - Niewiarygodny Tour
-  city: BIAŁYSTOK
-  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/jqvf/
-
 - date: 2020-02-29
   name: Paweł Izdebski - Niewiarygodny Tour
   city: SZCZECIN
@@ -17,11 +7,6 @@
   name: Paweł Izdebski - Niewiarygodny Tour
   city: GDAŃSK
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski/kqvf/
-
-- date: 2020-03-14
-  name: Paweł Izdebski - Niewiarygodny Tour
-  city: OLSZTYN
-  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/yqvf/
 
 - date: 2020-03-15
   name: Paweł Izdebski - Niewiarygodny Tour
