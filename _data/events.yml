@@ -1,9 +1,9 @@
-- date: 2020-02-29
+- date: 2020-05-23
   name: Paweł Izdebski - Niewiarygodny Tour
   city: SZCZECIN
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski/atxf/
 
-- date: 2020-03-01
+- date: 2020-05-24
   name: Paweł Izdebski - Niewiarygodny Tour
   city: GDAŃSK
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski/kqvf/
@@ -27,3 +27,8 @@
   name: Paweł Izdebski - Niewiarygodny Tour
   city: KRAKÓW
   link_tickets: https://goout.net/pl/bilety/pawel-izdebski/ljeg/
+
+- date: 2020-04-18
+  name: Spektakl "Once" Teatr Roma
+  city: WARSZAWA
+  link_tickets: https://bilety.teatrroma.pl/?od=2020-04-01&do=2020-04-30&utm_source=pawelizdebski.pl&utm_medium=calendar

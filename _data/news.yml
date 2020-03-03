@@ -3258,22 +3258,29 @@
   subtitle: 'Przy okazji koncertu w Gliwicach porozmawialiśmy o płycie, planach na przyszłość i o języku japońskim.'
   author: Mad-Music.pl
 
-- url: 'http://wybieramkulture.pl/nora-to-kolejny-singiel-plyty-strach-pawla-izdebskiego/'
+- url: 'http://wybieramkulture.pl/nora-to-kolejny-singiel-plyty-strach-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
   image_url: 'https://i0.wp.com/wybieramkulture.pl/wp-content/uploads/2020/02/01-Paweł_Izdebski-fot-Anna-Bednarek-scaled.jpg'
   position: 98
   title: '“Nora” to kolejny singiel płyty "@strach" Pawła Izdebskiego'
   subtitle: '14 lutego 2020 swoją premierę miał teledysk utworu „Nora” Pawła Izdebskiego, w reżyserii Dawida Grzelaka oraz z udziałem fantastycznej polskiej aktorki teatralnej, telewizyjnej i filmowej – Katarzyny Dąbrowskiej.'
   author: Wybieram Kulturę
 
-- url: 'https://muzycznapolska.pl/kawalek-miesiaca/'
+- url: 'https://muzycznapolska.pl/kawalek-miesiaca/?utm_source=pawelizdebski.pl&utm_medium=news'
   image_url: 'https://muzycznapolska.pl/wp-content/uploads/2020/02/LL6rs_Mw.jpeg'
   position: 99
   title: '“Nora” "kawałkiem miesiąca" serwisu Muzyczna Polska'
   author: MuzycznaPolska.pl
 
-- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-i-nowy-teledysk-nora-w-glownej-roli-katarzyna,nId,4326544'
+- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-i-nowy-teledysk-nora-w-glownej-roli-katarzyna,nId,4326544?utm_source=pawelizdebski.pl&utm_medium=news'
   image_url: 'https://i.iplsc.com/-/0009UB3KIOXMCT58-C122.jpeg'
   position: 100
   title: 'Paweł Izdebski i nowy teledysk "Nora". W głównej roli Katarzyna Dąbrowska'
   subtitle: 'W walentynki do sieci trafił teledysk "Nora" promujący płytę "@strach" Pawła Izdebskiego, wokalisty Studio Accantus i gitarzysty zespołu Ralpha Kaminskiego.'
+  author: Interia Muzyka
+
+- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-w-trasie-promujacej-plyte-astrach-wyzywam-str,nId,4352922?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i.iplsc.com/-/0009VP4N0851PKNN-C122.jpeg'
+  position: 101
+  title: 'Paweł Izdebski w trasie promującej płytę "@strach": Wyzywam strach na pojedynek'
+  subtitle: 'Płytę "@strach" promuje na trwającej trasie "Niewiarygodny Tour". W klubach w Warszawie, Wrocławiu, Gliwicach czy Białymstoku pod sceną pojawiły się tłumy widzów. Na kolejne koncerty pozostały już ostatnie bilety.'
   author: Interia Muzyka
