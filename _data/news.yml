@@ -1170,7 +1170,7 @@
   image_url: 'https://i1.wp.com/3.bp.blogspot.com/-QA_pmsw4bJ0/XLMoWiHiLUI/AAAAAAAAdHk/h97Os5vkYL8hU_KICF5wexNUstclMIdQACLcBGAs/s1600/pawelizdebski1%2B%25282%2529.jpg?w=696&ssl=1'
   position: 41
   author: All About Music
-  title: Książę Naiwności odchodzi na zawsze czyli Paweł Izdebski z zespołem w katowickim Królestwie - relacja Nikoli Skopowskiej
+  title: Książę Naiwności odchodzi na zawsze czyli Pawe�� Izdebski z zespołem w katowickim Królestwie - relacja Nikoli Skopowskiej
 
 - url: 'https://allaboutmusic.pl/ksiaze-naiwnosci-wraca-juz-na-swoja-planete-wywiad-z-pawlem-izdebskim/'
   image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-3+fot.+Magdalena+Kubiak.jpg'
@@ -3290,3 +3290,9 @@
   position: 102
   title: 'Bilety na koncert w Rzeszowie już są!'
   subtitle: 'Koncert w rzeszowskim klubie LUKR w ramach trasy Niewiarygodny Tour już 19 kwietnia.'
+  
+- url: 'https://www.facebook.com/events/800979247080573/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/koncert-internetowy-marzec-2020.jpg'
+  position: 103
+  title: 'Koncert Internetowy Pawła Izdebskiego już 15 marca!'
+  subtitle: 'W obliczu panujących warunków przyrodniczych przenosimy się z koncertami do Internetu! Może i to nie będzie to samo, co koncert z zespołem na żywo, ale zapewniam sążną dawkę ultra-leczniczych dźwięków, kilka średnio śmiesznych sucharów, piosenki ze @strachu i nie tylko. Czeka nas 50 minut bardzo kulturalnego acz kameralnego spotkania z muzyką. Ja, moje gitary, komputer i Wy. Zapraszam.'
