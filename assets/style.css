@@ -1,0 +1,1955 @@
+@charset "UTF-8";
+.base.black {
+  background-color: #303030; }
+.base.blue {
+  background-color: #000a40; }
+.base.white {
+  background-color: #ffffff; }
+  .base.white .report-content *,
+  .base.white .report-title {
+    font-family: 'Comfortaa', cursive; }
+.base.news {
+  position: relative; }
+  .base.news::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+.base.blog {
+  position: relative; }
+  .base.blog::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-0+fot.+Magdalena+Kubiak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+.base.blogpost .blog-post-titleContainer *, .base.blogpost .blog-post-content * {
+  font-family: 'Comfortaa', cursive; }
+
+.footer-dark * {
+  color: #303030; }
+.footer-dark input {
+  border: 1px solid #303030; }
+
+footer {
+  display: flex;
+  padding: 20px; }
+  footer span {
+    opacity: 0.6;
+    font-size: 11px; }
+
+.mobile-loader {
+  transition: all 1s ease;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 0;
+  width: 100vw;
+  z-index: 999;
+  background: #ffffff; }
+  @media (max-width: 767px) {
+    .mobile-loader {
+      display: block; } }
+  @media (min-width: 768px) {
+    .mobile-loader {
+      display: none; } }
+  .mobile-loader img {
+    position: absolute;
+    top: 0;
+    left: 10vw;
+    max-width: 90vw;
+    max-height: 0;
+    transition: all 1s ease; }
+
+.nav-logo-item--loading {
+  transform: scale(2.8) !important;
+  position: fixed;
+  background: #fff;
+  padding: 600px !important;
+  top: -300px;
+  left: -300px;
+  top: calc(40% - 600px);
+  left: calc(45% - 600px); }
+
+.nav-logo-item {
+  transition: all 1s ease; }
+
+.navbar {
+  background-color: transparent;
+  letter-spacing: 2px;
+  padding: 20px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 999;
+  padding-bottom: 100px;
+  background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/navbackground.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom; }
+  @media (max-width: 1000px) {
+    .navbar {
+      padding-bottom: 180px; }
+      .navbar .navbar-toggler.collapsed::after {
+        content: " ";
+        background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/black_logo.png");
+        height: 200px;
+        width: 200px;
+        left: 30px;
+        position: absolute;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 10% 20%;
+        top: 0; } }
+  .navbar .fab {
+    font-size: 22px; }
+  @media (max-width: 1000px) {
+    .navbar {
+      font-size: 13px; } }
+  @media (min-width: 1440px) {
+    .navbar {
+      padding-bottom: 9vw; } }
+
+.navbar-toggler {
+  border: 1px solid white;
+  outline: none !important; }
+
+.mobile-loader--loading {
+  height: 100vh; }
+  .mobile-loader--loading img {
+    top: 40vh;
+    max-height: 30vh; }
+  @media (max-width: 767px) {
+    .mobile-loader--loading + .navbar {
+      z-index: 1; } }
+
+.left-nav {
+  font-size: 16px;
+  line-height: 16px; }
+  .left-nav .nav-link {
+    border-bottom: 3px transparent solid;
+    color: #ffffff !important;
+    margin-bottom: -10px;
+    opacity: 0.95;
+    padding: 0;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    padding-bottom: 10px;
+    white-space: nowrap;
+    transition: all 0.2s linear; }
+    .left-nav .nav-link:hover {
+      color: #ffffff;
+      opacity: 1;
+      text-decoration: none; }
+  @media (min-width: 1001px) {
+    .left-nav .nav-item {
+      padding: 0 12px;
+      font-weight: 500; }
+    .left-nav li + li {
+      border-left: 1px #ffffff solid; } }
+  @media (max-width: 767px) {
+    .left-nav .nav-item {
+      padding: 10px;
+      font-weight: 100; } }
+
+.navbar-collapse {
+  align-items: flex-start; }
+  @media (max-width: 767px) {
+    .navbar-collapse {
+      background-color: #ffffff;
+      opacity: 1;
+      text-align: center; } }
+
+.right-nav .nav-link {
+  transition: all 0.4s linear; }
+  .right-nav .nav-link:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    text-decoration: none;
+    transform: scale(1.1); }
+.right-nav .nav-item + .nav-item::before {
+  content: '·';
+  color: #303030;
+  font-size: 13px;
+  font-weight: bold;
+  position: absolute;
+  line-height: 35px; }
+  @media (max-width: 767px) {
+    .right-nav .nav-item + .nav-item::before {
+      content: ''; } }
+
+.nav-logo {
+  max-width: 150px; }
+  @media (max-width: 840px) {
+    .nav-logo {
+      max-width: 100px; } }
+  @media (max-width: 767px) {
+    .nav-logo {
+      margin-left: 17px; } }
+  @media (min-width: 1040px) {
+    .nav-logo {
+      max-width: 200px; } }
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .75rem;
+    padding-left: .75rem; } }
+.newsletter-form {
+  justify-content: center;
+  margin-top: 25px; }
+.newsletter-form-inline {
+  display: flex;
+  justify-content: center; }
+.newsletter-input {
+  border-radius: 15px;
+  color: #303030;
+  font-size: 12px;
+  height: 30px;
+  line-height: 20px;
+  margin-left: 25px;
+  padding: 5px 10px !important;
+  width: 70% !important;
+  border: 1px solid #303030; }
+  @media (min-width: 768px) {
+    .newsletter-input {
+      width: 40% !important; } }
+.newsletter-submit {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  margin-left: 15px;
+  outline: none;
+  height: 30px;
+  width: 30px;
+  transition: all 0.2s linear; }
+  .newsletter-submit:hover {
+    transform: scale(1.2); }
+.newsletter-title {
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.2px; }
+  @media (max-width: 1000px) {
+    .newsletter-title {
+      margin-top: 10vh; } }
+
+.footer-signature {
+  margin-top: 30px; }
+.footer-logo {
+  text-align: center;
+  padding-left: 12%;
+  margin-bottom: 50px; }
+  .footer-logo img {
+    max-width: 85%;
+    width: 400px;
+    margin: 0 auto; }
+.footer-mediaList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 0; }
+  .footer-mediaList .fab {
+    font-size: 22px; }
+.footer-mediaList-link {
+  padding-right: .5rem;
+  padding-left: .5rem; }
+
+footer .developer {
+  font-size: 8px; }
+
+.home-section {
+  margin-top: 50px;
+  margin-left: 0;
+  margin-right: 0; }
+.home-section--news {
+  position: relative;
+  background-color: #ffffff; }
+  .home-section--news::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-4+fot.+Magdalena+Kubiak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%; }
+  .home-section--news::after {
+    content: 'Aktualności';
+    height: 150px;
+    font-size: 20px;
+    background-color: transparent;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/navbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    position: absolute;
+    top: -2px;
+    width: 100%;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5%;
+    line-height: 150px; }
+    @media (max-width: 767px) {
+      .home-section--news::after {
+        text-align: center;
+        line-height: 100px; } }
+.home-news-separator {
+  height: 150px;
+  background-color: transparent;
+  background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homenews.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  width: 100%;
+  z-index: 9; }
+.home-gallery {
+  max-width: 100vw;
+  height: 85vh;
+  opacity: 0.9; }
+  @media (max-width: 767px) {
+    .home-gallery {
+      padding-top: 100px; } }
+  .home-gallery::after {
+    content: " ";
+    padding-bottom: 50px;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    bottom: -15%; }
+  @media (min-width: 992px) and (max-width: 1200px) {
+    .home-gallery::after {
+      bottom: -10%; } }
+  @media (max-width: 991px) {
+    .home-gallery::after {
+      height: 110px;
+      bottom: -13%; } }
+  @media (min-width: 1201px) and (max-width: 1439px) {
+    .home-gallery::after {
+      bottom: -7%; } }
+  @media (min-width: 1440px) {
+    .home-gallery::after {
+      bottom: 0; } }
+  .home-gallery .slick-list {
+    height: 100%; }
+  .home-gallery .slick-track {
+    height: 100%; }
+  .home-gallery-imageContainer {
+    max-width: 100vw;
+    position: relative; }
+    .home-gallery-imageContainer img {
+      height: 100%;
+      width: 100%;
+      min-width: 100vw;
+      -o-object-fit: cover;
+         object-fit: cover;
+      position: relative; }
+    .home-gallery-imageContainer figcaption {
+      position: absolute;
+      bottom: 4%;
+      color: #fff;
+      left: 7.8%;
+      font-size: 8px; }
+.home-galleryLink {
+  font-size: 10px;
+  position: absolute;
+  color: #303030;
+  left: 10px; }
+  .home-galleryLink:hover {
+    color: #303030; }
+.home-header {
+  position: relative;
+  background-color: black; }
+  @media (min-width: 1001px) {
+    .home-header {
+      background-image: linear-gradient(to top right, #23034f, #000a40 80%); } }
+  @media (max-width: 1000px) {
+    .home-header {
+      padding-top: 75px;
+      background-color: unset; }
+      .home-header::after {
+        background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/1-pawel-izdebski-main+fot+Magdalena+Kubiak.jpg");
+        background-position: top right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        content: " ";
+        opacity: 0.8;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        -webkit-filter: grayscale(100%);
+                filter: grayscale(100%);
+        z-index: -1; } }
+  @media (max-width: 767px) {
+    .home-header::after {
+      background-size: cover;
+      background-position: top center; } }
+.home-header-left {
+  padding-top: 8vw; }
+.home-header-title {
+  font-size: 60px;
+  font-family: 'Comfortaa', cursive;
+  letter-spacing: 3px;
+  text-align: center; }
+  @media (max-width: 1000px) {
+    .home-header-title {
+      font-family: 'Comfortaa', cursive;
+      padding-top: 30vh;
+      font-size: 50px; } }
+.home-header-video {
+  margin-top: 40px; }
+  .home-header-video .video-container {
+    margin: 0 auto;
+    width: 80%;
+    z-index: 999; }
+  @media (max-width: 1000px) {
+    .home-header-video {
+      margin: 5vh 0; } }
+.home-header-video-title {
+  font-size: 17px;
+  letter-spacing: 1px; }
+.home-calendar {
+  width: 100%;
+  height: 400px;
+  position: relative; }
+  @media (max-width: 1000px) {
+    .home-calendar {
+      margin-top: 5vh;
+      padding-bottom: 15vh;
+      height: auto; } }
+.home .events-arrows {
+  position: absolute;
+  bottom: 0;
+  right: 5%;
+  z-index: 999; }
+.home .events-arrows--mobile {
+  position: absolute;
+  bottom: 20px;
+  top: unset;
+  width: 100%;
+  text-align: center; }
+.home .slick-arrow {
+  -webkit-appearance: none;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  color: #303030;
+  font-size: 14px;
+  outline: none;
+  letter-spacing: 1px;
+  padding: 0 10px;
+  transition: 0.4s all ease-in; }
+  @media (max-width: 1000px) {
+    .home .slick-arrow {
+      padding: 0 15px; } }
+.home .slick-disabled {
+  opacity: 0; }
+.home-news {
+  margin: 70px 0 100px; }
+.home-news-col {
+  padding-top: 160px;
+  padding-bottom: 50px; }
+  @media (max-width: 1000px) {
+    .home-news-col {
+      padding-bottom: 100px; } }
+.home-newsLink {
+  position: absolute;
+  bottom: 60px;
+  right: 0;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: right; }
+  .home-newsLink + .home-newsLink {
+    bottom: 45px;
+    font-weight: normal; }
+  @media (max-width: 1000px) {
+    .home-newsLink {
+      bottom: 40px;
+      padding-right: 30px; }
+      .home-newsLink + .home-newsLink {
+        bottom: 25px; } }
+.home-newsColumn {
+  position: relative; }
+.home-news-container--mobile {
+  margin: 0 auto;
+  max-width: 90vw; }
+.home-news-title {
+  position: absolute;
+  bottom: 140px;
+  left: 9%;
+  text-transform: uppercase;
+  letter-spacing: 2.2px; }
+  @media (max-width: 1199px) {
+    .home-news-title {
+      bottom: 115px; } }
+.home-news-title--mobile {
+  position: relative;
+  width: 100%;
+  text-align: right;
+  left: -10px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  margin-bottom: 30px; }
+.home-calendar-events, .home-calendar-events--mobile {
+  font-size: 16px;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  padding-right: 5%;
+  position: relative;
+  z-index: 99; }
+  @media (max-width: 1199px) {
+    .home-calendar-events, .home-calendar-events--mobile {
+      width: 100%; } }
+  @media (max-width: 1000px) {
+    .home-calendar-events, .home-calendar-events--mobile {
+      padding: 0 5%;
+      position: relative;
+      width: 100%; } }
+  .home-calendar-events::before, .home-calendar-events--mobile::before {
+    content: "Nadchodzące wydarzenia:";
+    position: absolute;
+    top: -50px;
+    font-size: 20px;
+    font-weight: bold;
+    right: 5%; }
+    @media (max-width: 767px) {
+      .home-calendar-events::before, .home-calendar-events--mobile::before {
+        right: unset;
+        width: 90%;
+        text-align: center; } }
+    @media (max-width: 360px) {
+      .home-calendar-events::before, .home-calendar-events--mobile::before {
+        font-size: 18px;
+        top: -40px; } }
+  .home-calendar-events .slick-list, .home-calendar-events--mobile .slick-list {
+    position: relative; }
+  .home-calendar-events .event, .home-calendar-events--mobile .event {
+    display: block;
+    line-height: 35px;
+    letter-spacing: 1.2px;
+    padding: 5px 0;
+    padding-bottom: 10px;
+    border-bottom: 1px #303030 solid; }
+    @media (max-width: 1000px) {
+      .home-calendar-events .event, .home-calendar-events--mobile .event {
+        display: block;
+        line-height: 45px; } }
+    .home-calendar-events .event *:not(.event-link),
+    .home-calendar-events .event *:not(.event-icon), .home-calendar-events--mobile .event *:not(.event-link),
+    .home-calendar-events--mobile .event *:not(.event-icon) {
+      display: inline;
+      max-height: 70px;
+      overflow: hidden;
+      outline: none;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+    @media (max-width: 360px) {
+      .home-calendar-events .event *, .home-calendar-events--mobile .event * {
+        font-size: 13px; } }
+    .home-calendar-events .event-left, .home-calendar-events .event-right, .home-calendar-events--mobile .event-left, .home-calendar-events--mobile .event-right {
+      display: flex; }
+      @media (max-width: 1000px) {
+        .home-calendar-events .event-left, .home-calendar-events .event-right, .home-calendar-events--mobile .event-left, .home-calendar-events--mobile .event-right {
+          padding: 5px; } }
+      @media (max-width: 767px) {
+        .home-calendar-events .event-left, .home-calendar-events .event-right, .home-calendar-events--mobile .event-left, .home-calendar-events--mobile .event-right {
+          width: 100% !important;
+          max-width: 100% !important; } }
+    .home-calendar-events .event-left, .home-calendar-events--mobile .event-left {
+      max-width: 70%;
+      max-width: calc(100% - 150px);
+      float: left; }
+    .home-calendar-events .event-right, .home-calendar-events--mobile .event-right {
+      text-align: right;
+      display: block;
+      width: 150px;
+      float: right; }
+      @media (max-width: 1000px) and (min-width: 361px) {
+        .home-calendar-events .event-right, .home-calendar-events--mobile .event-right {
+          height: 90px;
+          max-height: 90px !important;
+          justify-content: space-between;
+          white-space: normal; } }
+      @media (max-width: 767px) {
+        .home-calendar-events .event-right, .home-calendar-events--mobile .event-right {
+          text-align: center !important; } }
+      @media (max-width: 360px) {
+        .home-calendar-events .event-right, .home-calendar-events--mobile .event-right {
+          height: 135px;
+          max-height: 135px !important;
+          justify-content: space-between;
+          white-space: normal; } }
+    .home-calendar-events .event-icon, .home-calendar-events--mobile .event-icon {
+      min-width: 21px;
+      padding-right: 5px;
+      font-size: 20px;
+      height: 30px;
+      width: 25px;
+      float: left;
+      line-height: 30px; }
+    .home-calendar-events .event-date, .home-calendar-events--mobile .event-date {
+      min-width: 120px;
+      padding: 0 5px;
+      width: 95%;
+      width: calc(100% - 25px);
+      line-height: 35px;
+      font-weight: bold;
+      display: block !important; }
+      @media (max-width: 1000px) {
+        .home-calendar-events .event-date, .home-calendar-events--mobile .event-date {
+          max-width: 95%;
+          max-width: calc(100% - 30px);
+          width: auto; } }
+      @media (max-width: 767px) {
+        .home-calendar-events .event-date, .home-calendar-events--mobile .event-date {
+          text-align: center; } }
+      @media (max-width: 360px) {
+        .home-calendar-events .event-date, .home-calendar-events--mobile .event-date {
+          min-width: 100px; } }
+    @media (max-width: 1000px) and (min-width: 361px) {
+      .home-calendar-events .event-name, .home-calendar-events--mobile .event-name {
+        max-width: 60%;
+        max-width: calc(100% - 100px); } }
+    @media (max-width: 767px) {
+      .home-calendar-events .event-name, .home-calendar-events--mobile .event-name {
+        text-align: center;
+        width: 100%;
+        display: block !important;
+        max-width: 100%;
+        max-height: 40px !important;
+        height: 40px;
+        line-height: 40px;
+        white-space: nowrap; } }
+    .home-calendar-events .event-city, .home-calendar-events--mobile .event-city {
+      padding: 0 20px;
+      min-width: 135px;
+      text-align: right;
+      padding-right: 0;
+      width: 100%;
+      display: block !important; }
+      @media (max-width: 767px) {
+        .home-calendar-events .event-city, .home-calendar-events--mobile .event-city {
+          text-align: center;
+          padding: 0; } }
+    .home-calendar-events .event-link, .home-calendar-events--mobile .event-link {
+      background: transparent;
+      border: 1px #303030 solid;
+      color: #303030;
+      cursor: pointer;
+      line-height: 32px;
+      text-align: center;
+      transition: 0.2s all ease;
+      min-width: 115px;
+      width: 130px;
+      display: inline-block;
+      margin-right: 0;
+      float: right; }
+      .home-calendar-events .event-link:hover, .home-calendar-events--mobile .event-link:hover {
+        background-color: #303030;
+        color: #000a40; }
+      @media (max-width: 767px) {
+        .home-calendar-events .event-link, .home-calendar-events--mobile .event-link {
+          float: none;
+          padding: 1px;
+          display: block !important;
+          width: 100%; } }
+    .home-calendar-events .event-link-placeholder, .home-calendar-events--mobile .event-link-placeholder {
+      width: 115px;
+      min-width: 115px; }
+      @media (max-width: 1199px) {
+        .home-calendar-events .event-link-placeholder, .home-calendar-events--mobile .event-link-placeholder {
+          width: 75px;
+          min-width: 75px; } }
+
+.news-header {
+  margin: 0 -15px;
+  height: 250px;
+  display: table;
+  position: relative;
+  width: 100vw; }
+  @media (max-width: 767px) {
+    .news-header {
+      padding-top: 250px; } }
+.news-title {
+  vertical-align: bottom;
+  display: table-cell;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 1.2px;
+  width: 100%; }
+  @media (max-width: 1000px) {
+    .news-title {
+      font-size: 32px; } }
+.news-page-wrapper .news-snippets-wrapper {
+  margin: 100px 0;
+  margin-right: -5%; }
+  @media (max-width: 1000px) {
+    .news-page-wrapper .news-snippets-wrapper {
+      margin: 50px 0;
+      margin-right: 0; } }
+.news-page-wrapper .blog-post-container {
+  margin-right: 2.5%;
+  width: 45%; }
+  @media (max-width: 1000px) {
+    .news-page-wrapper .blog-post-container {
+      margin-right: 0;
+      margin-left: 0;
+      width: 100%; } }
+.news-post-snippet {
+  letter-spacing: 1px;
+  overflow: hidden;
+  width: 90vw; }
+  .news-post-snippet * {
+    outline: none; }
+  .news-post-snippet .img-responsive-container {
+    overflow: hidden;
+    height: 200px;
+    width: 100%; }
+  .news-post-snippet img {
+    max-width: 100%;
+    height: 200px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 100%;
+    transition: all 0.15s linear; }
+  .news-post-snippet:hover {
+    color: #000a40 !important;
+    text-decoration: none; }
+    .news-post-snippet:hover img.post-image {
+      transform: scale(1.08); }
+  .news-post-snippet .post-title {
+    font-size: 19px; }
+
+.home-section--news .blog-post-container {
+  border: 2px #ffffff solid;
+  display: inline-block;
+  margin: 0 10px;
+  margin-bottom: 30px; }
+  .home-section--news .blog-post-container .snippet-footer {
+    font-size: 12px;
+    opacity: 0.6;
+    padding: 10px 20px; }
+
+.blog-title {
+  font-size: 42px;
+  letter-spacing: 1.2px;
+  text-align: center; }
+  @media (max-width: 1000px) {
+    .blog-title {
+      font-size: 24px;
+      letter-spacing: 1px;
+      text-align: center; } }
+.blog-wrapper {
+  padding-top: 150px; }
+  @media (max-width: 1000px) {
+    .blog-wrapper {
+      padding-top: 225px; } }
+.blog-page-wrapper {
+  padding-top: 50px; }
+.blog-post-snippet {
+  letter-spacing: 1px;
+  overflow: hidden; }
+  .blog-post-snippet .img-responsive-container {
+    overflow: hidden;
+    height: 250px;
+    width: 100%; }
+  .blog-post-snippet img {
+    max-width: 100%;
+    height: 250px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 100%;
+    transition: all 0.15s linear; }
+  .blog-post-snippet:hover {
+    color: #000a40 !important;
+    text-decoration: none; }
+    .blog-post-snippet:hover img.post-image {
+      transform: scale(1.08); }
+.blog-post-container {
+  border: 1px #ffffff solid;
+  display: inline-block;
+  margin-bottom: 30px;
+  width: 47.5%; }
+  @media (max-width: 1000px) {
+    .blog-post-container {
+      width: 100%; } }
+
+.grid-sizer {
+  width: 47.5%; }
+  @media (max-width: 1000px) {
+    .grid-sizer {
+      width: 100%; } }
+
+.gutter-sizer {
+  width: 5%; }
+  @media (max-width: 1000px) {
+    .gutter-sizer {
+      width: 0; } }
+
+.post-title, .post-excerpt {
+  padding: 20px; }
+.post-excerpt-news {
+  font-size: 14px;
+  opacity: 0.7;
+  padding: 10px 20px; }
+
+.snippet-footer {
+  font-size: 14px;
+  opacity: 0.6;
+  padding: 20px; }
+
+.pager {
+  list-style: none;
+  padding: 20px;
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 50px; }
+  .pager li {
+    padding: 0 10px; }
+
+.blog-post-titleContainer {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  box-shadow: inset 0 -200px 100px 10px rgba(0, 0, 0, 0.36);
+  height: 85vh;
+  position: relative; }
+  @media (max-width: 1000px) {
+    .blog-post-titleContainer {
+      height: 95vh;
+      height: calc(100vh - 50px);
+      background-attachment: unset; } }
+  .blog-post-titleContainer * {
+    color: #ffffff; }
+.blog-post-title {
+  position: absolute;
+  bottom: 90px;
+  left: 50px;
+  font-size: 40px;
+  letter-spacing: 1px;
+  width: 75%;
+  text-align: left; }
+  @media (max-width: 1000px) {
+    .blog-post-title {
+      font-size: 32px;
+      bottom: 110px; } }
+.blog-post-date {
+  position: absolute;
+  bottom: 65px;
+  left: 50px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  width: 75%;
+  text-align: left; }
+  @media (max-width: 1000px) {
+    .blog-post-date {
+      bottom: 85px; } }
+.blog-post-readTime {
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  width: 75%;
+  text-align: left; }
+  @media (max-width: 1000px) {
+    .blog-post-readTime {
+      bottom: 60px; } }
+.blog-post-readTime--2 {
+  position: absolute;
+  bottom: 20px;
+  left: 50px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  width: 75%;
+  text-align: left; }
+.blog-post-content {
+  margin: 50px 0; }
+  .blog-post-content * {
+    color: #000a40;
+    font-size: 19px;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+    margin-bottom: 30px; }
+    @media (max-width: 1000px) {
+      .blog-post-content * {
+        font-size: 17px; } }
+  .blog-post-content img {
+    height: auto;
+    max-height: 75vh;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -o-object-fit: contain;
+       object-fit: contain; }
+  .blog-post-content .post-content h3,
+  .blog-post-content .post-content h3 * {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    -webkit-text-decoration-color: rgba(0, 10, 64, 0.9);
+            text-decoration-color: rgba(0, 10, 64, 0.9); }
+  .blog-post-content .post-content h4,
+  .blog-post-content .post-content h4 * {
+    font-size: 21px;
+    font-weight: bold;
+    text-decoration: underline;
+    -webkit-text-decoration-color: rgba(0, 10, 64, 0.9);
+            text-decoration-color: rgba(0, 10, 64, 0.9); }
+  .blog-post-content .post-content a {
+    text-decoration: underline;
+    -webkit-text-decoration-color: rgba(0, 10, 64, 0.9);
+            text-decoration-color: rgba(0, 10, 64, 0.9);
+    color: #303030; }
+  .blog-post-content .post-content ol,
+  .blog-post-content .post-content ul {
+    padding-left: 0; }
+  .blog-post-content .post-content ol {
+    counter-reset: li;
+    margin-left: 0;
+    padding-left: 0; }
+  .blog-post-content .post-content ol > li {
+    position: relative;
+    padding: 4px 2px;
+    list-style: none; }
+    .blog-post-content .post-content ol > li p:first-child {
+      margin: 0 0 30px 1em; }
+      .blog-post-content .post-content ol > li p:first-child strong {
+        font-size: 22px; }
+        @media (max-width: 1000px) {
+          .blog-post-content .post-content ol > li p:first-child strong {
+            font-size: 20px; } }
+  .blog-post-content .post-content ol > li:before {
+    content: counter(li) ".";
+    counter-increment: li;
+    position: absolute;
+    top: 0px;
+    left: -1em;
+    box-sizing: border-box;
+    width: 2em;
+    margin-right: 8px;
+    padding: 4px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold; }
+    @media (max-width: 1000px) {
+      .blog-post-content .post-content ol > li:before {
+        font-size: 20px; } }
+  .blog-post-content .post-content li ol,
+  .blog-post-content .post-content li ul {
+    margin-top: 6px; }
+  .blog-post-content .post-content ol ol li:last-child {
+    margin-bottom: 0; }
+  .blog-post-content .post-content small {
+    font-size: 12px;
+    color: rgba(0, 10, 64, 0.9); }
+  .blog-post-content .post-content blockquote {
+    position: relative;
+    font-size: 17px;
+    font-style: italic;
+    color: rgba(0, 10, 64, 0.9); }
+    .blog-post-content .post-content blockquote::before {
+      content: "“";
+      font-family: 'Comfortaa', cursive;
+      position: absolute;
+      font-size: 100px;
+      height: 100px;
+      z-index: 0;
+      opacity: 0.25;
+      left: -20px;
+      top: -5px;
+      line-height: 100px; }
+    .blog-post-content .post-content blockquote::after {
+      content: ""; }
+
+.bio-container {
+  min-height: 100vh;
+  background: linear-gradient(90deg, #fcfcfc, #dddddd);
+  padding-top: 150px;
+  position: relative;
+  padding-bottom: 50px; }
+  @media (max-width: 1000px) {
+    .bio-container {
+      padding-top: 250px; } }
+  .bio-container::after {
+    content: " ";
+    padding-bottom: 50px;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    width: 100vw;
+    height: 200px;
+    position: absolute;
+    bottom: -30px;
+    left: 0; }
+    @media (max-width: 1000px) {
+      .bio-container::after {
+        height: 100px;
+        bottom: -60px; } }
+.bio-image {
+  min-height: 300px;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover; }
+.bio-imageContainer {
+  margin-bottom: 30px; }
+.bio-text {
+  padding: 0 5%;
+  height: 85%; }
+  .bio-text * {
+    font-size: 18px;
+    letter-spacing: 1px; }
+  .bio-text p, .bio-text iframe {
+    margin-bottom: 30px; }
+.bio-videoWrapper {
+  position: relative;
+  padding-bottom: 36.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 400px;
+  width: 720px;
+  max-width: 100%;
+  margin: 0 auto; }
+  .bio-videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+.bio-galleryLink {
+  font-size: 11px; }
+  .bio-galleryLink:hover {
+    color: #303030;
+    font-weight: bold;
+    text-decoration: underline;
+    -webkit-text-decoration-color: #420698;
+            text-decoration-color: #420698; }
+.bio-title {
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  text-align: left;
+  text-transform: uppercase; }
+  @media (max-width: 1000px) {
+    .bio-title {
+      text-align: center; } }
+.bio-bold {
+  font-size: 24px;
+  font-weight: bold; }
+.bio-blue {
+  font-style: italic;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #000a40;
+          text-decoration-color: #000a40; }
+.bio-violet {
+  font-style: italic;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #420698;
+          text-decoration-color: #420698; }
+.bio-quote--top {
+  font-size: 22px;
+  margin-bottom: 60px;
+  width: 90%; }
+  @media (max-width: 1000px) {
+    .bio-quote--top {
+      font-size: 20px; } }
+  .bio-quote--top::before {
+    content: "“";
+    font-family: 'Comfortaa', cursive;
+    position: absolute;
+    font-size: 200px;
+    height: 200px;
+    z-index: 0;
+    opacity: 0.3;
+    left: -20px;
+    top: -20px;
+    line-height: 200px; }
+  .bio-quote--top::after {
+    content: ""; }
+.bio-quote--bottom {
+  font-size: 18px !important;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  width: 90%; }
+  .bio-quote--bottom::before {
+    content: "“";
+    position: absolute;
+    font-family: 'Comfortaa', cursive;
+    font-size: 200px;
+    height: 200px;
+    z-index: 0;
+    opacity: 0.3;
+    left: -20px;
+    bottom: 0;
+    line-height: 260px; }
+    @media (max-width: 767px) {
+      .bio-quote--bottom::before {
+        bottom: 260px; } }
+  .bio-quote--bottom::after {
+    content: ""; }
+.bio-separator {
+  width: 100vw;
+  height: 250px;
+  background: linear-gradient(to right bottom, transparent 50%, #303030 50%); }
+  @media (max-width: 1000px) {
+    .bio-separator {
+      height: 100px; } }
+  .bio-separator--upper {
+    width: 100vw;
+    height: 250px;
+    background: linear-gradient(to right bottom, #303030 50%, transparent 50%);
+    position: absolute;
+    top: 0;
+    left: 0; }
+    @media (max-width: 1000px) {
+      .bio-separator--upper {
+        height: 100px; } }
+
+.band-container {
+  margin-top: 100px;
+  letter-spacing: 1px;
+  padding: 0 5%;
+  margin-bottom: 100px; }
+  @media (max-width: 1000px) {
+    .band-container {
+      margin-top: 130px; } }
+.band-description {
+  padding-top: 20px; }
+.band-title {
+  font-size: 35px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  line-height: 300px; }
+  @media (max-width: 1000px) {
+    .band-title {
+      margin-bottom: 55px; } }
+.band-titleContainer {
+  position: relative;
+  display: block;
+  padding: 50px 0;
+  height: 300px;
+  width: 102vw;
+  margin-left: -6%;
+  margin-top: -5%;
+  margin-bottom: 20px; }
+  .band-titleContainer::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/2-pawel-izdebski-z-zespo%C5%82em-fot.-Magdalena-Halicka.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%; }
+.band-memberName {
+  font-size: 30px;
+  margin: 20px 0; }
+.band-image {
+  max-width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%; }
+.band-imageContainer--left {
+  position: relative; }
+  .band-imageContainer--left::after {
+    content: " ";
+    position: absolute;
+    width: 20%;
+    height: 101%;
+    top: -1px;
+    bottom: 0;
+    left: -1px;
+    background: linear-gradient(to right bottom, #ffffff 50%, transparent 50%); }
+  .band-imageContainer--left::before {
+    content: " ";
+    position: absolute;
+    width: 20%;
+    height: 101%;
+    top: 0;
+    bottom: -1px;
+    right: -1px;
+    background: linear-gradient(to right bottom, transparent 50%, #ffffff 50%); }
+.band-imageContainer {
+  position: relative; }
+  .band-imageContainer::after {
+    content: " ";
+    position: absolute;
+    width: 20%;
+    height: 101%;
+    top: 0;
+    bottom: -1px;
+    left: -1px;
+    background: linear-gradient(to right top, #ffffff 50%, transparent 50%); }
+  .band-imageContainer::before {
+    content: " ";
+    position: absolute;
+    width: 20%;
+    height: 101%;
+    top: -1px;
+    bottom: 0;
+    right: -1px;
+    background: linear-gradient(to right top, transparent 50%, #ffffff 50%); }
+
+.member-row {
+  margin-bottom: 50px; }
+  @media (min-width: 1200px) {
+    .member-row {
+      margin-bottom: 0px; } }
+
+.music-header {
+  margin: 0 -15px;
+  height: 420px;
+  display: table;
+  width: 100vw;
+  position: relative; }
+  .music-header::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-19-fot-Magdalena-Halicka.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+  .music-header::after {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    width: 100%;
+    position: absolute;
+    width: 100%;
+    bottom: -50px;
+    height: 225px;
+    left: 0; }
+    @media (max-width: 1000px) {
+      .music-header::after {
+        height: 0; } }
+    @media (min-width: 1440px) {
+      .music-header::after {
+        height: 20vw;
+        bottom: -75px; } }
+.music-title {
+  display: block;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 1.2px;
+  width: 100%;
+  padding-top: 200px; }
+  @media (max-width: 1000px) {
+    .music-title {
+      font-size: 32px;
+      padding-top: 250px; } }
+.music-player-row {
+  margin: 80px 0 30px; }
+  @media (max-width: 1000px) {
+    .music-player-row {
+      margin-top: 50px; } }
+.music-album-imageContainer {
+  text-align: center;
+  height: 150px; }
+.music-album-image {
+  max-height: 100%;
+  height: 100%;
+  max-width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain; }
+.music-album-description {
+  margin-top: 15px;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  position: relative; }
+  .music-album-description blockquote {
+    z-index: 1; }
+  .music-album-description b {
+    text-decoration: underline;
+    -webkit-text-decoration-color: #000a40;
+            text-decoration-color: #000a40; }
+  .music-album-description::before {
+    content: "“";
+    font-family: 'Comfortaa', cursive;
+    position: absolute;
+    font-size: 300px;
+    height: 300px;
+    z-index: -1;
+    opacity: 0.3;
+    left: -40px;
+    top: -20px;
+    line-height: 300px; }
+.music-album-title {
+  font-size: 18px;
+  font-style: italic;
+  width: 100%;
+  display: block;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #420698;
+          text-decoration-color: #420698;
+  text-transform: uppercase; }
+.music-video-container {
+  padding: 10%; }
+.music-videos-container {
+  margin: 0 -15px;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  width: 100vw;
+  margin-top: -150px;
+  position: relative; }
+  .music-videos-container::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-21-fot-Magdalena-Halicka.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-filter: grayscale(50%);
+            filter: grayscale(50%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+  .music-videos-container::after {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    width: 100%;
+    position: absolute;
+    width: 100%;
+    bottom: -50px;
+    height: 225px;
+    left: 0; }
+    @media (min-width: 1440px) {
+      .music-videos-container::after {
+        height: 20vw;
+        bottom: -75px; } }
+.music-channel-invitation {
+  font-size: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 50px; }
+  .music-channel-invitation a:hover {
+    color: #303030;
+    text-decoration: underline;
+    -webkit-text-decoration-color: #420698;
+            text-decoration-color: #420698; }
+  @media (max-width: 1000px) {
+    .music-channel-invitation {
+      font-size: 42px; } }
+.music-sales-container {
+  margin: 50px 0;
+  margin-bottom: 150px; }
+  @media (max-width: 1000px) {
+    .music-sales-container {
+      margin-bottom: 75px; } }
+.music-sales-link {
+  display: flex;
+  width: 100%;
+  margin-bottom: 5px;
+  height: 80px; }
+  .music-sales-link:hover > .music-sales-logo {
+    background-color: #ffffff; }
+  .music-sales-link:hover > .music-sales-verb {
+    background-color: #ffffff; }
+    .music-sales-link:hover > .music-sales-verb span {
+      color: #23034f; }
+.music-sales-logo {
+  background-color: #f3f4f8;
+  border: 1px #303030 solid;
+  display: table;
+  height: 100%;
+  width: 60%; }
+  .music-sales-logo img {
+    display: table-cell;
+    vertical-align: middle;
+    max-width: 75%;
+    height: 40px;
+    -o-object-fit: contain;
+       object-fit: contain;
+    margin: 20px auto; }
+.music-sales-title {
+  margin-bottom: 70px; }
+.music-sales-verb {
+  border: 1px #303030 solid;
+  height: 82px;
+  width: 40%;
+  line-height: 80px;
+  font-size: 16px;
+  background-color: #f3f4f8; }
+  .music-sales-verb span {
+    color: #303030;
+    text-align: center;
+    width: 100%;
+    display: block; }
+.music-violet {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #420698;
+          text-decoration-color: #420698; }
+.music-separator {
+  height: 150px;
+  margin-left: -15px;
+  margin-right: -15px;
+  position: relative;
+  width: 100vw;
+  z-index: 9; }
+  @media (max-width: 1000px) {
+    .music-separator {
+      height: 100px; } }
+  .music-separator::after {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .music-separator::before {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .music-separator--color::after {
+    width: 50%;
+    bottom: 0;
+    left: 0; }
+  .music-separator--color::before {
+    width: 50%;
+    right: 0;
+    bottom: 0; }
+  .music-separator--black::after {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/navbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    width: 100%;
+    position: absolute; }
+    @media (max-width: 1000px) {
+      .music-separator--black::after {
+        top: -50px; } }
+
+.contact-header {
+  margin: 0 -15px;
+  height: 250px;
+  display: table;
+  position: relative;
+  width: 100vw; }
+  @media (max-width: 767px) {
+    .contact-header {
+      padding-top: 250px; } }
+  .contact-header::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-0+fot.+Magdalena+Kubiak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 120%;
+    z-index: -1; }
+.contact-data {
+  letter-spacing: 1.5px;
+  margin: 150px 0;
+  text-align: center; }
+  @media (max-width: 1000px) {
+    .contact-data {
+      margin-bottom: 100px; } }
+  .contact-data a {
+    transition: all 0.15s ease; }
+    .contact-data a:hover {
+      color: #303030;
+      font-weight: bold;
+      text-decoration: underline;
+      -webkit-text-decoration-color: #420698;
+              text-decoration-color: #420698; }
+.contact-title {
+  vertical-align: bottom;
+  display: table-cell;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 1.2px;
+  width: 100%; }
+  @media (max-width: 1000px) {
+    .contact-title {
+      font-size: 32px; } }
+.contact-separator {
+  background: linear-gradient(90deg, #000a40, #23034f);
+  height: 150px;
+  margin-left: -15px;
+  margin-right: -15px;
+  position: relative;
+  width: 100vw; }
+  @media (max-width: 1000px) {
+    .contact-separator {
+      height: 100px; } }
+  .contact-separator::after {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .contact-separator::before {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .contact-separator--color::after {
+    width: 50%;
+    background: linear-gradient(to left bottom, transparent 50%, #303030 50%);
+    bottom: 0;
+    left: 0; }
+  .contact-separator--color::before {
+    width: 50%;
+    background: linear-gradient(to right bottom, transparent 50%, #303030 50%);
+    right: 0;
+    bottom: 0; }
+  .contact-separator--black::after {
+    border-style: solid;
+    border-width: 150px 50vw 0 50vw;
+    border-color: #303030 transparent transparent transparent;
+    width: 100%; }
+
+.lyrics-header {
+  margin: 0 -15px;
+  height: 250px;
+  display: table;
+  position: relative;
+  width: 100vw; }
+  @media (max-width: 1000px) {
+    .lyrics-header {
+      padding-top: 250px; } }
+  .lyrics-header::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-10+fot+Magdalena+Kubiak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+.lyrics-title {
+  display: block;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 1.2px;
+  width: 100%;
+  padding: 150px 0 70px; }
+  @media (max-width: 1000px) {
+    .lyrics-title {
+      font-size: 32px; } }
+.lyrics-modal-ytlink:hover {
+  color: #303030;
+  font-weight: bold;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #420698;
+          text-decoration-color: #420698; }
+.lyrics-row {
+  padding: 75px 0; }
+.lyrics-row:nth-child(4n) {
+  background-color: #dddddd; }
+.lyrics-row:nth-child(4n + 1) {
+  background: rgba(19, 4, 39, 0.5); }
+.lyrics-row:nth-child(4n + 2) {
+  background: #dddddd; }
+.lyrics-row:nth-child(4n + 3) {
+  background: rgba(0, 10, 64, 0.5); }
+.lyrics-row:last-child {
+  margin-bottom: 50px; }
+.lyrics-button {
+  width: 100%;
+  line-height: 50px;
+  font-size: 19px;
+  color: #303030;
+  background-color: #ffffff;
+  outline: none;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.5s ease;
+  -webkit-appearance: none !important;
+     -moz-appearance: none !important;
+          appearance: none !important;
+  border: 1px #dddddd solid;
+  border-radius: 15px; }
+  .lyrics-button:hover {
+    cursor: pointer;
+    font-weight: bold;
+    transform: scale(1.1); }
+.lyrics-separator {
+  background: linear-gradient(90deg, #000a40, #23034f);
+  height: 150px;
+  margin-left: -15px;
+  margin-right: -15px;
+  position: relative;
+  width: 100vw; }
+  @media (max-width: 1000px) {
+    .lyrics-separator {
+      height: 100px; } }
+  .lyrics-separator::after {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .lyrics-separator::before {
+    content: " ";
+    position: absolute;
+    height: 100%; }
+  .lyrics-separator--color::after {
+    width: 50%;
+    background: linear-gradient(to left bottom, transparent 50%, #303030 50%);
+    bottom: 0;
+    left: 0; }
+  .lyrics-separator--color::before {
+    width: 50%;
+    background: linear-gradient(to right bottom, transparent 50%, #303030 50%);
+    right: 0;
+    bottom: 0; }
+  .lyrics-separator--black::after {
+    border-style: solid;
+    border-width: 150px 50vw 0 50vw;
+    border-color: #303030 transparent transparent transparent;
+    width: 100%; }
+
+.modal-content {
+  background-color: #ffffff;
+  color: #303030;
+  letter-spacing: 0.4px; }
+.modal-dialog {
+  max-width: 600px !important; }
+.modal.black-modal .modal-content {
+  background-color: #0C0C2E;
+  color: #ffffff;
+  letter-spacing: 0.4px;
+  text-align: center; }
+  .modal.black-modal .modal-content * {
+    color: #ffffff !important; }
+.modal-image {
+  cursor: pointer;
+  max-height: 100%;
+  max-width: 100%;
+  height: 500px;
+  width: 500px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  transition: all 0.15s linear; }
+  @media (max-width: 767px) {
+    .modal-image {
+      height: 300px;
+      width: 300px; } }
+  .modal-image:hover {
+    transform: scale(1.03); }
+
+.gallery-row {
+  margin: 100px 0 0;
+  align-items: center; }
+.gallery-channel-invitation {
+  text-transform: uppercase;
+  text-align: center;
+  width: 100%;
+  margin-top: 150px;
+  margin-bottom: 25px; }
+  .gallery-channel-invitation span {
+    font-size: 25px; }
+  .gallery-channel-invitation a {
+    font-size: 42px;
+    letter-spacing: 1px; }
+    .gallery-channel-invitation a:hover {
+      color: #303030;
+      text-decoration: underline;
+      -webkit-text-decoration-color: #420698;
+              text-decoration-color: #420698; }
+    @media (max-width: 1000px) {
+      .gallery-channel-invitation a {
+        font-size: 36px; } }
+.gallery-drop {
+  text-align: center; }
+  .gallery-drop a {
+    text-transform: uppercase;
+    margin-bottom: 50px; }
+    .gallery-drop a:hover {
+      color: #303030;
+      text-decoration: underline;
+      -webkit-text-decoration-color: #420698;
+              text-decoration-color: #420698; }
+.gallery-arrows {
+  text-align: center;
+  margin: 25px 0; }
+  .gallery-arrows .slick-arrow {
+    -webkit-appearance: none;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: #303030;
+    font-size: 14px;
+    outline: none;
+    letter-spacing: 1px;
+    padding: 0 10px;
+    transition: 0.4s all ease-in; }
+    @media (max-width: 1000px) {
+      .gallery-arrows .slick-arrow {
+        padding: 0 15px; } }
+  .gallery-arrows .slick-disabled {
+    opacity: 0; }
+.gallery-link {
+  max-width: 100%;
+  width: 100%;
+  height: 300px;
+  cursor: zoom-in;
+  overflow: hidden;
+  outline: none; }
+.gallery-image {
+  max-width: 60%;
+  max-height: 100%;
+  margin: 0 auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+  outline: none;
+  transition: all 0.15s linear; }
+  .gallery-image:hover {
+    transform: scale(1.08); }
+  @media (max-width: 1000px) {
+    .gallery-image {
+      max-width: 100%; } }
+
+.music-container .gallery-image {
+  max-width: 100%; }
+
+.insta-invitation {
+  height: auto; }
+
+.report-container .gallery-hint {
+  color: #000a40; }
+.report-container .gallery-arrows .slick-arrow {
+  color: #000a40; }
+
+.report-link {
+  border: 1px dotted #000;
+  color: rgba(35, 3, 79, 0.7) !important; }
+.report-content, .report-content * {
+  color: #000a40;
+  font-size: 19px;
+  line-height: 1.45;
+  letter-spacing: 0.5px;
+  margin-bottom: 30px;
+  word-break: break-word; }
+  @media (max-width: 1000px) {
+    .report-content, .report-content * {
+      font-size: 17px; } }
+.report-header {
+  margin: 0 -15px;
+  background: linear-gradient(135deg, #dddddd, #fcfcfc);
+  display: table;
+  padding: 200px 50px 100px;
+  width: 100vw; }
+  @media (max-width: 1000px) {
+    .report-header {
+      height: 150px;
+      padding-top: 250px; } }
+.report-title {
+  vertical-align: bottom;
+  display: table-cell;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 1.2px;
+  width: 100%; }
+  @media (max-width: 1000px) {
+    .report-title {
+      font-size: 27px; } }
+.report-videos-container {
+  background: linear-gradient(135deg, #dddddd, #fcfcfc);
+  margin: 0 -15px;
+  padding-top: 50px;
+  width: 100vw;
+  position: relative;
+  height: 400px; }
+  .report-videos-container::before {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/navbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    width: 100%;
+    position: absolute;
+    height: 200px;
+    top: 0;
+    left: -5%;
+    width: 105vw; }
+    @media (max-width: 1000px) {
+      .report-videos-container::before {
+        top: -50px; } }
+  .report-videos-container::after {
+    content: ' ';
+    background-image: url("https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homegallery.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    width: 100%;
+    position: absolute;
+    width: 100%;
+    bottom: -50px;
+    height: 225px;
+    left: 0; }
+.report-violet {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #420698;
+          text-decoration-color: #420698; }
+
+.slick-dots {
+  position: absolute;
+  bottom: -25px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center; }
+  .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer; }
+    .slick-dots li button {
+      font-size: 0;
+      line-height: 0;
+      display: block;
+      width: 20px;
+      height: 20px;
+      padding: 5px;
+      cursor: pointer;
+      color: transparent;
+      border: 0;
+      outline: none;
+      background: transparent; }
+      .slick-dots li button:before {
+        font-family: 'slick';
+        font-size: 16px;
+        line-height: 20px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20px;
+        height: 20px;
+        content: '•';
+        text-align: center;
+        opacity: .25;
+        color: black;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale; }
+  .slick-dots li.slick-active button::before {
+    opacity: .75; }
+
+.slick-dots li button:before,
+.slick-dots li.slick-active button:before {
+  color: #303030; }
+
+.home-news-container .slick-prev:before, .home-news-container .slick-next:before {
+  font-family: 'slick';
+  font-size: 20px;
+  line-height: 1;
+  opacity: .75;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+.home-news-container .slick-next {
+  right: -25px; }
+.home-news-container .slick-prev {
+  left: -25px; }
+.home-news-container .slick-dotted.slick-slider {
+  margin-bottom: 30px; }
+.home-news-container .slick-prev, .home-news-container .slick-next {
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  top: 50%;
+  display: block;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  color: transparent;
+  border: none;
+  outline: none;
+  background: transparent; }
+
+body,
+body * {
+  font-family: 'Comfortaa', cursive;
+  color: #303030; }
+
+@media (min-width: 991px) and (max-width: 1000px) {
+  .d-md-none {
+    display: none !important; }
+
+  .d-md-block.d-lg-none {
+    display: block !important; } }
+@media (min-width: 1001px) {
+  .d-md-none {
+    display: block !important; } }
