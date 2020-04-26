@@ -1,0 +1,45 @@
+version: 2
+
+workflows:
+  version: 2
+  deploy_test:
+    jobs:
+      - generate_and_publish_test:
+          filters:
+            branches:
+              only:
+                - test
+
+  deploy_production:
+    jobs:
+      - generate_and_publish_production:
+          filters:
+            branches:
+              only:
+                - master
+
+jobs:
+  generate_and_publish_test:
+    docker:
+      - image: circleci/ruby:2.6.6
+    steps:
+      - checkout
+      - run: bundle install
+      - run: rake site:test:generate
+      - add_ssh_keys:
+          fingerprints:
+            - "e9:0d:5a:82:24:00:12:08:8f:55:90:8f:57:5b:9f:20"
+      - run: rake site:test:publish
+
+  generate_and_publish_production:
+    docker:
+      - image: circleci/ruby:2.6.6
+    steps:
+      - checkout
+      - run: bundle install
+      - run: rake site:production:generate
+      - add_ssh_keys:
+          fingerprints:
+            - "e9:0d:5a:82:24:00:12:08:8f:55:90:8f:57:5b:9f:20"
+      - run: rake site:production:publish
+

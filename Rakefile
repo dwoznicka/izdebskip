@@ -16,7 +16,7 @@ namespace :site do
     end
 
     task :publish do
-      system "scp -r #{output_dir}/. pawelizd@pawelizdebski.kylos.pl:public_html/"
+      system "scp -o StrictHostKeyChecking=no -r #{output_dir}/. pawelizd@pawelizdebski.kylos.pl:public_html/"
     end
 
     task :clean do
@@ -38,7 +38,7 @@ namespace :site do
     end
 
     task :publish do
-      system "scp -r #{output_dir}/. pawelizd@pawelizdebski.kylos.pl:public_html/test/"
+      system "scp -o StrictHostKeyChecking=no -r #{output_dir}/. pawelizd@pawelizdebski.kylos.pl:public_html/_test/"
     end
 
     task :clean do
