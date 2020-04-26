@@ -1,0 +1,27 @@
+---
+layout: base
+title: "Fotorelacje z koncertów"
+body_class: 'news'
+---
+
+{% include navbar.html %}
+
+<div class="container-fluid contact-container">
+        <div class="news-header">
+            <h1 class="news-title">FOTORELACJE</h1>
+        </div>
+
+        <section class="blog-page-wrapper container mb-4 mt-2">
+            <div class="blog-snippets-wrapper">
+                <div class="grid-sizer"></div>
+                <div class="gutter-sizer"></div>
+                {% assign news = site.data.news | where:"is_report","true" | sort:"position" | reverse %}
+                {% for article in news %}
+                    {% include news_snippet.html article=article  %}
+                {% endfor %}
+                <div class="clearfix"></div>
+            </div>
+        </section>
+</div>
+
+{% include footer.html %}

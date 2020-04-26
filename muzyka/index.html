@@ -1,0 +1,238 @@
+---
+layout: base
+title: "Muzyka"
+---
+{% include navbar.html %}
+
+<div class="container-fluid music-container">
+    <div class="music-header">
+        <h1 class="music-title">MUZYKA</h1>
+    </div>
+    <div class="container">
+        <div class="row music-player-row">
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <iframe src="https://open.spotify.com/embed/album/67IPj7DglhQkT7JvLCCTb1" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-7 offset-md-1">
+                <div class="music-album-description">
+                    <blockquote>
+                        <span class="music-album-title">"@strach"</span>
+                        Mam wrażenie, że zbyt późno orientujemy się, ile czasu tracimy i jak mało go mamy. Mocno wierzę w to, że któraś z piosenek złamie Cię do tego stopnia, że wyznasz miłość odpowiedniej osobie, odkurzysz instrument, który przez lata leżał na strychu albo zadzwonisz do osoby, która boi się tak samo jak Ty.
+                        "@strach" to pole bitwy jakim jest codzienność - rodzina, miłość, marzenia, relacje, wiara, porażki i sukcesy - a przede wszystkim fakt jakim obciążeniem jest próba pogodzenia tego wszystkiego. Może tak musi być. A może to tylko strach.
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+        <div class="row music-player-row">
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <iframe src="https://open.spotify.com/embed?uri=spotify:album:2DM2GLKv3N1FObQGcH2Gj9" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-7 offset-md-1">
+                <div class="music-album-description">
+                    <blockquote>
+                        <span class="music-album-title">Książę Naiwności</span>
+                        Dla mnie to przede wszystkim pożegnanie z&nbsp;sobą samym, naiwnym, tchórzliwym chłopakiem, który boi&nbsp;się zrobić krok w&nbsp;kierunku swoich marzeń, który zamiast działać&nbsp;–&nbsp;wymyśla coraz to nowe czarne scenariusze. Każda z&nbsp;piosenek to oddzielna wątpliwość. Tytułowy „<span class="music-violet">Książę Naiwności</span>” to postać, która przez większość czasu buja w&nbsp;obłokach, co jest powodem niefortunnych zdarzeń, mających negatywne odbicie w rzeczywistości. Produkcją oraz aranżacją utworów zajął się doświadczony muzyk <b>Marek Błaszczyk</b> współtwórca zespołów <i>Ich Troje</i>, <i>Volver</i> a&nbsp;obecnie klawiszowiec zespołu <b><i>Piotr Bukartyk</i></b>.
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="music-separator music-separator--black">
+    </div>
+    <div class="container-fluid music-videos-container">
+        <div class="row">
+            {% assign videos = site.data.music_videos %}
+            {% for video in videos %}
+            <div class="col-xs-12 col-sm-12 col-md-6">
+                <div class="music-video-container">
+                    <iframe width="100%" height="300" src="{{ video.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="z-index: 100;"></iframe>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <h2 class="music-channel-invitation">
+                    <a href="{{ site.youtube_url }}" target="_blank">ZOBACZ WIĘCEJ NA MOIM KANALE YOUTUBE >> </a>
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid music-sales-container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <h2 class="music-channel-invitation music-sales-title">
+                    ZDOBĄDŹ PŁYTĘ '@STRACH'
+                </h2>
+                
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://api.ffm.to/sl/e/c/izdebskistrach?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83OC4wLjM5MDQuMTA4IFNhZmFyaS81MzcuMzYiLCJicm93c2VyIjp7Im5hbWUiOiJDaHJvbWUiLCJ2ZXJzaW9uIjoiNzguMC4zOTA0LjEwOCIsIm1ham9yIjoiNzgifSwiZW5naW5lIjp7Im5hbWUiOiJXZWJLaXQiLCJ2ZXJzaW9uIjoiNTM3LjM2In0sIm9zIjp7Im5hbWUiOiJNYWMgT1MiLCJ2ZXJzaW9uIjoiMTAuMTUuMSJ9LCJkZXZpY2UiOnt9LCJjcHUiOnt9fSwiY2xpZW50Ijp7InJpZCI6ImZhMTJjYmM3LTZiYTktNDI5OC1hNTU3LTA1ZmM1NDkzOWZmMCIsInNpZCI6ImY0NTBmMWY0LWRiM2UtNGU2Mi1iYTY4LTk4N2U5NmEzOWJhNyIsImlwIjoiODMuMzEuMTU3LjE3MyIsInJlZiI6IiIsImhvc3QiOiJmZm0udG8iLCJsYW5nIjoicGwtUEwifSwiaXNGcm9tRVUiOnRydWUsImNvdW50cnlDb2RlIjoiUEwiLCJpZCI6IjVlMTQ5Y2Y2MmUwMDAwMTBlYzU0MDM1YiIsInR6byI6LTYwLCJjaCI6bnVsbCwiYW4iOm51bGwsImRlc3RVcmwiOiJodHRwczovL2dlby5pdHVuZXMuYXBwbGUuY29tL3BsL2FsYnVtL3N0cmFjaC8xNDkzOTc1Mjg1P2FwcD1tdXNpYyZjdD1leUoySWpveExDSm1abTFmYzJWeWRtbGpaU0k2SW1Gd2NHeGxJaXdpWm1adFgyeHBibXRmYVdRaU9pSTFaVEUwT1dObU5qSmxNREF3TURFd1pXTTFOREF6TldJaUxDSm1abTFmWTI5MWJuUnllU0k2SWxCTUlpd2labVp0WDJ4dllXUmZaR0YwWlNJNk1UVTNPVFl3TmpreE5URTJPWDA9JmF0PTEwMDFsd1F5IiwidmlkIjoiODBjMzI1YzgtZGFkMC00ZGRjLWEzMDktYmUyZGU0ZDAxMDgzIiwic3J2YyI6ImFwcGxlIiwicHJvZHVjdCI6InNtYXJ0bGluayIsInNob3J0SWQiOiJpemRlYnNraXN0cmFjaCIsImlzQXV0aG9yaXphdGlvblJlcXVpcmVkIjpmYWxzZSwib3duZXIiOiI1ZGE3MmFkZTJjMDAwMGQ4MWRkNWVmNmQiLCJhciI6IjVkYzE4MTk4MjQwMDAwOTQ3MGY2M2QxNCJ9" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/2_5_LogoRetina.png' | asset_path | absolute_url }}" alt="2_5">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://open.spotify.com/album/67IPj7DglhQkT7JvLCCTb1" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/1_13_LogoRetina.png' | asset_path | absolute_url }}" alt="1_13">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://tidal.com/browse/album/127501496?play=true" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/12_5_LogoRetina.png' | asset_path | absolute_url }}" alt="12_5">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://plusmusic.pl/album/4022550/@strach" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/217_2_LogoRetina.png' | asset_path | absolute_url }}" alt="6_7">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://music.amazon.com/albums/B083KK4X6S?tag=featurefm-20" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/music-service_amazon.png' | asset_path | absolute_url }}" alt="218_1">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://music.apple.com/pl/album/strach/1493975285?l=pl" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/3_6_LogoRetina.png' | asset_path | absolute_url }}" alt="3_6">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://play.google.com/music/preview/B4c34hhrohedlkx5ubrzgjriace?u=0" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/5_4_LogoRetina.png' | asset_path | absolute_url }}" alt="5_4">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://play.anghami.com/album/1010056111" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/music-service_anghami' | asset_path | absolute_url }}" alt="217_2">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Słuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://www.empik.com/strach-izdebski-pawel,p1238131139,muzyka-p" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/31_3_LogoRetina.png' | asset_path | absolute_url }}" alt="31_3">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <h2 class="music-channel-invitation music-sales-title">
+                    ZDOBĄDŹ EPKĘ 'KSIĄŻĘ NAIWNOŚCI'
+                </h2>
+                
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://itunes.apple.com/pl/album/ksi%C4%85%C5%BC%C4%99-naiwno%C5%9Bci-ep/id1266200675?l=pl" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/2_5_LogoRetina.png' | asset_path | absolute_url }}" alt="2_5">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://open.spotify.com/album/2DM2GLKv3N1FObQGcH2Gj9" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/1_13_LogoRetina.png' | asset_path | absolute_url }}" alt="1_13">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://listen.tidal.com/track/76891921" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/12_5_LogoRetina.png' | asset_path | absolute_url }}" alt="12_5">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://www.deezer.com/pl/album/45608591" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/6_7_LogoRetina.png' | asset_path | absolute_url }}" alt="6_7">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://www.akazoo.com/album/25142478/Ksi----Naiwno-ci" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/218_1_LogoRetina.png' | asset_path | absolute_url }}" alt="218_1">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Posłuchaj</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://itunes.apple.com/pl/album/ksi%C4%85%C5%BC%C4%99-naiwno%C5%9Bci-ep/id1266200675?l=pl&app=itunes" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/3_6_LogoRetina.png' | asset_path | absolute_url }}" alt="3_6">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <a class="music-sales-link" href="https://play.google.com/store/music/album/Pawe%C5%82_Izdebski_Ksi%C4%85%C5%BC%C4%99_Naiwno%C5%9Bci?id=Bxk3g3lmjwrjfv5mvjbuvchqzra&hl=pl" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/5_4_LogoRetina.png' | asset_path | absolute_url }}" alt="5_4">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://plusmusic.pl/album/3836583/ksiaze-naiwnosci" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/217_2_LogoRetina.png' | asset_path | absolute_url }}" alt="217_2">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+                <a class="music-sales-link" href="https://www.empik.com/ksiaze-naiwnosci,p1151249768,ebooki-i-mp3-p" target="_blank">
+                    <div class="music-sales-logo">
+                        <img src="{{ 'retailers/31_3_LogoRetina.png' | asset_path | absolute_url }}" alt="31_3">
+                    </div>
+                    <div class="music-sales-verb">
+                        <span class="music-sales-text">Kup</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}

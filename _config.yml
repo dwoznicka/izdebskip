@@ -1,14 +1,28 @@
 title: Paweł Izdebski
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.pawelizdebski.pl/" # the base hostname & protocol for your site, e.g. http://example.com
-copyright: 2018 © <a href="https://www.pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
+name: Paweł Izdebski Official
+baseurl: "" # production
+# baseurl: "" #development
+# url: "http://localhost:4000" # development
+url: "https://pawelizdebski.pl" # production domain
+copyright: 2019 © <a href="https://pawelizdebski.pl" class="site-link">Paweł Izdebski</a>. Wszelkie prawa zastrzeżone.
+copyright_short: 2019 © <a href="https://pawelizdebski.pl" class="site-link">Paweł Izdebski</a>.
+made_by: 'Made with ❤ by DW'
 # Build settings
 markdown: kramdown
 incremental: true
+spotify_url: 'https://open.spotify.com/album/2DM2GLKv3N1FObQGcH2Gj9'
+youtube_url: 'https://www.youtube.com/c/PawelIzdebski/'
+instagram_url: 'https://www.instagram.com/nieokiemznany/'
+twitter_url: 'https://twitter.com/IzdebskiGra'
+facebook_url: 'https://www.facebook.com/pawelizdebskipl'
+permalink: /blog/:title/
+news_path: '/news'
+news_page_layout: 'report'
 gems:
   - jekyll-watch
   - jekyll-paginate-v2
   - jekyll-assets
+  - jekyll-redirect-from
 exclude:
 - CNAME
 - .gitignore
@@ -44,7 +58,7 @@ assets:
 pagination:
   enabled: true
   collection: posts
-  per_page: 9
+  per_page: 4
   permalink: '/page:num/'
   limit: 0
   sort_field: 'date'

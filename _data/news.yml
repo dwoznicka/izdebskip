@@ -1,0 +1,3363 @@
+- url: 'http://mad-music.pl/chce-lapac-momenty-w-ktorych-beda-przechodzily-mnie-ciarki-wywiad-z-pawlem-izdebskim/?utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=wywiady'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-13+fot.+Grzegorz+Mandziak.jpg'
+  author: 'mad-music.pl'
+  title: '„Chcę łapać momenty, w których będą przechodziły mnie ciarki” – wywiad dla Mad Music'
+  position: 0
+
+- url: 'https://www.facebook.com/heartrockowanie/photos/a.200992117095611/410629042798583/?type=3&theater=&utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=hr2019'
+  image_url: 'https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/47471627_451592905368863_3685120319795757056_n.png?_nc_cat=101&_nc_ht=scontent-waw1-1.xx&oh=adb0efab7fb52e7ceaa10b12141265b3&oe=5CEE54A3'
+  author: 'HeartRockowanie'
+  title: "HeartRockowanie 2019 - Ogłoszenie Artysty"
+  position: 1
+
+- url: 'http://www.muzeum.wejherowo.pl/d/aktualnosci/koncerty/koncert-studio-accantus-muzeum-zaprasza/?cat=8&utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=accantus'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/accantus-Wejherowo.jpg'
+  author: 'Muzeum Piśmiennictwa i Muzyki Kaszubsko-Pomorskiej w Wejherowie'
+  title: Koncert Studio Accantus w Wejherowie
+  position: 2
+
+- url: 'http://kultura.gazeta.pl/kultura/7,114526,23897668,zlota-dziesiatka-czyli-teatr-muzyczny-na-najwyzszym-poziomie.html?utm_source=pawelizdebski.pl&utm_medium=news&utm_campaign=once#Z_Prze'
+  image_url: 'http://bi.gazeta.pl/im/dd/4e/16/z23392221Q,-Once----nowy-musical-w-Teatrze-Muzycznym-Roma--Na.jpg'
+  author: 'kultura.gazeta.pl'
+  title: "Once w złotej dziesiątce!"
+  subtitle: 'Zapraszam na "Once" do Teatru Roma, w którym wcielam się w rolę Eamona. Spektakl znalazł się w złotej dziesiątce musicali w nadchodzącym sezonie!'
+  position: 3
+
+- id: 'fotorelacja-7-wrzesnia-2018-lodz'
+  position: 4
+  is_report: true
+  image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5773.jpg"
+  author: "7 września 2018"
+  title: 'PAWEŁ IZDEBSKI & Kasia Mazurkiewicz w TU, Łódź - Fotorelacja | 7 września 2018'
+  paragraphs:
+    - position: 0
+      text: |
+        Do wszystkich obecnych na ostatnim koncercie w Łodzi! Jak mogliście!<br/>
+        Jak mogliście mnie tak zaskoczyć i doprowadzić do rumieńców!
+        7 września zagraliśmy po raz drugi z Kasią Mazurkiewicz (piano) w Łodzi, 
+        w cudownym miejscu o nazwie “TU”. I choć właścicielki zmieniły lokalizację na jeszcze 
+        lepszą, to atmosfera została, a nawet zrobiło się o wiele goręcej. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5383.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5454-2.jpg'
+          author: Piotr Kędzia
+    - position: 1
+      text: |
+        Wiecie co? Uwielbiam ten moment, kiedy na 15 minut przed rozpoczęciem słyszę dźwięk 
+        Waszych rozmów, uśmiechów i drinków zamawianych na barze. I potem wychodzimy z Kasią i 
+        widzę Wasze twarze i robi mi się gorąco. Puls się zwiększa, staję na scenie i zaczynamy 
+        pierwsze dźwięki piosenki, a Wy… w skupieniu słuchacie. Mam wielkie szczęście. 
+        Miałem wrażenie, że nie było tu przypadkowych osób, a nawet jeśli, to w ogóle tego nie 
+        odczułem. Nie wspomnę o tym, że dwa dni przed koncertem obchodziłem swoje 28 urodziny, 
+        długo czekałem na ten koncert. Nie będę ukrywał, spodziewałem się, że ktoś złoży mi 
+        spóźnione życzenia, ale Wy… przygotowaliście się o wiele lepiej ode mnie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5493.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6037-2.jpg'
+          author: Piotr Kędzia
+    - position: 2
+      text: |
+        Zawsze, gdy jadę na swój koncert, to na dzień przed jak i w dniu koncertu - wizualizuję, 
+        zakładam najgorsze scenariusze typu - zerwie mi się struna na pierwszym utworze, 
+        będzie burza i nie będzie prądu, potknę się na schodach z ukulele, które złamie się w pół. 
+        Nic takiego się nie stało. Z ręką na sercu mogę napisać, że był to chyba mój najlepszy 
+        koncert, jeśli chodzi o klimat, atmosferę i ludzi. Sprawiliście, że ciężko mi było 
+        odszukać cień dyskomfortu czy napięcia, wydawałem z siebie dźwięki, o których nigdy nie 
+        myślałem i poczułem się przez kilka chwil wolny i najszczęśliwszy. Dla tych momentów 
+        występuję. Narkotyk.
+      photos:
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5439.jpg'
+          author: Piotr Kędzia
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5423.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5618.jpg'
+          author: Piotr Kędzia
+    - position: 3
+      text: |
+        Dziękuję Wam za obecność i mam nadzieję, że to nie był nasz ostatni raz. Ściskam 
+        najmocniej Olę, Zuzię, Mamę Oli i Zuzi, które nas zaprosiły i ugościły, Nidi i Magika 
+        za pomoc i fireshow, który uświetnił koncert, Artura, który nas nagłośnił, Piotra, który 
+        uwiecznił ten koncert i nas wszystkich, Darię, która była moim aniołem stróżem tego dnia 
+        oraz Kasię, której jestem wdzięczny za to, że przelewa swoją wrażliwość na moją muzykę i 
+        jest najlepszym przyjacielem na scenie. Widzimy się wkrótce :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6282.jpg'
+          author: Piotr Kędzia
+        - position: 9
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5448.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5986.jpg'
+          author: Piotr Kędzia
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5540-2.jpg'
+          author: Piotr Kędzia
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5925.jpg'
+          author: Piotr Kędzia
+        - position: 10
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6188.jpg'
+          author: Piotr Kędzia
+        - position: 11
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_6261.jpg'
+          author: Piotr Kędzia
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5489.jpg'
+          author: Piotr Kędzia
+        - position: 8
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5760.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5773.jpg'
+          author: Piotr Kędzia
+        - position: 7
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5456.jpg'
+          author: Piotr Kędzia
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/7-09-2018/IMG_5635.jpg'
+          author: Piotr Kędzia
+    - position: 4
+      text: "Zdjęcia: Piotr Kędzia"
+
+- url: 'https://www.youtube.com/watch?v=C1krzFXZuMw&index=1&list=UUoX8tn1NKyWlD1uvf7r0NHw&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/teaser-lowcy.jpg'
+  position: 5
+  author: 'YouTube'
+  title: "Nowe wideo - Łowcy Gwiazd ★ (CLEO Cover) - Paweł Izdebski ft. Pablo Rhodo"
+  
+- url: 'https://www.youtube.com/watch?v=KuXnxb6oieM&index=1&list=UUoX8tn1NKyWlD1uvf7r0NHw&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/no_coz.jpg'
+  position: 6
+  author: 'YouTube'
+  title: "Nocna Sesja Na Strychu: Paweł Izdebski - No Cóż"
+
+- url: 'https://www.kupbilecik.pl/impreza-30580-pawel.izdebski.solo.act.torun.html'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-0+fot.+Magdalena+Kubiak.jpg'
+  position: 8
+  author: kupbilecik.pl
+  title: "Bilety na koncert Solo Act w Toruniu już w sprzedaży na kupbilecik.pl!"
+
+- url: https://www.youtube.com/watch?v=2T-FEmsL40U&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/festiwal-piosenki-gitarowej.png'
+  position: 9
+  author: "Paweł Izdebski & Chwyty Dozwolone"
+  title: "Paweł Jurorem na III Festiwalu Piosenki Gitarowej!"
+  subtitle: "Paweł we współpracy z kanałem Chwyty Dozwolone zapraszają do konkursu!"
+
+- url: https://www.facebook.com/kaminskiralph/photos/a.462740007179379/1852235371563162/?type=3&theater=&utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=calendar
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/ralph-kaminski.jpg'
+  position: 10
+  author: Ralph Kaminski
+  title: Paweł Izdebski supportem Ralpha Kaminskiego na części trasy "Pożegnanie z m o r z e m"
+  subtitle: "Rozgrzeje Was w Katowicach (16.11), Wrocławiu (17.11) i Warszawie (7.12)"
+
+- url: https://pawelizdebski.pl/blog/gitara-w-dlon/
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/blog/gitara-w-dlon-small.jpg'
+  position: 11
+  author: Paweł Izdebski Blog
+  title: Nowy blogpost!
+  subtitle: GITARA W DŁOŃ!
+
+- url: https://youtu.be/2bxiFmXLi-0?utm_source=pawelizdebski.pl&utm_medium=homepage&utm_campaign=news
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/5-minut.png'
+  position: 12
+  author: 5 minut
+  title: Paweł Izdebski na kanale 'Moje 5 Minut'
+
+- url: https://www.facebook.com/events/338096486997536/
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/pawel-izdebski-kasia-mazurkiewicz-gdynia.png'
+  position: 13
+  author: APP Gdynia
+  title: Paweł Izdebski i Kasia Mazurkiewicz ogłaszają koncert w Blues Club Gdynia
+  subtitle: 15 grudnia 2018
+
+- url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a.jpg'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Plakat-Weso%C5%82a-xs.jpg'
+  position: 14
+  author: Ośrodek Działań Twórczych "Pogodna"
+  title: Paweł Izdebski i Kasia Mazurkiewicz w podwarszawskiej Wesołej!
+  subtitle: 8 grudnia 2018
+
+- url: 'http://smarturl.it/PawelIzdebskiNoCoz'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/no-coz-na-spotify.png'
+  position: 15
+  author: Agora Digital Music
+  title: Nocna Sesja Strychowa "No Cóż" już na portalach streamingowych!
+  subtitle: Zachęcam dodać do swojej playlisty, co by mieć mnie zawsze pod ręką!
+
+- id: 'fotorelacja-9-listopada-2018-torun'
+  position: 16
+  is_report: true
+  image_url: "https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7529-xs.jpg"
+  author: "Fot. Magdalena Halicka"
+  title: ' Piernik Szczęścia czyli fotorelacja z koncertu w Toruniu | PAWEŁ IZDEBSKI Solo Act | 9 listopada 2018'
+  paragraphs:
+    - position: 0
+      text: |
+        Tak, po koncercie w Toruńskim klubie Dwa Światy zmieniłem się w szczęście i kolejny dzień spędziłem w swojej głowie, wspominając Wasze uśmiechy i radosne rozmowy po występie.
+        Żeby nie było - przywitałem się z Mikołajem Kopernikiem, a także starówkowym osłem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7250.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7253.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Najpierw kabelki…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7276.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7289.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        A potem chwila na wyciszenie i medytację...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7332.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        I gramy! Na scenę przy ulicy Św. Ducha zabrałem ze sobą Rachel (elektroakustyk), Pocahontas (gitara elektryczna) i Nalę (Ukulele).
+        Wszystkie były lekko zestresowane na chwilę przed, ale kilka słów otuchy na uszko przy gryfie (tak, gitary mają uszy) dodało im sił i cudownie sprawdziły się w stolicy pierników!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7345.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7456.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7358.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7438.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7454.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7379.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Ostatnimi czasy, na koncerty wożę ze sobą jakieś 50% mojego pokoju (bez cegieł, okien i łóżka).
+        Dlatego też dzięki pomocy tajemniczych istot udało mi się zamontować troszkę nocnego nieba na scenie, co spowodowało, że czułem się jak w domu.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7494.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7529.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7501.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7523.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7478.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7459.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Dzięki Wam postanowiłem sobie jedną małą rzecz - na pewno wrócę.
+        Przyszliście w super nastrojach co odbiło się na mojej energii.
+        Sam pokonałem kilka strachów w swojej głowie. Wspólne fotki, wymiana zdań i podpisywanie “Księcia Naiwności” tylko utwierdziły mnie w tym, że Toruń trzyma za mnie kciuki i moim obowiązkiem jest powrócić ze zdwojoną mocą.
+        Dziękuję i do zobaczenia :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7536.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7532.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7569.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7602.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7611.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7542.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Ściskam najmocniej moją mobilną drużynę gitary w składzie Karolina ”Nidi” Rawdanik, Daria “Darielka” Woźnicka i Magdalena Halicka, dzięki której ten koncert został uwieczniony na zawsze (lub do momentu, w którym na świecie ktoś zlikwiduje wszystkie cyfrowe zdjęcia, a to się raczej nie stanie, bo nikt nie ma w tym żadnego interesu)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/9-11-2018/IMG_7614.jpg'
+          author: Magdalena Halicka
+
+- url: 'https://youtu.be/vKTKa8hv6Ps'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Big-Ol-Game.jpg'
+  position: 17
+  author: Paweł Izdebski, Małgorzata Gąś, Janek Walewski
+  title: Nowe wideo na Youtube!
+  subtitle: Big Ol' Game - Joss Stone Cover
+
+- url: 'http://www.sfera.umk.pl/35712/to-juz-nawet-nie-jest-zawod-po-prostu-robie-to-co-kocham-wywiad-z-pawlem-izdebskim/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/wywiad-radio-sfera-torun.jpg'
+  position: 18
+  author: Radio Sfera Toruń
+  title: "„To już nawet nie jest zawód, po prostu robię to co kocham”"
+  subtitle: Wywiad z Pawłem Izdebskim
+
+- url: 'https://www.youtube.com/watch?v=BLhXZOCfBC0'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/chwyty-dozwolone.jpg'
+  position: 19
+  author: Chwyty Dozwolone
+  title: 'Paweł Izdebski w szczerej rozmowie o wszystkim'
+
+- url: 'https://www.facebook.com/events/464458720744770/permalink/471215826735726/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/wampiriada.jpg'
+  position: 20
+  author: Paweł Izdebski
+  title: 'Wspieram Wampiriadę NZS SGH jako ambasador akcji!'
+  subtitle: "3-6 grudnia w godzinach 9.00-14.00 chętni mogą oddać krew w krwiobusie, który będzie stał na uczelnianym parkingu tuż przed budynkiem G. Dla każdego krwiodawcy upominki!"
+
+- url: 'https://www.youtube.com/watch?v=tsavgbnvMVc&utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/jenny.png'
+  position: 21
+  author: Paweł Izdebski
+  title: Nowe wideo na YouTube!
+  subtitle: Jenny Don't Be Hasty - Paolo Nutini Cover
+
+- url: 'https://www.facebook.com/events/1848874598544017/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-20-fot-Magdalena-Halicka.jpg'
+  position: 22
+  author: Paweł Izdebski
+  title: Paweł Izdebski zagra przedwalentynkowy koncert solowy w Poznaniu!
+  subtitle: 10 lutego 2019
+
+- url: 'http://mad-music.pl/gitarowe-inspiracje-top-10-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-21-fot-Magdalena-Halicka.jpg'
+  position: 23
+  author: mad-music.pl
+  title: Gitarowe inspiracje – Top 10 Pawła Izdebskiego
+
+- url: 'https://www.facebook.com/events/724024007968863/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/pawel_kasia_wesola_xs.jpg'
+  position: 24
+  author: Chicago Jazz Live Music Kraków
+  title: Paweł Izdebski zagra w Krakowie z pianistką Kasią Mazurkiewicz!
+  subtitle: 20 stycznia 2019
+
+- id: 'fotorelacja-grudzien-2018'
+  position: 25
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9684-xs.jpg'
+  author: "Fot. Magdalena Halicka & Piotr Kędzia"
+  title: 'Warszawskie granie! | Paweł Izdebski | Fotorelacja'
+  paragraphs:
+    - position: -1
+      text: |
+        Stało się. W Grudniu zagrałem dwa razy w stolicy. W 2018 omijałem Warszawę, żeby na koniec roku ją przytulić - czy uczucie zostało odwzajemnione? Zapraszam do krótkiej fotorelacji z komentarzem :)
+    - position: 0
+      text: |
+        Pierwszy koncert zagrałem solo w klubie Palladium, było to dla mnie ogromne przeżycie, bo na tej scenie grało wielu moich idoli (Tommy Emmanuel, Glen Hansard). I choć na tej scenie już wcześniej szarpałem struny, to tym razem mogłem zagrać swoje numery. &lt;Odhacza_spełnione_marzenie&gt;. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9645.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Gwiazdą tego wieczoru był Ralph Kamiński, który koncertem na ul. Złotej podsumował dwuletnią już historię jego debiutanckiego albumu “Morze”, który odbił się echem w całym kraju. Jest 19:50 i dostaję sygnał, że mam ruszyć na scenę. Lekka spinka, głęboki oddech, sprawdzanie kostek do gry po kieszeniach - wszystko się zgadza - wchodzę. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9739.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Zagrałem 6 piosenek, te 30 minut to był zastrzyk SuperElektroMagnesowejMotywującejWitaminyX. Fani Ralfa przyjeli mnie ultra ciepło, a i po samym koncercie usłyszałem dużo za dużo dobrych słów, co tylko wzmocniło mojego wewnętrznego narcyza.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9684.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Było introwertycznie, czyli tak jak lubię na co dzień. Natomiast mocny koniec był nieuchronną częścią mojego występu i jak zwykle troszkę mnie poniosło. Dziękuję Ralfowi za zaproszenie, ArtGrupie za możliwość występu na tej scenie i wszystkim, którzy dołożyli starań żeby mój występ wypadł jak najlepiej. &lt;Chowa_wspomnienie_do_szuflady_z_napisem_zapamiętać_do_końca_życia&gt;
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_9732-2.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Zdjęcia podczas koncertu w Palladium zrobiła Magdalena Halicka / Magryzki
+
+        Następnego dnia tj. 8 grudnia przenieśliśmy się trochę na południowy-wschód i daliśmy czadu z Kasią Mazurkiewicz w Ośrodku Działań Twórczych “Pogodna” w dzielnicy Wesoła. Zaczeliśmy od wspólnej fotki! :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3622.jpg'
+          author: Piotr Kędzia
+    - position: 5
+      text: |
+        A potem już zasypaliśmy Was dźwiękami, a Wy… słuchaliście tak że znów poczułem po co to robię.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3695.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3749.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3838.jpg'
+          author: Piotr Kędzia
+    - position: 6
+      text: |
+        Mamy taki rytuał z Kasią, że co jakiś czas przybijamy sobie żółwika, zwłaszcza kiedy zagraliśmy tak jak nigdy :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4004.jpg'
+          author: Piotr Kędzia
+    - position: 7
+      text: "Nawet Nala wystroiła się jak nigdy…"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3591.jpg'
+          author: Piotr Kędzia
+    - position: 8
+      text: |
+        Jeśli ktoś myśli, że przestałem ze śmieszkowaniem na scenie, to jest w dużym błędzie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3889.jpg'
+          author: Piotr Kędzia        
+    - position: 9
+      text: |
+        P.S Nie, nie zostanę stand-uperem…
+
+        Przed, NIGDY w trakcie i po, można było zabrać do domu część mojej duszy i kilka innych drobiazgów :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3599.jpg'
+          author: Piotr Kędzia 
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_3615.jpg'
+          author: Piotr Kędzia 
+    - position: 10
+      text: |
+        Po koncercie zbijaliśmy piątki i robiliśmy sobie fotki - znaczy się, pozowaliśmy do czujnego oka Piotra Kędzi :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4194.jpg'
+          author: Piotr Kędzia 
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4146.jpg'
+          author: Piotr Kędzia 
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/IMG_4161.jpg'
+          author: Piotr Kędzia 
+    - position: 11
+      text: "A na początku stycznia fotorelacja z koncertu w Gdyni! ^^"
+
+- url: 'https://pawelizdebski.pl/blog/podsumowanie-roku/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-2018/podsumowanie_2018_xs.jpg'
+  position: 26
+  author: Paweł Izdebski | Blog
+  title: Podsumowanie roku 2018
+  subtitle: "Spełniłem więcej marzeń, czy, jak kto woli, celów niż chciałem i to wszystko, co zrobiłem od stycznia, odbije się bardzo mocno na 2019. Sam nie mogę się doczekać. Póki co analiza ukochanego 2018 :)"
+
+- url: 'https://web.facebook.com/events/2111850605812240/'
+  image_url: 'https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/49575835_2218372058374496_2606398872058068992_n.jpg?_nc_cat=103&_nc_ht=scontent-waw1-1.xx&oh=9fd5fe9c835200c0f788475208c2c86a&oe=5D99B164'
+  position: 27
+  author: '9 stycznia 2019'
+  title: Paweł Izdebski zagra na koncercie OpenCall For Music
+
+- id: 'fotorelacja-15-grudnia-2018-gdynia'
+  position: 28
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0591_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Muzyczni piraci w Gdyni! | Paweł Izdebski & Kasia Mazurkiewicz | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: "Ahoj Morskie Struny!<br/>Kilka wiadomości z piasczystego portu w Yrgram-Dir. Otóż 15 grudnia w Gdyńskim Blues Clubie zagrałem w duecie z Panią Kapitan Kasią Mazurkiewicz! Jak było? Zapraszam na pokład. Zdjęcia wykonała legendarna postać fotograficznego morza: Magdalena Halicka."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0591.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0603.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Scenografia - wisi. To teraz sztylety i brzytwy… znaczy się instrumenty.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0670.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0680.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Czas na dowcip, dziękuję wszystkim którzy docenili sztucznym śmiechem :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0642.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0677.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        …
+        Zawsze mogę liczyć na tą Panią!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0634.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0662.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Na naszych koncertach dzieją się rzeczy, które ciężko wytłumaczyć, po prostu trzeba przyjść… 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0730.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0734.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Dlatego więcej Wam nie zdradzę, kolejne rejsy są na bieżąco podawane na tej stronie w kalendarzu, zapraszam (mamy środki na chorobę morską). 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0709.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0636.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Chwila ej! Jeszcze Wy! To przez Was wszystko! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0813.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0841.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0855.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0847.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0882.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0900.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0896.jpg'
+          author: Magdalena Halicka
+        - position: 7
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0912.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: "Dziękujemy i życzymy szczęśliwego nowego roku! Na koniec końców, ekipa bez której byśmy nawet nie wyjechali z Warszawy! :D"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/15-12-2018/IMG_0921.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "/P"
+
+- url: 'https://www.facebook.com/events/362766991218873/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/blog/podsumowanie-2018/zespo%CC%81%C5%82.jpg'
+  position: 29
+  author: 'Łódź, 30 marca 2019'
+  title: Paweł Izdebski zagra z zespołem! Bilety do nabycia na kupbilecik.pl
+
+- id: 'fotorelacja-20-stycznia-2019-krakow'
+  position: 30
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1836_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Paweł Izdebski & Kasia Mazurkiewicz | Kraków 20 stycznia 2019 | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Pisanie fotorelacji ma jedną wadę. Jak już zaczynam pisać i wstawiać zdjęcia… to już wiem (dokładnie w tym miejscu), że nie da się powtórzyć chwil.
+        Mogę zagrać ponownie koncert w tym samym miejscu, o tej samej godzinie i z tymi samymi piosenkami. Ba! Nawet mogę się tak samo ubrać.
+        Z tym że Waszych spojrzeń, śmiechu, naszych rozmów “po” już się nie da powtórzyć. Ja też nigdy nie przywołam dokładnie tego samego szczęścia, które mnie spotkało 20 stycznia w Krakowskim Chicago Jazz Club.
+        Zapraszam do krótkich wspominek (NA KOŃCU ZDJĘCIE GRUPOWE!) Jak przywitał nas Kraków?! Jesteście gotowi?<br/><br/>
+        Niską temperaturą i… super dziwnymi miejscami. Tu z Kasią Mazurkiewicz czekamy, aż coś wyskoczy i nas pożre. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1595.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Nic nas nie zjadło, ale i tak spytałem Pana na parkingu, czy jesteśmy bezpieczni.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1612.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Jak się okazało, nie było to siedlisko Smoka Wawelskiego. Nie pozostało nam nic innego, jak tylko wybrać się na filiżankę kawy.
+        Tym razem Kasia uczyła mnie, jak należy pić kawę przed koncertem. Okazało się, że inaczej niż na co dzień.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1698.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Poprawki w set liście i kilka anegdot, które zazwyczaj przychodzą w podróży…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1582.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Ale hola hola, trzeba zrobić soundcheck, 3.. 2.. 1… pierwsze dźwięki w Chicago Jazz Club!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1776.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1830.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1759.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1682.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Podczas koncertu w Krakowie dźwiękiem zajął się Michał Warmusz (ten sam człowiek, który rok wcześniej zaprosił nas do Krakowa na "Solvay Nocą").<br/>
+        Dziewczyny zadowolone, grzecznie czekają na swoich miejscach…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1621.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Ostatnie kilka minut przed wyjściem na scenę, czyli głupawka czas start.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1685.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Gramy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1836.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Mój stróż jest ze mną na scenie :)"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1771.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Wiem, że powinienem wyczyścić gitarę, ale w muzyce nie do końca o to chodzi.<br/>
+        Wolę grać niż sprzątać. Pocahontas (gitara elektryczna) coraz częściej pojawia się na moich koncertach, ostatnio pcha mnie w "elektryczne" granie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1823.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Mamy mnóstwo zdjęć i nie zawahamy się ich użyć, dlatego w tej chwili nie pozostaje mi nic innego, jak wcisnąć caps locka i napisać DZIĘKUJĘ.
+        Kraków jak zwykle przywitał mnie ultra-ciepło i czy to lato czy zima, zawsze będę wracał. Poniżej kilka zdjęć z Wami, Droga Publiczności oraz zdjęcie grupowe.
+        Mam nadzieję, że wspólnie powspominamy kilka godzin radości, muzyki i kosmicznej atmosfery. Buziaki.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1898.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1933.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1939.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1950.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1981.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1985.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1996.jpg'
+          author: Magdalena Halicka
+        - position: 7
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_2000.jpg'
+          author: Magdalena Halicka
+        - position: 8
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_2003.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_1877.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        A to ekipa, która zadbała, żeby wszystkim nam było dobrze. Kasia, Daria, Magda, Michał - dziękuję :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_2028.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Czas wracać.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/20-01-2019/IMG_2050.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: "Autorką zdjęć jest Magdalena Halicka.<br/> /P"
+
+- url: 'http://www.swiatkultury.com.pl/?p=22906&utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'http://serwer1372317.home.pl/autoinstalator/wordpress/wp-content/uploads/2019/02/Paweł-Izdebski-3-600x400.jpg'
+  position: 31
+  author: 'Świat Kultury Poznań'
+  title: Paweł Izdebski i jego muzyczna dusza - relacja z koncertu w Blue Note Poznań 
+
+- url: 'https://www.youtube.com/watch?v=1jtT0RhdxjU&utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/drive-incubus.png'
+  position: 32
+  author: 'YouTube'
+  title: "Nowe wideo na Youtube! Paweł Izdebski & Grzegorz Zimny - Drive (Incubus Cover)"
+
+- url: 'http://www.lepszypoznan.pl/2019/02/10/pawel-izdebski-zdjecia.html?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'http://www.lepszypoznan.pl/wp-content/uploads/2019/02/5FE8IE-1200x800.jpg'
+  position: 33
+  author: lepszypoznan.pl
+  title: Paweł Izdebski wystąpił w poznańskim klubie Blue Note - relacja
+
+- id: 'fotorelacja-10-lutego-2019-poznan'
+  position: 34
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4398_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Paweł Izdebski Solo Act | Poznań 10 lutego 2019 | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        W Poznaniu byłem już o 2 nad ranem. Dziewięć godzin wcześniej miałem przyjemność zobaczyć
+        spektakl Jesus Christ Superstar w Teatrze Muzycznym w Łodzi. Sztuka nastroiła mnie w refleksyjny sposób do niedzielnego koncertu w Blue Note i wygląda na to,
+        że to był strzał w dziesiątkę. Dnia następnego pozwiedzałem Poznań i, rzecz jasna, udało się zrobić zdjęcia,
+        do których kiedyś będę ronił łzy szczęścia i tęsknoty za młodością :D.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3830.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Dzięki przewodniczce Mai, udało się poznać historię <i>Starego Marycha</i> i poprosić go o fotę. Jak się okazało, warunkiem było założenie łańcucha…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3864.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Po drodze spotkaliśmy też Pana Kota, Pan Kot siedział w sklepie i ignorował nas przez dobre 10 minut.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3857.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Tego dnia miałem zadziwiająco taneczny nastrój, więc uznałem, że pokażę miejscowym kilka jazzowych figur na tle nowoczesnej architektury.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3869.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: "Przez przypadek zasnęliśmy ze street teamem (Od lewej: Paweł, Maja, Needy, Darielka, Sandra) w centrum miasta. Nie wiadomo dlaczego Sandra nie spała."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_3877.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Nie będę ukrywał, skrzywdziłem ten piękny pomnik swoim zachowaniem. Ale uznałem, że te lwy naprawdę czują się samotnie i wszyscy tylko robią im zdjęcia i się na nie gapią.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4036.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Magdalena Halicka to autorka zdjęć, która nie pyta, Magdalena rozumie. Więc ja kładę się w dziwnych miejscach i potem wychodzą takie kosmogeometrie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4052.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Próba przywitania gości przed koncertem...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4056.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Próba dźwięku czas, start."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4067.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4117.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4140.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Montaż scenografii, inżynier Needy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4113.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: "Rozśpiewka w garderobie: Żuchwa luźno w dół!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4231.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Start..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4128.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4235.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4248.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Pierwszy żart?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4252.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Pełny klub i uśmiechnięte twarze to największy prezent dla występującego. Po pierwszym numerze wiedziałem, że ten wieczór zapamiętam na bardzo długo…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4281.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4289.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: "Koncert walentynkowy to walentynkowa solówka na plecach w piosence… :) Śpiewaliście i mam dowody :D"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4342.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Pokłon w stronę balkonu, na który zerkałem za rzadko, ale dostałem okejki i uśmiechy z lewej burty, to też czułem wsparcie każdego bijącego serca w Poznańskim Blue Note!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4347.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Nie zabrakło tłustych bitów i rapsów!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4371.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Harmonijka ustna to ostatnio mój towarzysz na scenie. Bardzo lubię te country dźwięki, ostatnio coraz bardziej w połączeniu z gitarą elektryczną!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4398.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Kameleon...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4402.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Wyszło szydło z worka, nie każdy wie, ale jestem fanem śpiewu klasycznego.
+        Moja ulubiony głos to Renee Fleming (Sopranistka ze Stanów Zjednoczonych).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4427.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        I zdjęcie koncertu… czerwone motyle, dawno nie korzystałem z magii miłości. Uznałem, że w Poznaniu zaryzykuję.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4434.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        To jest napiękniejsze w życiu, że możemy się śmiać, możemy płakać, możemy myśleć o czym nam się podoba,
+        możemy słuchać tego, czego chcemy słuchać, możemy przeżywać po swojemu. Dziękuję Wam za obecność, za gromkie brawa, za śmiech, za chwilę refleksji i skupienia. Kocham. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4451.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        STOP! Tak jak obiecałem, <a class="report-link" href="https://www.dropbox.com/sh/ibq0d65bj4z4un5/AADfyvoWyXpiJ7lIaL9Wzy2Ya" target="_blank">link do folderu ze zdjęciami w super jakości</a> :) Zapraszam do udostępniania, oznaczania i dzielenia się radością.
+        <br/>Ogromna prośba o oznaczenie cudownej autorki zdjęć @magryzki_foto 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/10-02-2019/IMG_4220.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        Ekipa, bez której bym siedział w domu i grał w gry komputerowe. Bartek, Needy, Daria, Magda, Andrzej. 
+        Na zdjęciu nie ma, ale ogromne podziękowania dla Sandry, która nas ugościła o północy i pozwoliła smacznie przespać sobotnią noc,
+        Mai za opiekę turystyczną, Kubie, który cudownie zrealizował dźwiękowo-świetlnie mój koncert. Dziękuję Wam.
+        <br/> /P
+
+- url: 'https://www.facebook.com/media/set/?set=a.2297013137017081&type=1&l=8202c92199'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/hr.jpg'
+  position: 35
+  title: Paweł Izdebski zagrał na HeartRockowaniu
+  author: 22 lutego 2019
+
+- url: 'https://www.facebook.com/pawelizdebskipl/videos/1099380166909624/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/blog/podsumowanie-2018/zespo%CC%81%C5%82.jpg'
+  position: 36
+  author: 'Łódź, Katowice, Wrocław'
+  title: Paweł Izdebski przedstawia zespół!
+  subtitle: Koncertujemy już w marcu i kwietniu.
+
+- url: 'http://mad-music.pl/pawel-izdebski-na-poludniu-polski/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'http://mad-music.pl/wp-content/uploads/2019/03/pawel-izdebski-4fot.MagdalenaKubiak-1500x500.jpg'
+  position: 37
+  author: Mad-Music.pl
+  title: Paweł Izdebski na południu Polski!
+
+- url: 'https://www.facebook.com/wampiriada.sgh/photos/a.174196209257992/2979272755416976/?type=3&theater'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/wampiriada_2019.jpg'
+  position: 38
+  author: NZS SGH
+  title: Paweł Izdebski ambasadorem Wampiriady NZS SGH 2019 ❤
+  subtitle: Pokaż serce, oddaj krew!
+
+- id: 'fotorelacja-30-marca-2019-lodz'
+  position: 39
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6368.jpg'
+  author: "Fot. Magdalena Halicka i Piotr Kędzia"
+  title: 'Nasz pierwszy raz :) | Łódź 30 marca 2019 | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Hej Struny, <br/>
+        Jest niedziela, wstałem i mam na zegarku 14:25. Nie ma się czym chwalić, ten dzień spisuję na straty,
+        jeśli chodzi o moją produktywność i plan zdobywania świata. W tle "Tropical Chill Mix Sunday Morning".
+        Zjadłem ciastko owsiane i napiłem się napoju, który mówi mi, że ma w sobie 100% (NIE MA).
+        Dostałem cudowne zdjęcia od Magdaleny Halickiej i Piotra Kędzi i teraz Wam opowiem jak to było w Łodzi,
+        gdzie przy ul. Rewolucji 1905r. zagrałem swój pierwszy koncert z zespołem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6322.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        W klubie TU grałem już wcześniej w duecie z Kasią Mazurkiewicz
+        (z którą zaraz gramy w <a class="report-link" href="https://www.facebook.com/events/2340242329359968/" target="_blank">Białymstoku</a>!).
+        Tym razem musieliśmy się zapakować w 3 auta. Oczywiście, akurat 30 marca musieli kręcić film w centrum Łodzi,
+        więc sama wyprawa pod drzwi klubu dodawała adrenaliny. Dla tych, którzy nie doczytają do końca… koncert się odbył :D
+        a tuż po przyjeździe scena rosła w oczach i światełkach.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5662.jpg'
+          author: Piotr Kędzia
+    - position: 2
+      text: |
+        I choć Książę Naiwności powoli szykuje się na powrót do galaktyki Naiwności, to nie mogło zabraknąć go w Łodzi.
+        Mowa tu o pewnej piosence z mojej ostatniej EP, ale także o przypineczkach i płytach, które będzie można nabyć na koncertach
+        w <a class="report-link" href="https://www.facebook.com/events/1623412244468927/" target="_blank">Katowicach</a> i we <a class="report-link" href="https://www.facebook.com/events/330011040973580/" target="_blank">Wrocławiu</a>.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5672.jpg'
+          author: Piotr Kędzia
+    - position: 3
+      text: "Czas zacząć soundcheck..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6185.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6266.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6270.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6331.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6249.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6279.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: "I powiesić światełka..."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6241.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: "Ale najpierw rozplątać, przy jednoczesnym załamaniu Kapral Nidi, która łapie się za głowę widząc plątaninę kabelków…"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6212.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: "Czas sprawdzić kostkę mocy na numer finałowy."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6346.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: "I po próbie!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6285.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Teraz już tylko pozostaje czekać, aż ktoś przyjdzie, scena gotowa."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5649.jpg'
+          author: Piotr Kędzia
+    - position: 9
+      text: |
+        Nie oszukujmy się, czas na najciekawsze zdjęcia - z garderoby :D Komentarze i opisy dopiszcie sobie sami.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6379.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6380.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6386.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6391.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6394.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        W dniu koncertu zawsze ktoś to powie "Chciałbym juz grać". W takim razie zaczynajmy :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6477.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6448.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6423.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6417.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5896.jpg'
+          author: Piotr Kędzia
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6504.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6551.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Bez zbędnego opisu krajobrazu, było cudownie. Wy byliście nam bardzo przychylni i życzymy każdemu zespołowi,
+        żeby tak wyglądał ich pierwszy koncert. My bawiliśmy się świetnie i już teraz nie możemy się doczekać nadchodzących koncertów na południu Polski.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5783.jpg'
+          author: Piotr Kędzia
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5814.jpg'
+          author: Piotr Kędzia
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6525.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_5992.jpg'
+          author: Piotr Kędzia
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6506.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6570.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6018.jpg'
+          author: Piotr Kędzia
+    - position: 12
+      text: |
+        Dziękuję każdemu, kto pojawił się tego wieczoru w klubie TU, dziękuję dziewczynom Zuzi, Oli i Żanecie za zaufanie i oddanie nam przestrzeni,
+        abyśmy mogli grać muzykę! Ogromne podziękowania dla Roberta Juzali z firmy GoSound, który jest przecudownym realizatorem i który sprawił,
+        że czuliśmy się komfortowo na scenie, a Wy dostaliście brzmienie, na jakim nam bardzo zależało.
+        Dziękuję naszej menadżerce Darii Woźnickiej, bez której nadal więcej grałbym w gry na komputerze niż grał na gitarze.
+        Dziękuję fotografom, dzięki którym pamięć o nas nigdy nie zaniknie :) Magdalena Halicka, Piotr Kędzia - dziękujemy i ściskamy mocniej, niż można to robić!
+        Dziękuję Nidi za udzieloną pomoc i dobrą energię.
+        Dziękuję Mel za wsparcie kostiumograficzne w garderobie i za dobrego ducha podczas wyprawy..
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6638.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        I na koniec dziękuję Wam; Diana, Bartek, Marcin, Grzegorz, że mogę z Wami dzielić scenę i czuć się szczęśliwym.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/30-03-2019/IMG_6587.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: "/P"
+
+- url: 'https://www.facebook.com/events/2340242329359968/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Pawe%C5%82_Kasia.jpg'
+  position: 40
+  author: 5 maja 2019
+  title: Paweł Izdebski i Kasia Mazurkiewicz zagrają w Białymstoku!
+  subtitle: 'Bilety wciąż dostępne w klubie Jazzon Live Jazz Club'
+
+- url: 'https://allaboutmusic.pl/ksiaze-naiwnosci-odchodzi-na-zawsze-czyli-pawel-izdebski-z-zespolem-w-katowickim-krolestwie-fotorelacja-nikoli-niny-skopowskiej/'
+  image_url: 'https://i1.wp.com/3.bp.blogspot.com/-QA_pmsw4bJ0/XLMoWiHiLUI/AAAAAAAAdHk/h97Os5vkYL8hU_KICF5wexNUstclMIdQACLcBGAs/s1600/pawelizdebski1%2B%25282%2529.jpg?w=696&ssl=1'
+  position: 41
+  author: All About Music
+  title: Książę Naiwności odchodzi na zawsze czyli Pawe�� Izdebski z zespołem w katowickim Królestwie - relacja Nikoli Skopowskiej
+
+- url: 'https://allaboutmusic.pl/ksiaze-naiwnosci-wraca-juz-na-swoja-planete-wywiad-z-pawlem-izdebskim/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-3+fot.+Magdalena+Kubiak.jpg'
+  position: 42
+  author: All About Music
+  title: |
+    „Książę Naiwności wraca już na swoją planetę”. Wywiad z Pawłem Izdebskim
+
+- url: 'https://www.facebook.com/events/614094645773605/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/dkwygoda.jpg'
+  position: 43
+  author: 31 maja 2019
+  title: |
+    Paweł Izdebski wystąpi w nowo powstałej muszli koncertowej przy Domu Kultury "WYGODA"!
+
+- url: 'https://www.facebook.com/events/2304241359897666/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/pawel-kasia.png'
+  position: 44
+  author: 9 czerwca 2019, Centru Artystyczne Eljazz
+  title: Paweł Izdebski i Kasia Mazurkiewicz zagrają w Bydgoszczy!
+  subtitle: 'Bilety dostępne na kupbilecik.pl'
+
+- id: 'fotorelacja-kwiecien-2019-poludniowa-minitrasa'
+  position: 45
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7251_xs.jpg'
+  author: "Fot. Magdalena Halicka"
+  title: 'Południowa Minitrasa! | Katowice - Wrocław | Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Złociste promienie słońca musnęły moje oczy i obudziły w najlepszy możliwy spos…
+        Tak naprawdę tego dnia wstałem i pierwsze, co zobaczyłem, to śnieg, biały śnieg padający w połowie kwietnia.
+        Nie tak sobie wyobrażałem pierwszy dzień minitrasy, którą miałem odbyć z zespołem… a jednak,
+        było przecudownie. Zapraszam Was do krainy muzyki i zdjęć autorstwa Magdaleny Halickiej, która za pomocą obrazów
+        przeniesie Was do Katowickiego Królestwa i Wrocławskiego klubu Alive! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7604.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Pierwszym przystankiem było Królestwo w Katowicach. Muszę przyznać, że ten klub po środku ronda mnie ucieszył,
+        a jego wnętrza spowodowały, że hormon szczęścia wzrósł w tempie pilnym. Graty wniesione, kawka wypita - czas na Soundcheck (próba dźwięku).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6834.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6816.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6864.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6870.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        I nasz dzielny, ukochany i najcierpliwszy realizator dźwięku - Robert Juzala i jego maszyna czasumilająca :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6825.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6849.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Jak zawsze, najciekawsze rzeczy dzieją się… w garderobie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6910.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6916.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6924.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Decyzje, dylematy...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6927.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: "- Kiedy wiesz, że Twoje okulary są fajne? <br/>- Kiedy wszyscy w nich chodzą!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6939.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6944.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Kiedy jesteś jedyną dziewczyną w zespole i nie godzisz się na pomysły chłopców :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6991.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: "Kiedy chłopcy znają umiar:"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6977.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "Żeby tylko móc porzucać piłką jak Ross i Joey z Przyjaciół!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_6994.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7016.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Bartek gra na gitarze, ale gdy Diana gra na skrzypcach, Bartek jest ochroniarzem (wolontaryjnie).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7024.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Okej, ja też już chcę na scenę! Zapraszam! ^^
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7130.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7160.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7185.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Te dwie osóbki to są moim drugim sercem."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7165.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: "Zawsze mogę liczyć na Bartka, któremu nie umknie żaden suchar na scenie!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7175.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7227.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Czasami sobie myślę, że każdy z nas ma swoją Gwiazdę Północy, jedni jej nie widzą, inni nie chcą widzieć,
+        jeszcze inni - znaleźli i zamiast się jej trzymać - szukają większego światła. Moja czasami się odwdzięcza
+        i świeci dla mnie, choćby przez moment.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7238.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Dziękuję wszystkim obecnym w Królestwie, dla nas, jako zespołu, był to drugi występ dla publiki, koncert nie do zapomnienia. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7278.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7286.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7281.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7297.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7299.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7404-2.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: "Katowice - <3"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7385.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: "To co?  Pakujemy się i do Wrocka!"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7464.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: "&lt;Teleport_Aktywowany&gt;"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7617.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Pierwsza zasada gitarzysty - po koncercie zwiń po bożemu kable, bo... “Jak zadbasz o kable, tak kable o Ciebie”.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7621.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        3 dni później...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7625.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Nawet krasnal przy klubie Alive miał ze mnie bekę...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7636.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Nie wiem o co chodzi, najpierw okulary, teraz kapelusz. Co lepsze, znów Ci sami Panowie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7696.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7697.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        To ewidentnie kapelusz Diany...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7700.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        We  Wrocławiu byliście na wyciągnięcie ręki. Pierwszy rząd dzielnie odpierał ataki mojej śliny :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7747.jpg'
+          author: Magdalena Halicka
+    - position: 24
+      text: |
+        Stół do ping-ponga to nieodłączny element naszych prób. Przed trasą grałem z Bartkiem. Nie była to zwykła gra.
+        Przegrany miał wystąpić we Wrocławiu bez butów… Niestety zignorowałem cierpliwość Bartka (KTÓREGO REGULARNIE OGRYWAM)
+        i przegrałem na przewagi. Na szczęście Grzegorz zadbał o stylowe skarpety z Fredim :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7770.jpg'
+          author: Magdalena Halicka
+    - position: 25
+      text: |
+        Muzyka ożyła, ja odżyłem i świat stał się piękniejszy! Wrocław - przechodzicie do historii naszego zespołu :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7838.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7844.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7777.jpg'
+          author: Magdalena Halicka
+    - position: 26
+      text: |
+        Nie obyło się bez selfie ze sceny ;D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7860.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7863.jpg'
+          author: Magdalena Halicka
+    - position: 27
+      text: |
+        Dziękuję każdej pojedynczej duszy za obecność na tym koncercie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7868.jpg'
+          author: Magdalena Halicka
+    - position: 28
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-04-2019/IMG_7948.jpg'
+          author: Magdalena Halicka
+    - position: 29
+      text: |
+        Tak jak obiecałem, <a class="report-link" href="https://www.dropbox.com/sh/qdvwxm297rsepmw/AAAF1DMYRCorWcQDg9k_6-n0a?dl=0" target="_blank">link do folderu ze zdjęciami z Wami!</a> :)
+        <br/>Ogromna prośba o oznaczenie cudownej autorki zdjęć @magryzki_foto (której nieziemsko dziękujemy) przy udostępnianiu :)
+        <br/><b>/P</b>
+
+- url: 'http://www.kulturalnemrozy.pl/node/kulturomaniak-2019-final'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/gck-mrozy.png'
+  position: 46
+  author: GCK Mrozy
+  title: Paweł Izdebski zagra w Mrozach podczas finału konkursu Kulturomaniak 2019
+  subtitle: '26 maja 2019 wystąpi w duecie z Kasią Mazurkiewicz'
+
+- url: 'https://www.facebook.com/events/286834085604177/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/zespol.jpg'
+  position: 47
+  author: 12 lipca 2019
+  title: KRAKÓW! Ogłaszamy koncert Pawła Izdebskiego
+  subtitle: 'Paweł Izdebski otworzy nowy cykl krakowskich wydarzeń muzycznych "Luneta Nocą"'
+
+- url: 'https://www.facebook.com/events/2664262747118564/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/gdynia-solo.png'
+  position: 48
+  author: 23 czerwca 2019
+  title: Paweł Izdebski wraca do GDYNI ze swoim aktem solowym!
+  subtitle: Bilety już w sprzedaży
+
+- url: 'https://www.youtube.com/watch?v=BaBXN0hzzC8'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/profilowe.jpg'
+  position: 49
+  author: YouTube
+  title: X
+  subtitle: Teaser
+
+- id: 'fotorelacja-podroze-duze-i-jeszcze-wieksze-maj-2019'
+  position: 50
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5044_xs.jpg'
+  title: 'Podróże duże i jeszcze większe!'
+  subtitle: Fotorelacja z koncertów majowych i czerwcowych z Kasią Mazurkiewicz!
+  paragraphs:
+    - position: 0
+      text: |
+        Merhaba! <br/><br/>
+        I choć nie jesteśmy w Turcji, to zapragnąłem się z Wami przywitać w tamtejszym języku
+        (po prostu, bez powodu!). Początek wakacji był bardzo duetowy! Odwiedziliśmy z Kasią trzy
+        wspaniałe miejsca w ciągu kilku tygodni… <br/></br/>
+        B I A Ł Y S T O K
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-27.jpg'
+          author: Oleg Zubel
+    - position: 1
+      text: |
+        Ależ tam było... żółto! Nie będę ściemniał, byliśmy z Kasią pierwszy raz w Białym i chcieliśmy Was zaskoczyć… więc ubraliśmy się w barwy Jagi! :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-40.jpg'
+          author: Oleg Zubel
+    - position: 2
+      text: |
+        Klub Jazzon to totalny odjazd. Miejsce jest cudownie klimatyczne, ale też bardzo intymne,
+        co na początku spowodowało lekki stres. Tak naprawdę Białystok był specyficzny, przez kilka 
+        chwil myślałem, że coś jest nie tak. Kompletna cisza. Nikt nie gada. To była moja nadinterpretacja.
+        Wy aktywnie słuchaliście, każdego dźwięku, każdego słowa. Zrozumiałem to jakoś w połowie koncertu
+        i dopiero powrót uzmysłowił mi co się stało.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-36.jpg'
+          author: Oleg Zubel
+    - position: 3
+      text: |
+        Wy po prostu przyszliście po muzykę. I to jest kurde piękne. Stary fortepian dodawał tylko romantyczności całemu wydarzeniu.
+        Świeczki przy zgaszonych światłach spowodowały, że chyba czułem się trochę jak na randce.
+        Podekscytowany i czasami niepewny. Niepewność - w książkach tego zabraniają na scenie. A może po
+        prostu przestać uciekać i zaakceptować swój strach?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-39.jpg'
+          author: Oleg Zubel
+    - position: 4
+      text: "Teraz zaprezentuję jak działa muzyka. Jesteście gotowi? Bo to, co zaraz zobaczycie, jest mocno “wzruszable”: <br/><br/> Nadawca"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-48.jpg'
+          author: Oleg Zubel
+    - position: 5
+      text: "Odbiorca"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-47.jpg'
+          author: Oleg Zubel
+    - position: 6
+      text: |
+        Może przesadzam, a może po prostu tak jest, że niektóre koncerty potrafią zmienić życie. Nie mówię, że ten,
+        mówię że warto na nie chodzić, bo w końcu trafimy na taki, który zmieni nas samych :). Na koniec moja ulubiona fota.
+        Myślę, że w Białymstoku nie ma dużo takich miejsc. Klimatycznych i obłędnych, zwłaszcza... gdy stoi się na scenie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/%40olegzubel-54.jpg'
+          author: Oleg Zubel
+    - position: 7
+      text: |
+        Białystok niech wie - że prośbę spełnimy i wrócimy. Dziękujemy za zaproszenie i kapitalne warunki.
+        A Wam drodzy fani z Podlasia i okolic - za obecność. <br/><br/>
+        Autorem zdjęć z Białego jest Oleg Zubel - dziękujemy :) <br/><br/>
+        Czas zamknąć kabinę wehikułu czasu (pasy człowieku!) i przenieść się do najchłodniejszego miejsca w naszym kraju.
+        Tak naprawdę - tylko z nazwy, bo w Mrozach było bardzo ciepło!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5382.JPG'
+          author: GCK Mrozy
+    - position: 8
+      text: |
+        (choć jak teraz patrzę na to zdjęcie, to ten dym na scenie wygląda jak para lodowa z zamrażalki, więc może coś w tej nazwie jest ;))
+        <br/><br/>
+        Wróć. Izdebski. Dlaczego było? Bo pierwszy raz występowaliśmy przed uczestnikami konkursu artystycznego
+        “Kulturomaniak”. Mieliśmy przyjemność być muzyczną wisienką na torcie i zagrać dla laureatów tego wydarzenia.
+        A nie jest to łatwe. I nigdy nie będzie. Odnalezienie spokoju w momencie kiedy świadomie występujesz przed ludźmi,
+        którzy zajmują się tym co Ty - napawa lękiem. Ale jak się okazało, to znowu był mój “overthinking” i koncert nie dość,
+        że był intymny (a takie się pamięta na bardzo długo), to sala Centrum Kultury w Mrozach była pełna. To zawsze niewypowiedziany
+        na głos komplement.
+        <br/><br/>
+        Ej bez kitu. Nawet scenografia i światła nadały mroźnego klimatu, ale to mylne wrażenie, bo w serduszkach czuliśmy dużo ciepła.
+        &lt; robię_się_przesadnie_słodki &gt;
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5044.JPG'
+          author: GCK Mrozy
+    - position: 9
+      text: |
+        Wyjątkowe skupienie u naszej dwójki to rzadkość. Zazwyczaj wpadam na scenie na 100 nowych pomysłów, o których nie wspominam Kasi przed koncertem
+        i często zdarza nam się improwizować (co czasem pozytywnie zaskakuje nas samych). Tym razem oddałem moją gwiezdną girlandę na rzecz instrumentu Kasi
+        (trzeba się dzielić, nie?) <br/><br/>
+        Patrząc na foty, zdałem sobie sprawę, że przez cały koncert byliśmy związani niebieską poświatą i wiecie co? Jeszcze bardziej uwielbiam ten kolor
+        (a nie wiedziałem, że można stopniować miłość do kolorów).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5315.JPG'
+          author: GCK Mrozy
+    - position: 10
+      text: |
+        Jak zwykle, przez moje gadanie, koncert wydłużył się ponad scenariuszowe założenia, ale Dyrektor Centrum Kultury dał mi zielone światło,
+        więc nie obeszło się bez bisów! (zaplanowanych :D). Czy wrócimy do Mrozów? Jeśli dostaniemy zaproszenie, to nie będzie momentu zawahania!
+        Dziękujemy i wysyłamy o takie uśmiechy jak poniżej!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_5412.JPG'
+          author: GCK Mrozy
+    - position: 11
+      text: |
+        Zostało nam 17%  w akumulatorze - kto leci z nami do Bydgoszczy?! (wiem, że chcesz bez pasów, ale jak nie zapniesz to… nie patrz tymi oczami! Zapinaj!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/Sowa.jpg'
+          author: stocksy.com
+    - position: 12
+      text: |
+        xD <br/><br/>
+        BYYYYYYYYYYYYYDGOSZCZ! Tu też nas nie zaskoczyliście, bo było cudownie, co lepsze, cały dzień był lekko owiany w tajemnice przed… Kasią :D,
+        która tego dnia obchodziła swoje urodziny (według nas, bo docelowa data była dwa dni później). Ale o tym za chwilę. Zbudujmy napięcie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9264.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Krok. 1, zacznijmy czymś zwyczajnym. To ja, na dzień przed, u autorki zdjęć z Bydgoszczy - Magdy Halickiej, którą już pewnie dobrze znacie z naszych koncertów.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_8972.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Jak widać emocje sięgają zenitu. <br/><br/>
+        Zaraz po przyjeździe do klubu ElJazz w Bydgoszczy, załączył się typowy dla mojego mózgu “sprzątacz/ układacz/ koleś_szukający_śrubokręta”
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9131.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Jak przed każdym koncertem, czekała nas próba dźwięku. Jest to jeden z najważniejszych punktów w dniu koncertu.
+        To zazwyczaj ta godzina na scenie z realizatorem sprawia, że koncert jest słaby, średni, dobry, bardzo dobry, znakomity - nie do zapomnienia.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9173.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Jakiś basista chciał zagrać z Kasią, ale chyba powiedział jakiś słaby żart...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9144.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        W każdym razie, jak już się “nagłośnimy”, to następuję kolejna faza. Nasza niskobudżetowa scenografia czyli:</br>
+        &dash; lampki skradzione z choinki <br/>
+        &dash; artefakty z mojego poddasza <br/>
+        &dash; wszystko co świeci <br/>
+        &dash; jeszcze więcej świecących rzeczy <br/><br/>
+        Daria i Needy mają zawsze plan i są najszybsze z najszybszych (zawsze!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9170.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Pan po lewej ma zastrzeżenia do ostatniego zdania. <br/><br/>
+        Dźwięk działa, scena wygląda - czas wspiąć się do garderoby! A tam… Kasia aktywnie i z pełnym zaangażowaniem słucha, jak zrobiłem jej drinka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9126.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Potem robienie ostatecznej set listy. Powiem, że zawsze drukowałem, zazwyczaj za małą czcionką i nic nie widziałem,
+        co skutkowało schylaniem, a często wypinaniem do publiczności moim grzbietem. Ogólnie angażowałem wszystkie swoje ruchy,
+        żeby dopatrzeć się jaka piosenka jest następna. Zrozumiałem, że to był znak i najfajniej mieć po prostu analogowo stworzoną listę piosenek.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9221.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Wiecie, co jest najgorsze - to 20/30 minut przed koncertem. Kiedy czujesz, że jesteś już gotowy i pytasz co chwilę swojej menagerki
+        (Daria <3) czy już możesz iść grać i śpiewać i tańczyć! <br/><br/>
+        &dash; “Jeszcze chwilę” to najbardziej ekscytująca, irytująca i piękna odpowiedź. <br/><br/>
+        Ale dobra, nie przeciągam struny (hehe).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9232.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Zaczęliśmy koncert nową piosenką zatytułowaną “Niewiarygodne”. Nie wiem dlaczego, ale lubię zaczynać koncert z piosenką o refleksyjnym charakterze.
+        Sam zawsze lubię koncerty, po których wychodzę zamyślony, bujający w niebieskich obłokach. Od zawsze byłem człowiekiem melancholią.
+        Wynikało to z dość introwertycznego podejścia do świata. Ale scena zmienia człowieka. Ludzie zmieniają człowieka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9244.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9282.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        Tak! Potrafimy się uśmiechać, ci co byli to wiedzą, że przychodzi też moment na… “Tłuste bity”
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9366.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        Niektórzy wiedzą, co to za utwór. Nie powiem, wpieniło mnie zakończenie sezonu, a bohaterka piosenki… czy to nadal miłość? <br/><br/>
+        Apropo bohaterki. Tego dnia zrobiliśmy Kasi urodzinową niespodziankę. Uwaga, uwaga. Były nawet bio-eko-bezglutenowe babeczki,
+        które upichciła Needy :D To chyba było dość głośne 'sto lat' w stylistyce operowej.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9329-2.jpg'
+          author: Magdalena Halicka
+    - position: 24
+      text: |
+        Solenizantka. <br/>
+        Street Team Izdebski 1:0 Kasia Mazurkiewicz
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9335-4.jpg'
+          author: Magdalena Halicka
+    - position: 25
+      text: |
+        Urodziny urodzinami, ale koncert trzeba dokończyć :D. Na scenie była ze mną Róża, Pocahontas, Rachel oraz “świeżak”.
+        Ukulele tego dnia przybrało imię Glen (męskie, bo Ukulele tenorowe). Co lepsze, pierwszy raz w historii, imię dla mojej partnerki wybrał ktoś z publiki,
+        co oficjalnie zapisałem w moim pamiętniczku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9204.jpg'
+          author: Magdalena Halicka
+    - position: 26
+      text: |
+        A to Róża i jej pierwszy występ z uwiecznionym autografem Glena Hansarda! To słowo nad oznacza po irlandzku “With big love” - i jak ja mam nie kochać kurde życia?
+        Koncert powoli zbliżał się do końca i to jest bardzo smutna chwila, bo widzisz że piosenki się kończą i wyrywa Ci się ta informacja… i nagle słyszysz jęk. Wasz jęk.
+        I to jest miłe, bo chcecie więcej i nie puszczacie nas ze sceny. I to jest kolejny. Bezgłośny komplement.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9268.jpg'
+          author: Magdalena Halicka
+    - position: 27
+      text: |
+        Piękni ludzie i ich szczere uśmiechy, uwiecznione jako dowód, że muzyka to lek na codzienne smutki.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9186(1).jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9294.jpg'
+          author: Magdalena Halicka
+    - position: 28
+      text: |
+        I wiecie co? Mam tych zdjęć jeszcze kilkadziesiąt i każda zostawia mnie z 3 sekundowym zamyśleniem. Że to prawda i że się stało.
+        Więc jest możliwe. To jest to miejsce. Dziękujemy Wam za obecność, za wsparcie i energię, bo nie macie pojęcia, ile jej w nas zostawiacie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/05-07-2019/IMG_9444.jpg'
+          author: Magdalena Halicka
+    - position: 29
+      text: |
+        Autorem zdjęć z Bydgoszczy jest Magdalena Halicka <br/><br/>
+        A tutaj link do zdjęć z Wami! 
+        <a class="report-link" href="https://drive.google.com/open?id=1ddlaXy5bQyin9JQlyHnYwT18RQgKhW3q" target="_blank">Foty z wszystkich koncertów</a>
+
+- url: 'https://www.youtube.com/watch?v=7NmOUyy2_64'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/NIEWIARYGODNE-pawel-izdebski-miniatura.jpg'
+  position: 51
+  title: Premierowy singiel "Niewiarygodne"
+  subtitle: Już 10 lipca na YouTube i platformach streamingowych!
+
+- url: 'http://preorder.pawelizdebski.pl/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/strach/strach_1_xs.png'
+  position: 52
+  title: Płyta "@strach" zapowiedziana na styczeń 2020
+  subtitle: Zamów w przedsprzedaży już dziś!
+
+- id: 'fotorelacja-randka-w-gdyni-czerwiec-2019'
+  position: 53
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9909_xs.jpg'
+  title: 'Randka w Gdyni (udana)'
+  subtitle: Fotorelacja z koncertu Solo Act w Gdyni!
+  paragraphs:
+    - position: 0
+      text: |
+        Nadmorska Struno (wszystkie struny mogą zmieniać swoje lokalizacje oraz cechy, dlatego w tej chwili
+        Ty też jesteś nadmorska!),<br/><br/>
+        Gdynia. Oj często Cię odwiedzam. Dużo jest powodów. Jakoś łatwiej mi się otworzyć nad morzem.
+        Tak też było tym razem. Solo Act to dla mnie najbardziej intymna i zarazem najtrudniejsza forma koncertowa.
+        Będąc samemu na scenie możesz polegać tylko na sobie, musisz być odważny, musisz mieć wiedzieć po co stoisz na tym cudownym dywanie w Blues Club Gdynia.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9967.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        To zdjęcie zrobiła Magda Halicka (jak i resztę zdjęć) o 3 nad ranem. Ale o tym później, po prostu chciałem udowodnić,
+        że byłem nad morzem! <br/><br/>
+        Do Gdyni wróciłem po 7 miesiącach, tym razem sam z moimi pięknościami; Rachel, Glenem, Pocahontas i Różą. Przygotowałem seta,
+        który w moim odczuciu miał być bardziej wycofany i bardziej w głąb. Siebie. Nie lubię się powtarzać, więc na koncert przygotowałem kilka niespodzianek!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9581.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Jest kilka rzeczy, które uwielbiam w tym miejscu, po pierwsze to, że jest to stricte bluesowy club i to czuć.
+        Przez scenografię, przez neon na scenie i ludzi, którzy są jakby troszkę przesiąknięci tą muzyką.
+        Oprócz tego wszystkiego, mój ulubiony mural. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9681.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        W Gdyni było kilka premier i to do tego nie muzycznych. Po pierwsze wystąpiłem w marynarce zaprojektowanej przez Claudię Antoszewski,
+        która niepostrzeżenie stała się stylistką zespołu! Gorąco ją pozdrawiamy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9685.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9729.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Kolejnym ważnym momentem podczas koncertu było odczytanie mojego poematu, który siedział we mnie zbyt długo…
+        Wybrałem publiczność w Gdyni i nie żałowałem. Dużo ze mnie zeszło i utwierdziłem się w tym, że chcę pisać jeszcze więcej.
+        Piosenek, słów, wierszy. Wylewanie emocji na papier sprawia mi coraz więcej radości i modlę się o nieustanny progres w tej kwestii.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9859.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9861.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        I najważniejsze - piosenki.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9753.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9869.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9902.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        W Gdyni parzyło na zewnątrz, a i wiatraki czasami nie dają rady, to też zrobiliśmy chwilę przerwy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9921.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        A na przerwie spotkanie III stopnia…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9830.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: "I wracamy na scenę :)"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9909.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9769.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Duża większość wie już o co chodzi z tym papirusem… co nie oznacza, że nadal nie jest to wielka misterna tajemnica! Nie zdradzamy! :) <br/><br/>
+        Piękny to był czas. Ale nie byłby nawet w połowie tak dobry bez ludzi, którzy wspierają mnie całym swoim sercem i razem tworzymy jedną wielką muzyczną ośmiornicę.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9934.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Dziewczyny - dziękuję! A Wam droga publiko dziękuję za kupienie biletów, za słuchanie, za aktywny udział w koncercie. Pora pożegnać się z morzem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/23-06-2019/IMG_9955.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        I obiecane <a class="report-link" href="https://drive.google.com/open?id=1Zd7nO3UJsJoa8aQEhQiDVD5x6uiFDOHg" target="_blank">zdjęcia z Wami w super jakości</a> (dzięki Magda &lt;bije_brawka&gt;) <br/><br/>
+        <b>Pa</b>(weł) <b>Robaczki!</b>
+
+- id: 'fotorelacja-kraków-lipiec-2019'
+  position: 54
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1165-xs.jpg'
+  title: 'Kraków - Luneta Nocą (Koncert w Forcie!) - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Pamiętam jak dziś, pakowaliśmy sprzęt do vana i ze wszystkich stron zleciały się wrony i kruki. Wydawały z siebie przerażające "Kra! Kra!".
+        Na początku nie wiedziałem, co ma oznaczać to przedziwne zjawisko, ale już kilka minut później zrobiło się jaśniej, gdy na swojej drodze spotkaliśmy
+        stado kameleonów, które wydawały z siebie przedziwne "ków, ków". Połączyłem oba fakty i wiedziałem, że koncert w Lunecie Warszawskiej (starodawny fort - czyli że łuki, miecze i ogry, to chyba czad nie?) będzie wyjątkowy.
+        Wyjazd na koncert zawsze łączy się z ulubioną częścią dnia wszystkich zespołów&colon; <em>Pakowanie sprzętu tak, żeby wszystko się zmieściło.</em>
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/bagaz.jpg'
+          author: Paweł Izdebski
+    - position: 1
+      text: |
+        Dzień wcześniej mieliśmy próbę generalną, więc całą podróż przespaliśmy (oprócz Marcina, któremu należą się brawa za kierowanie przez całą drogę!) &lt;miejsce_na_brawa&gt;. 
+        <br/><br/>To Marcin.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0252.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Po drodze udało nam się odnaleźć najbardziej zdezelowaną stację benzynową, peleton rowerów, którego rajd zakłóciły krzyki Diany i zwierzęta, których jednak nie zobaczyliśmy.
+        Dotarliśmy do pięknego miejsca, jakim jest Luneta Warszawska w Krakowie. I zaczął się drugi etap wyjazdu - przygotowanie do próby dźwięku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0324.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0366.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0416.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Mam taką filozofię, że trzeba poczuć scenę, na której gra się koncert, dlatego na próbie dźwięku trzeba dać z siebie to samo 100%, które masz zamiar zaprezentować przed publiką.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0425.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Wiecie co? Mam ogromne szczęście, że mam wokół siebie ludzi, którzy robią rzeczy, o których nie macie pojęcia, a bez których wyszedłbym na scenę nie tylko z ekscytajcą, ale i z ogromnym stresem.
+        To jest Needy, kiedy zapomnę wydrukować setlisty, ten dzielny elf zaraz przychodzi mi z pomocą.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0312.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        A to Darielka, najlepsza menagerka na świecie. Nazywamy ją babcią, bo troszczy się o wszystkich w zespole i niweluje stres do poziomu zerowego (co nie znaczy, że nie krzyczy i nie pogania, kiedy trzeba).
+        <br/>Babciu kochamy Cię! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0315.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Staram się być profesjonalistą w dniu koncertu, ale zawsze wpadnę na coś bardzo, bardzo nieadekwatnego do sytuacji i miejsca.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0535.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        I szósty, mniej widoczny członek zespołu, zawsze jest po drugiej stronie, ale tak naprawdę to od niego zależy, czy Wam się będzie podobał koncert.
+        Robert po raz kolejny kłaniamy się nisko.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0320.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Czas mija nieubłaganie, a w Forcie pojawiają się pierwsze osoby, czym prędzej uciekamy na garderób i zaczynamy czuć ten przyjemny ścisk w żołądku.
+        Nie pokażemy Wam zdjęć z przebierania, bo jest tu za dużo nagości, więc uznajmy, że jesteśmy już w stylóweczkach! I to nie byle jakich.
+        Koncert w Krakowie był wyjątkowy również pod względem wizualnym. <a class="report-link" href="https://www.facebook.com/claudiaxant/" target="_blank">Claudia Antoszewski</a> to wschodząca gwiazda stylizacji i to właśnie ona przygotowała nam stroję na nadchodzącą trasę! :)
+        <br/><br/>Grzegorz znów pomylił soundcheck z koncertem...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0557.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Wiecie, co myślę o czesaniu włosów. Chyba najlepszym potwierdzeniem dla mojej opinii jest mina Marcina.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0562.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Zgadnijcie, kto ćwiczy najwięcej. Dla Diany próba dźwięku nie ma końca.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0575.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Na 10 minut przed wejściem, jak widzicie nerwy zostały zjedzone przez naszą radość! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0594.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Dobra, gramy! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0634.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0628.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        O tak wyglądamy z przodu&colon;
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0740.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        A tak z tyłu
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0794.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0784.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Przyszliście tłumnie i fort ożył, emocjami, oddechami. Samo miejsce dodawało jakieś magicznej energii i wspólnie stworzyliśmy coś nadnaturalnie pięknego.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1030.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0809.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0807.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0834.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Jest tak dużo cudownych zdjęć że boli mnie od nich głowa. Dlatego… jeszcze kilka ok? :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1045.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1086.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_0910.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Wydawałoby się, że to koniec. Ale tak szybko nas nie puściliście ze sceny! A to chyba największy komplement dla występujących!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1060.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        i.. Buuuuuuuuuuuuuuuuuuuum
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1129.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1137.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1159.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        D z i ę k u j e m y
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1187.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1207.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Hola! Myślicie, że zapomniałem co? Tutaj <a class="report-link" target="_blank" href="https://drive.google.com/open?id=1v9tzHKQ7fP02XmZcK3D39-Y5JDPKBFSf">link do zdjęć z Wami</a> :) Śmiało pobierać i oznaczać cały band! :) 
+        <br/><br/> <em>"Szczęście to przyjemność, której się nie żałuje"</em><br/> Sokrates
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1307.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Zdjęcia zrobiła czarodziejka Magdalena Halicka (@ylariee)
+        <br/></br> 
+        <a class="report-link" target="_blank" href="https://www.youtube.com/watch?v=7NmOUyy2_64">Singiel "Niewiarygode"</a>
+        <br/><a class="report-link" target="_blank" href="http://preorder.pawelizdebski.pl/">Preorder płyty "@strach"</a>
+        <br/><br/>
+
+- url: 'https://www.cgm.pl/news/pawel-izdebski-zapowiada-album-strach/'
+  image_url: 'https://www.cgm.pl/wp-content/uploads/2019/07/pawel_izdebski_fot_Magdalena_Kubiak-670x390.jpg'
+  position: 55
+  title: Paweł Izdebski zapowiada album "@strach"
+  subtitle: Singiel "Niewiarygodne" jest już dostępny.
+  author: CGM.pl
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2019/08/20/14059/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Pawe%C5%82_Izdebski_z_zespo%C5%82em_fot._Magdalena_Halicka.jpg'
+  position: 56
+  title: Paweł Izdebski koncertuje... w internecie!
+  subtitle: 23 września na platformie stageit.com odbędzie się koncert, na który wszyscy mamy tak samo blisko.
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'http://mad-music.pl/pawel-izdebski-koncertuje-w-internecie/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Metro_08-kopia.jpg'
+  position: 59
+  title: 'Twórca utworu „Niewiarygodne”, ogłosił właśnie niebanalny koncert z zespołem muzycznym, w którym można wziąć udział nie wychodząc z domu.'
+  subtitle: 'Zobacz koncert internetowy! Już 23 września.'
+  author: Mad-Music.pl
+
+- url: 'https://www.youtube.com/watch?v=36quCmEy-cY'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/IMG_4449-kopia.jpg'
+  position: 58
+  title: 'Live sesja "Laura" już na YouTube!'
+  subtitle: 'Poznajcie kolejny utwór, który znajdzie się na płycie "@strach" - tym razem w wersji akustyczno - plażowej ;)'
+  author:  YouTube
+
+- url: 'https://www.facebook.com/events/2366967780066035/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/1920x1005.jpg'
+  position: 57
+  title: 'Przyjdź na koncert, o którym nic nie wiadomo.'
+  subtitle: 'Koncert-zagadka odbędzie się 27 września. Gdzie? To już musisz odgadnąć.'
+  author: Fot. Anna Bednarek
+
+- url: 'http://wlkm.pl/muzyczna-jesien-2019-na-jakie-koncerty-sie-wybrac/'
+  image_url: 'https://i0.wp.com/wlkm.pl/wp-content/uploads/2019/09/concert-768722_960_720.jpg?resize=750%2C375'
+  position: 60
+  title: 'MUZYCZNA JESIEŃ 2019 – NA JAKIE KONCERTY SIĘ WYBRAĆ?'
+  subtitle: 'WLKM.PL zaprasza na koncerty Pawła Izdebskiego'
+  author: wlkm.pl
+
+- url: 'https://www.youtube.com/watch?v=SblnD_BQiws'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-07-2019/IMG_1137.jpg'
+  position: 61
+  title: 'Niawiarygodne live at Luneta Nocą 2019'
+  subtitle: 'Nagranie live z koncertu w Krakowie!'
+  author: YouTube
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2019/10/06/zapowiedz-plyty-i-premierowego-koncertu-pawla-izdebskiego/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/01-pawel_izdebski-fot.-Magdalena-Halicka.jpg'
+  position: 62
+  title: 'Zapowiedź płyty i premierowego koncertu Pawła Izdebskiego'
+  subtitle: 'Płyta Pawła Izdebskiego “@strach” pojawi się już w styczniu. Premierze będzie towarzyszył koncert w warszawskim klubie “Progresja”.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'http://mad-music.pl/nowy-singiel-pawla-izdebskiego/'
+  image_url: 'http://mad-music.pl/wp-content/uploads/2019/10/Laura_1_ilustracja_Magdalena_Pilecka-1500x500.jpg'
+  position: 63
+  title: 'Już jest! Nowy singiel Pawła Izdebskiego!'
+  subtitle: 'Poznajemy kolejny singiel albumu “@strach”, którego premiera już w styczniu.'
+  author: Mad-Music.pl
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2019/10/11/laura-kolejnym-singlem-pawla-izdebskiego-premiera/'
+  image_url: 'https://i0.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/10/okladka_laura-fot-Magdalena-Halicka.png?zoom=2&resize=2000%2C1200'
+  position: 64
+  title: '“Laura” kolejnym singlem Pawła Izdebskiego [PREMIERA]'
+  subtitle: 'W czwartek 10 października premierę miał drugi singiel z płyty Pawła Izdebskiego.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'http://wlkm.pl/2-muzyczna-sciaga-05-10-12-10/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Laura.png'
+  position: 65
+  title: '#2 MUZYCZNA ŚCIĄGA: 05.10-12.10'
+  subtitle: 'Czym byłby kolejny tydzień jesieni bez zaskakujących premier muzycznych?'
+  author: WLKM.pl
+
+- url: 'https://www.cgm.pl/news/pawel-izdebski-prezentuje-nowy-klip/'
+  image_url: 'https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_670/https://www.cgm.pl/wp-content/uploads/2019/10/pawel_izdebski-fot_Magdalena_Kubiak-670x390.jpg'
+  position: 66
+  title: 'Paweł Izdebski prezentuje nowy klip'
+  subtitle: 'Artysta szykuje się do wydania debiutanckiej płyty.'
+  author: CGM.pl
+
+- url: 'https://www.facebook.com/events/762520977527034/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel_izdebski_zespol-fot_Magdalena_Kubiak_sm.jpg'
+  position: 67
+  title: 'Nowa data koncertu w Poznaniu!'
+  subtitle: 'Październikowy koncert został przełożony na 24.11'
+  author: All In Poznań / GoOut
+
+- id: 'fotorelacja-warszawa-wrzesien-2019'
+  position: 68
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8596_xs.jpg'
+  title: 'Zagadkowo w Warszawie - klubokawiarnia Towarzyska - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Na Radamesa! Jesień! A jesień, moi mili, to czas koncertów. Zaczęliśmy skromnie i tajemniczo we wrześniu.
+        Jak się okazało, bardzo lubicie zagadki i pomimo tego, że nie było łatwo znaleźć na nie odpowiedzi - klub został wyprzedany,
+        przez co wielu z Was ucierpiało (wynagrodzimy to Wam w styczniu - <a class="report-link" href="https://www.facebook.com/events/758434724609552/" target="_blank">Koncert w Progresji!</a>).
+        Niemniej jednak ci, którzy dotarli do klubokawiarni Towarzyska, mieli okazję posłuchać materiału z nadchodzącej płyty @strach w wersji akustycznej.
+        Dla nas było to pierwszy taki występ i mamy niecne plany, jeśli chodzi o granie unplugged :) Ale wszystko w swoim czasie.
+        W Towarzyskiej jak zwykle było miło - co nie oznacza, że nie trzeba było zrobić próby dźwięku.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8536.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Jak to na próbach dźwięku - iskrzy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8529.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Muszę przyznać, że pękało mi serce, gdy pisałem te posty z zagadkami, trudnymi, nie powiem. Kilka osób zaskoczyło mnie
+        swoją analizą. Im było bliżej terminu koncertu - tym bardziej chciałem wykrzyczeć odpowiedzi na głos! Na golasa, na balkonie,
+        żeby cała Warszawa usłyszała mój ryk! Niektórzy z Was popisali się znajomością trylogii Tolkiena, władaniem Sindarińskiego
+        (Język Szarych Elfów) oraz wiedzą na temat uniwersum Marvela! <br/><br/>
+        Jednak niektórzy reagowali na te zagadki-podpowiedzi jak Grzegorz, który tego wieczoru zagrał na cajonie
+        (to kwadratowe pudełko, na którym siedział).
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8516.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8571.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Nie zabrakło mojego Glena i lampeczek z choinki. Towarzyska, jak zawsze, ma w sobie coś z wielkiego pokoju z kominkiem.
+        Lubię tam wracać w każdej formie. Nawet bez instrumentu, po prostu na kawę. Polecamy to miejsce do akustycznych przeżyć.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8522.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Pamiętacie Bartka? Do tej pory nie wiemy dlaczego cała trójka odkręciła głowy w jego stronę, niemniej jednak uznałem, że to musiało być coś ważnego, więc napisałem o tym w tej fotorelacji.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8519.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        A to Bartek :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8514.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Koncert czas zacząć. Wszystko punktualnie, bez przepychanek i w dobrej atmosferze. Tak lubię. Więc przebrałem się z radością i użyłem moich ulubionych perfum
+        (Halloween Rock’n’Roll <- ta nazwa zobowiązuje, wiem). A używam ich tylko na najważniejsze wydarzenia w moim życiu. To była jedna z nich. Koncert, na który odkryliśmy wiele kart. 
+        Między innymi nasze zielony outfit, skomponowany przez Claudię Antoszewski, która również była obecna na naszym koncercie! Mocno Cię pozdrawiamy C. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8574.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        A to już chyba pierwszy utwór, heheszki zmieniają się w skupienie i albumowy @strach :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8579.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Ja również się zmieniam - w Samarę.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8604.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: "Na koncerty zawsze zabieram kilka artefaktów, które przynoszą mi szczęście. <br/>Trzewiczki:"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8618.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: "oraz kota."
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8619.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: "Tytuł płyty może wydawać się trochę mroczny, ale tak naprawdę chodzi o walkę, która ma jeden cel: wywołać uśmiech :)"
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8664.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8615.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8686.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8666.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8659.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8633.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Pod koniec koncertu, czekał na Was gość specjalny, którego dobrze znacie - Kasia Mazurkiewicz, dołączyła do nas i wykonała z nami Chorobę (nasz duet instrumentalny), Szwy oraz Niewiarygodne w wersji akustycznej. 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8677.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        I znów - byliście Wy, z bagażem wsparcia, walizkami energii i słowem po koncercie, który nie pozwala usiąść na chodniku i czekać aż coś się wydarzy.
+        Dziękuję Wam za obecność i chęć zaangażowania się w ten UDANY eksperyment z zagadkami. Dziękuję. <br/><br/>
+        Dziękuję.<br/> Tak dobiegł końca premierowy koncert akustyczny z materiałem @strach.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/27-09-2019/IMG_8654.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Zdjęcia wykonała Magdalena Halicka. <br/>/P
+
+- url: 'https://www.radio.lublin.pl/news/koncert-pawla-izdebskiego?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/gallery/pawel_izdebski_z_zespolem-fot_Magdalena_Kubiak.jpg'
+  position: 69
+  title: 'Koncert Pawła Izdebskiego w Lublinie 10 listopada'
+  subtitle: 'Koncert Pawła Izdebskiego w Klubie 30 przy ulicy Jasnej w Lublinie jest częścią trasy Niewiarygodny Tour, promujący płytę "@strach"'
+  author: Radio Lublin
+
+- url: 'https://www.cozadzien.pl/kultura/koncert-pawla-izdebskiego-z-zespolem/60440?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/gallery/pawel_izdebski_zespol-fot_Magdalena_Kubiak.jpg'
+  position: 70
+  title: 'Paweł Izdebski wystąpi w Radomiu już 9 listopada'
+  subtitle: 'Razem ze swoim zespołem promować będą nadchodzący album "@strach" przedpremierowym koncertem w Cafe Elektrownia'
+  author: CoZaDzien.pl
+
+- url: 'https://agoramuzyka.ffm.to/pawelizdebskiszwy'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/okladka_szwy_beznapisow.png'
+  position: 71
+  title: '"Szwy" - trzeci singiel płyty "@strach" - będzie miał premierę już 14 listopada.'
+  subtitle: 'Już teraz możesz zapisać utwór w swojej playliście Spotify, Deezer lub Apple Music, aby dostać powiadomienie w dniu premiery! [kliknij tutaj]'
+  author: Fot. Magdalena Halicka
+
+- url: 'https://radio.lublin.pl/news/pawel-izdebski-plyta-w-drodze-singiel-juz-jest-3634022?utm_source=www.pawelizdebski.pl&utm_medium=news&utm_campaign=patronaty'
+  image_url: 'https://media.radio.lublin.pl/image/3634/3634022/3965007_lg.jpg'
+  position: 72
+  title: 'Paweł Izdebski: Płyta w drodze, singiel już jest'
+  subtitle: 'Na antenie Radio Lublin Paweł opowiedział o swojej twórczości i singlu "Niewiarygodne". 10 listopada Paweł wystąpi ze swoim zespołem w Lublinie.'
+  author: Radio Lublin
+
+- id: 'fotorelacja-kalisz-pazdziernik-2019'
+  position: 73
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8929_xs.jpg'
+  title: 'Niewiarygodnie w Kaliszu - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Pakowanie. Pakowanie sprzętu to etap 1. każdego wyjazdu na koncert czy w większą trasę.<br/>
+        Nie inaczej było u nas. W punkcie zbornym, naszych instrumentów pilnował agent specjalny aka “Barry”.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8724.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8723.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8720.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        1 pakuje, reszta ocenia, analizuje, krytykuje i daje swoje rady :D 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8727.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Nie będę ściemniał, ciężko było ustrzelić fotę w pełnym busie. W mgnieniu oka znaleźliśmy się w Kaliszu. A dokładnie w Centrum Kultury i Sztuki. Dopiero co się spakowali, a już muszą się rozstawiać.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8744.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Bartek przy rozstawianiu odkrył swoje prawdziwe powołanie. No cóż, tamburyn to też instrument!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8747.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        W Kaliszu miałem tylko jeden koszmar - urwana rączka w casie na gitarę. Musiałem ją nosić jak pannę młodą (i tak też robiłem!)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8754.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Grzegorz ma spory zestaw perkusyjny, to też ostatni pije przedkoncertową kawę. Chwała Grzegorzowi!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8756.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Bartek i jego Fender, tuż po wylądowaniu. Piękny z nich duet. Na scenie tylko to potwierdzają!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8759.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Dianie coś się nie podoba i puls mi rośnie…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8762.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        A nie, jednak nie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8767.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        5 lat później…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8768.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        XD <br/><br/>
+        A to Robert Juzala (GoSound). Realizatorzy dźwięku często są niedoceniani. Dla mnie to członek zespołu,
+        bez którego wpadam w panikę. W Kaliszu był z nami i to dzięki niemu usłyszeliście każdy aranżacyjny szczegół!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8785.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Będziesz ładnie grał, czy nie, Grzesiu?
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8788.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Dobra, próba dźwięku, za dwie godziny pierwsi goście!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8809.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8851.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Make up, fryz, przebiórki, chill (nigdy nie jestem w stanie na 100% wyczilować).<br/>
+        Diana uznała, że mi pierdyknie loka.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8863.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Zrobiła to.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8869.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Wychodzimy! Jeszcze tylko piracki okrzyk i...
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8885.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Czas święty święcić.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8895.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8900.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Zmiana światła!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8903.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8905.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Kurde, kocham śpiewać.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8929.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8977.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Diana w innym świecie…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8957.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Nie było nas dużo na sali, lecz nie daliście nam tego odczuć. Pozdrawiam gorąco dziewczyny, które tańcowały z boku i beztrosko cieszyły się muzyką.
+        Dziękuję wszystkim za obecność i aktywne słuchanie. Nasz materiał dojrzewa i byliście jednymi z pierwszych, którzy go usłyszeli.
+        Życzę sobie i Wam, żebyśmy kiedyś mogli wspomnieć pierwszy koncert na trasie “Niewiarygodny Tour” :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8950.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9008.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8940.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_8915.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9017.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Na zdjęciu cała ekipa!<br/>
+        Ściskamy również Wiktorię, która zrobiła nam niesamowity prezent, który będziemy pamiętać przez cały rok :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/12-10-2019/IMG_9059.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        Jeśli to czytasz i nigdy nie byłeś na moim koncercie - wpadnij, nie pożałujesz :)<br/><br/>
+        Zdjęcia wykonała Magdalena Halicka <br/><br/>
+        <b>/P.</b>
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2019/11/14/trzeci-singiel-zapowiadajacy-plyte-pawla-izdebskiego-szwy-premiera/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/szwy_wykadrowana.png'
+  position: 74
+  title: 'Trzeci singiel zapowiadający płytę Pawła Izdebskiego – “Szwy” [PREMIERA]'
+  subtitle: '“Szwy” to trzeci już singiel Pawła Izdebskiego z albumu “@strach”, którego premiera już 17 stycznia 2020 r. Płyta ukaże się pod naszym patronatem medialnym.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'https://www.youtube.com/watch?v=prAoa8lbAv4'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/Szwy_miniaturka.png'
+  position: 75
+  title: '"Szwy" już na YouTube!'
+  subtitle: 'Szwy to gorzkie rozliczenie z przeszłością i melancholijna podróż, której lepiej słuchać będąc zawiniętym w koc.'
+  author: Paweł Izdebski
+
+- url: 'https://muzykoholicy.com/wydarzenia/relacja/fotorelacja-pawel-izdebski-w-lodzkim-magnetofonie/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/muzykoholicy.com/wp-content/uploads/2019/11/Pawel-28.jpg?fit=4912%2C3264&ssl=1'
+  position: 76
+  title: 'Paweł Izdebski zagrał w łódzkim Magnetofonie'
+  subtitle: 'W sobotę, 23 listopada w łódzkim klubie Magnetofon odbył się koncert Pawła Izdebskiego z zespołem. “Niewiarygodny Tour” to trasa promująca nadchodzącą płytę artysty pt. “@strach”.'
+  author: Muzykoholicy
+
+- url: 'http://wlkm.pl/pawel-izdebski-odwiedzil-poznan-ze-swoja-trasa-niewiarygodne-relacja/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/wlkm.pl/wp-content/uploads/2019/11/IMG_1307.jpeg'
+  position: 77
+  title: 'Paweł Izdebski odwiedził Poznań ze swoją trasą "Niewiarygodny Tour"'
+  subtitle: 'Trasa, z którą Paweł Izdebski wraz z zespołem wyruszył w Polskę, miała na celu przedstawienie jego twórczości oraz podgrzanie atmosfery tuż przed premierą solowego, debiutanckiego albumu „@strach”.'
+  author: WLKM.PL
+
+- url: 'https://polskaplyta-polskamuzyka.pl/2019/12/07/zimowy-przeboj-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/12/Dom_-_Ok%C5%82adka_-_Izdebski-fot-Magdalena-Halicka.png?resize=1365%2C1200&ssl=1'
+  position: 78
+  title: 'Zimowy przebój Pawła Izdebskiego'
+  subtitle: '5 grudnia premierę miała piosenka “Dom” Pawła Izdebskiego. To utwór o powrocie do miejsca, w którym święta nabierają jedynego, niepowtarzalnego klimatu.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'http://wybieramkulture.pl/dom-zimowy-przeboj-pawla-izdebskiego-juz-jest/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/wybieramkulture.pl/wp-content/uploads/2019/12/MVI_1070_1-2.jpeg'
+  position: 79
+  title: '"Dom" - Świąteczno-zimowy strzał Izdebskiego.'
+  subtitle: 'Mroźne dźwięki mandoli połączone z indie-folkowym brzmieniem sekcji rytmicznej, znacznie ułatwią powrót do naszych najbliższych. Piosenka uspokajająca przedświąteczny popłoch, zalecana najbardziej na długie zimowe trasy.'
+  author: Wybieram Kulturę
+
+- url: 'https://goout.net/pl/artysci/pawel-izdebski/fpswf/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/niewiarygodny-tour-2020.png'
+  position: 80
+  title: 'Niewiarygodny Tour 2020!'
+  subtitle: 'Premiera płyty "@strach" już 17 stycznia! Zaraz potem Paweł Izdebski rusza w trasę koncertową z zespołem muzycznym. Odwiedzi aż 10 miast!'
+  author: GoOut
+
+- url: 'https://www.youtube.com/watch?v=7K7gV9XK5IE'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/yeti-george-Kamila-Plicha.jpeg'
+  position: 81
+  title: '"Yeti George" na YouTube'
+  subtitle: 'W grudniu odbył się konkurs na okładkę do piosenki "Yeti George". Zwycięzcą została Kamila Plicha (Instagram @caamilove). To właśnie jej wizja Yetiego Dżordża cyklicznie zmienia kolory do rytmu piosenki, która nawiązuje do problemu jakim jest overthinking. Produkcja, instrumenty, muzyka, słowa, aranż, miks i master: Paweł Izdebski.'
+  author: Grafika by Kamila Plicha
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2020/01/13/pawel-izdebski-wydal-gre-mobilna-i-zapowiada-plyte-strach/'
+  image_url: 'https://i1.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/07/Niewiarygodne_Pawe%C5%82_Izdebski_miniatura_fot-Magdalena_Halicka.jpg'
+  position: 82
+  title: '"Paweł Izdebski wydał… grę mobilną i zapowiada płytę “@strach”'
+  subtitle: 'Tego jeszcze nie było. Paweł Izdebski wydał… grę mobilną na Androida. A już 17 stycznia ukaże się – pod naszym patronatem medialnym – debiutancka płyta wokalisty “@strach”.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'https://muzykoholicy.com/goracy-temat/pawel-izdebski-wydal-gre-mobilna-zagraj-w-strach-the-game/'
+  image_url: 'https://i1.wp.com/muzykoholicy.com/wp-content/uploads/2020/01/Pawe%C5%82-Izdebski-e1578919552336.jpg'
+  position: 83
+  title: 'Zagraj w @strach – the game i wygraj bilety na koncert w Progresji'
+  subtitle: 'Już w najbliższy piątek – 17.01 – premierę będzie miał debiutancki długogrający album Pawła Izdebskiego zatytułowany “@strach”. Z tej okazji artysta zaprasza wszystkich do wspólnej zabawy w której do wygrania są wejściówki na koncert premierowy w Progresji! Sprawdźcie się w specjalnej grze – “@strach – the game”.'
+  author: Muzykoholicy.com
+
+- id: 'fotorelacja-niewiarygodny-tour-2019'
+  position: 84
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0128-xs.jpg'
+  title: 'ER EL EŁ PE - Koncertowe "E" - Niewiarygodny Tour 2019 - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Każde z czterech miast, o których dzisiaj napiszę, ma kilka mianowników.
+        Każda pierwsza litera każdego miasta ma w sobie “E”. Uznałem to za czyn magiczny,
+        powiedziałbym - nie z tego świata. Drugim mianownikiem jest koncert. Mojego zespołu,
+        z którym odwiedziliśmy po kolei&colon; Radom, Lublin, Łódź oraz Poznań. Czy przyszliście?
+        Przyszliście. Czy sprawiliście, że zjadłem szczęście po koncercie? Zjadłem.
+        Drogie Panie. Drodzy Panowie. FOTO relacja ;) <br/><br/>
+        <strong>Radom.</strong> - ludzie mi mówili co chwilę, że lotnisko. Ja mówię - świetna publika i dyskusja nie miała końca.
+        Wygrałem. Po koncercie wszyscy przyznali mi rację. Koncert odbył się w Cafe Elektrownia, dziękujemy gospodarzom za możliwość zagrania na Radomskiej scenie.<br/><br/>
+        Siema.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/1.JPG'
+          author: Maja Wrochna
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/6.JPG'
+          author: Maja Wrochna
+    - position: 1
+      text: |
+        Początek na uśmiechu!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/3.jpg'
+          author: Maja Wrochna
+    - position: 2
+      text: Trochę refleksji i poezji w głowie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/12.jpg'
+          author: Maja Wrochna
+    - position: 3
+      text: Trochę oliwy do ognia.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/21.JPG'
+          author: Maja Wrochna
+    - position: 4
+      text: Trochę radości.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/22.JPG'
+          author: Maja Wrochna
+    - position: 5
+      text: Zaduma też jest ok.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/23.JPG'
+          author: Maja Wrochna
+    - position: 6
+      text: GŁOSUJCIE NA PŁYTĘ @strach
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/24.JPG'
+          author: Maja Wrochna
+    - position: 7
+      text: Proszęęęęęęęę
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/5.jpg'
+          author: Maja Wrochna
+    - position: 8
+      text: Radom, wrócimy do Was, bo przyjęliście jak swoich. Wysyłamy Hugi
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Radom/25.JPG'
+          author: Maja Wrochna
+    - position: 9
+      text: |
+        Zdjęcia zrobiła Maja Wrochna - dzięki :) <br/><br/>
+        <strong>Lublin</strong> - miasto dla mnie dziewicze, bo był to mój pierwszy koncert w Lublinie z moimi piosenkami.
+        Graliśmy w “Trzydziestce”. Nadal nie mam 30 na karku, ale mnie wpuścili, bo miałem więcej niż jedną gitarę.
+        A jak się dowiedzieli, że leworęczne, to w ogóle - za darmo. <br/><br/> 
+        Tego dnia zaprosiłem moją dobrą znajomą (poznaliśmy się na Festiwalu FAMA) Monikę Kowalczyk,
+        koniecznie sprawdźcie jej piosenki.. bo są przepiękne i czasami muszę hamować zazdrość!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/1.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Nasza zespołowa para, nie wiem czy mnie nie zabiją za to, ale ta dwójka razem to ogień na scenie!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/8.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Ten człowiek lubi grać na gitarze. Tego jestem pewien.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/11.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        Laura zabrzmiała tym razem w towarzystwie animacji Magdaleny Pileckiej - Superka!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/7.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Czasami sobie myślę, że piosenki to dziewczyny, które chcą krzyczeć i mogą to zrobić na scenie. Ja jestem tylko agregatorem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/6.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/9.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Piosenka koalicyjna z Moniką!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/10.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Lubię duszę tej dziewczyny i wiem, że kiedyś osiągnie sukces, o którym nawet nie śniła.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/14.jpg'
+          author: Magdalena Halicka
+    - position: 16
+      text: |
+        Cali w czerwieni.<br/>#WampirSquad<br/>Dzięki Lublin!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Lublin/13.jpg'
+          author: Magdalena Halicka
+    - position: 17
+      text: |
+        Zdjęcia&colon; Magdalena Halicka<br/><br/>
+        <strong>Łódź</strong> - Klub Magnetofon to spełnienie marzeń każdego gitarzysty,
+        który urodził się w latach 90tych i ma sentyment do muzyki grunge. To miejsce ma w sobie coś “bagiennego”,
+        co sprawiło, że niektóre piosenki zabrzmiały tu lepiej niż zazwyczaj. I choć to tylko zdjęcia, to odrazu skumacie o co mi chodzi…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9817.jpg'
+          author: Magdalena Halicka
+    - position: 18
+      text: |
+        Coś mnie ciągnie do mroku, a do tego dym, który wypełniał scenę, sprzyjał zadowoleniu mojej duszy.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0245.jpg'
+          author: Magdalena Halicka
+    - position: 19
+      text: |
+        Pogadaliśmy sobie z Dianą, konkretnie, jak zwykle.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0005.jpg'
+          author: Magdalena Halicka
+    - position: 20
+      text: |
+        Pośpiewaliśmy z Bartkiem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0152.jpg'
+          author: Magdalena Halicka
+    - position: 21
+      text: |
+        Pozowaliśmy w rombie 5kątnym do obiektywu Magdy Halickiej.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0081.jpg'
+          author: Magdalena Halicka
+    - position: 22
+      text: |
+        Diana uznała, że czas zmienić fryzurę w trakcie koncertu &lt;3
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0128.jpg'
+          author: Magdalena Halicka
+    - position: 23
+      text: |
+        Znajome mi twarze, czyli + 10 do skilla.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9921.jpg'
+          author: Magdalena Halicka
+    - position: 24
+      text: |
+        i + 4 do niewidzialności ; D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0285.jpg'
+          author: Magdalena Halicka
+    - position: 25
+      text: |
+        Zordon koncertów, czyli Robert Juzala, opiekun dźwięku :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9819.jpg'
+          author: Magdalena Halicka
+    - position: 26
+      text: |
+        Techniczna Nidi, czyli wokalista dokarmia zespół.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9813.jpg'
+          author: Magdalena Halicka
+    - position: 27
+      text: |
+        Lubię to zdjęcie…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9891.jpg'
+          author: Magdalena Halicka
+    - position: 28
+      text: |
+        Najniższy dźwięk na koncercie może zagrać tylko Marcin.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_9876.jpg'
+          author: Magdalena Halicka
+    - position: 29
+      text: |
+        Ogień!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0244.jpg'
+          author: Magdalena Halicka
+    - position: 30
+      text: |
+        Dziękuję Wam. To Wy tworzycie nas.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/%C5%81%C3%B3d%C5%BA/IMG_0248.jpg'
+          author: Magdalena Halicka
+    - position: 31
+      text: |
+        Zdjęcia zrobiła niezastąpiona Magdalena Halicka.<br/><br/>
+        <strong>Poznań</strong> - Tu się musiałem odkupić za odwołany wcześniej koncert z powodu choróbska.
+        Nie macie pojęcia, jakim szczęściem było obudzić się z normalnie funkcjonującym głosem tego dnia!
+        Koncert odbył się w klubie Pod Minogą i choć na początku z dystansem zajęliście miejsca siedzące,
+        to nie trzeba było Was długo prosić o pomoc i wsparcie. <br/><br/>
+        Soundcheck - czyli coś, co trzeba zrobić, a coś bez czego żaden koncert by się nie udał.
+        Lubię ten stan mobilizacji, rozkładania, układania. Wczepianie kostek w statyw, poprawianie mikrofonu (nerwica). 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/6.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/8.jpg'
+          author: Magdalena Halicka
+    - position: 32
+      text: |
+        Pierwsze dźwięki w Minodze…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/5.jpg'
+          author: Magdalena Halicka
+    - position: 33
+      text: |
+        Międzynarodowi obserwatorzy, którzy wiecznie kryją nasze plecy :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/7.jpg'
+          author: Magdalena Halicka
+    - position: 34
+      text: |
+        Jazda!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/1.jpg'
+          author: Magdalena Halicka
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/13.jpg'
+          author: Magdalena Halicka
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/2.jpg'
+          author: Magdalena Halicka
+    - position: 35
+      text: |
+        Kilka lekcji czarnej magii zasięgniętej na miesięcznym kursie Hogwartu “Czaruj Sam”.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/14.jpg'
+          author: Magdalena Halicka
+    - position: 36
+      text: |
+        I gramy dalej!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/12.jpg'
+          author: Magdalena Halicka
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/15.jpg'
+          author: Magdalena Halicka
+    - position: 37
+      text: |
+        Poznań - kochamy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/13-01-2020/Pozna%C5%84/16.jpg'
+          author: Magdalena Halicka
+    - position: 38
+      text: |
+        Zdjęcia zrobiła najlepsza fotografka w moim życiu - Magdalena Halicka. <br/><br/>
+        Dziękuję Wam za listopadowe koncerty, dla Was to był 1,5 godzinny koncert, dla mnie - całe życie. Przeszłość i Przyszłość. Do zobaczenia po raz kolejny w teraźniejszości!<br/><br/>
+        <a class="report-link" href="https://www.facebook.com/events/758434724609552/" target="_blank">26 stycznia odbędzie się koncert premierowy płyty @strach w warszawskiej Progresji!</a><br/>
+        A potem... ruszamy znowu w trasę Niewiarygodny Tour 2020!
+        <a class="report-link" href="https://www.facebook.com/events/787988441675018/" target="_blank">Wrocław!</a>
+        <a class="report-link" href="https://www.facebook.com/events/3134394076575001/" target="_blank">Gliwice!</a>
+        <a class="report-link" href="https://www.facebook.com/events/460025374713292/" target="_blank">Białystok!</a>
+        <a class="report-link" href="https://www.facebook.com/events/795139134263595/" target="_blank">Szczecin!</a>
+        <a class="report-link" href="https://www.facebook.com/events/497781674421948/" target="_blank">Gdańsk!</a>
+        <a class="report-link" href="https://www.facebook.com/events/856064234852399/" target="_blank">Olsztyn!</a>
+        <a class="report-link" href="https://www.facebook.com/events/442431143118350/" target="_blank">Toruń!</a>
+        <br/><br/>
+        Do zobaczenia!<br/><br/> Paweł
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2020/01/17/premiera-plyty-strach-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/07/pawel_izdebski_z_zespolem-fot_Magdalena_Kubiak.jpg'
+  position: 85
+  title: 'Premiera płyty “@strach” Pawła Izdebskiego'
+  subtitle: '17 stycznia 2020 to data premiery solowej płyty “@strach” Pawła Izdebskiego. Album ukazał się pod naszym patronatem medialnym. Premierze płyty towarzyszy koncert w warszawskim klubie “Progresja”, który odbędzie się już 26 stycznia.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'https://muzykoholicy.com/albumy/debiuty/pawel-izdebski-debiutuje-plyta-strach/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/muzykoholicy.com/wp-content/uploads/2020/01/Pawe%C5%82-Izdebski-materia%C5%82y-prasowe-e1579523895851.jpg'
+  position: 86
+  title: 'Paweł Izdebski debiutuje płytą “@strach”'
+  subtitle: 'Jedni się żegnają, inni debiutują. Premiera płyty “@strach” Pawła Izdebskiego zapowiada straszny rok 2020. A to dlatego, że tuż po premierze muzyk, wraz ze swoim zespołem, ruszają w trasę koncertową, na której pod chorągwią “@strachu” odwiedzą ponad 10 miast Polski.'
+  author: Muzykoholicy.com
+
+- url: 'https://allaboutmusic.pl/pawel-izdebski-strach-2020-recenzja-nikoli-niny-skopowskiej/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://allaboutmusic.pl/wp-content/uploads/2019/04/pawel-izdebski.jpg'
+  position: 87
+  title: 'Paweł Izdebski – @strach (2020), recenzja Nikoli Niny Skopowskiej'
+  subtitle: 'Książę Naiwności już naprawdę wrócił na swoją planetę, po 3 latach od wydania EPki, Paweł Izdebski w końcu wydał album, na który wielu czekało.'
+  author: All About Music
+
+- url: 'https://www.radio.lublin.pl/news/pawel-izdebski-i-jego-strach-3792550?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://media.radio.lublin.pl/image/3792/3792550/4182244_lg.jpg'
+  position: 88
+  title: 'Paweł Izdebski i jego "@strach"'
+  subtitle: 'Teraz cieszymy się już jego debiutancką płytą "@strach", która jest od dziś (27.01) "polską płytą tygodnia" w Polskim Radiu Lublin. Opowiedział nam o kulisach powstania krążka.'
+  author: Polskie Radio Lublin
+
+- url: 'http://polskaplyta-polskamuzyka.pl/2020/01/26/pawel-izdebski-strach-recenzja/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/07/pawel_izdebski_z_zespolem-fot_Magdalena_Kubiak.jpg'
+  position: 89
+  title: 'Paweł Izdebski – “@strach” [RECENZJA]'
+  subtitle: 'Początek roku 2020 można uznać za udany w polskiej muzyce, a to za sprawą Pawła Izdebskiego. Chociaż artysta ma już na koncie debiutancką EPkę z 2017 roku, współpracę ze Studiem Accantus i z Ralphem Kaminskim, to dopiero teraz przyszedł czas na jego pełną płytę „@strach”.'
+  author: Polska Płyta / Polska Muzyka
+
+- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-i-nowa-plyta-astrach-trasa-koncertowa-niewiar,nId,4287174?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i1.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2019/07/pawel_izdebski_z_zespolem-fot_Magdalena_Kubiak.jpg'
+  position: 89
+  title: 'Paweł Izdebski i nowa płyta "@strach". Trasa koncertowa "Niewiarygodny Tour" [DATY, MIEJSCA]'
+  subtitle: 'Tuż po premierze, w niedzielę 26 stycznia Paweł Izdebski rusza w trasę koncertową promującą nowe wydawnictwo, "Niewiarygodny Tour". Odwiedzi 10 miast. Płytę promowały utwory "Laura", "Niewiarygodne" i "Szwy". W dniu premiery do sieci trafiło wideo do kolejnego utworu - "3".'
+  author: Interia Muzyka
+
+- url: 'https://www.plusmusic.pl/articles/8005931'
+  image_url: 'https://plusmusic.pl/presenter/image/8005931.gif?pid=8005931&type=www&no=1'
+  position: 90
+  title: 'Suma strachów Pawła Izdebskiego'
+  subtitle: '17 stycznia 2020 miała miejsce premiera solowej płyty "@strach" Pawła Izdebskiego.'
+  author: Plus Music
+
+- url: 'https://allaboutmusic.pl/pawel-izdebski-wystapi-w-gliwickim-klubie-studenckim-spirala/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://allaboutmusic.pl/wp-content/uploads/2019/04/pawel-izdebski.jpg'
+  position: 91
+  title: 'Paweł Izdebski wystąpi w gliwickim Klubie Studenckim Spirala'
+  subtitle: 'Zaraz po wydaniu swojego debiutanckiego albumu, Paweł wyruszył w trasę po Polsce. Już w lutym można będzie go zobaczyć w Gliwicach.'
+  author: All About Music
+
+- url: 'http://wybieramkulture.pl/najmocniejszy-utwor-plyty-strach-3-kolejnym-singlem-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/trzy-miniaturka.jpg'
+  position: 92
+  title: 'Najmocniejszy Utwór Płyty „@strach” – „3” Kolejnym Singlem Pawła Izdebskiego'
+  subtitle: 'Jedna z mocniejszych propozycji na płycie, przepełniona przesterami, cięższymi riffami, wokalista nie boi się też nieco inaczej posługiwać wokalem.'
+  author: Wybieram Kulturę
+
+- url: 'https://www.youtube.com/watch?v=8_0eR0Mj424'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/wiedzmin.png'
+  position: 93
+  title: 'Grosza daj wiedźminowi (Toss a Coin to Your Witcher cover)'
+  author: Studio Accantus
+
+- url: 'https://muzykoholicy.com/wydarzenia/festiwal/poznalismy-kolejnych-artystow-enea-spring-break-2020/'
+  image_url: 'https://i2.wp.com/muzykoholicy.com/wp-content/uploads/2020/02/Spring-Break-e1580912560429.jpg'
+  position: 94
+  title: 'Paweł Izdebski wystąpi na Spring Breaku 25 kwietnia 2020!'
+  subtitle: 'Poznaliśmy kolejnych artystów ENEA SPRING BREAK 2020'
+  author: Muzykoholicy
+
+- id: 'fotorelacja-koncert-premierowy-progresja-2020'
+  position: 95
+  is_report: true
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/51-xs.jpg'
+  title: 'Premierowy @strach w Progresji! - Niewiarygodny Tour 2020 - Fotorelacja'
+  paragraphs:
+    - position: 0
+      text: |
+        Japierdziu, nie da się wrócić, nie? Niby wiem, ale jakoś lubię sobie wyobrażać, że to rzeczywiście możliwe.
+        26 stycznia w Progresji odbył się koncert, na którym oficjalnie zagraliśmy cały, autorski materiał z płyty @strach.
+        I ten dzień zapamiętam jako jeden z najfajniejszych dni w moim życiu. <br/><br/>
+        Grałem już w Progresji ze Studiem Accantus i na HeartRockowaniu w 2019, ale to w 2020 wystąpiłem na tej scenie z własnymi piosenkami.
+        I to. To mnie napawa dumą i satysfakcją. <br/> Ale też niedowierzaniem.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/1.jpg'
+          author: Magdalena Halicka
+    - position: 1
+      text: |
+        Scenariusz koncertu pisałem od 1992 roku. Zobaczmy reakcje członków zespołu :D
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/3.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/11.jpg'
+          author: Magdalena Halicka
+    - position: 2
+      text: |
+        Standardowo - próba dźwięku, czyli prawie najważniejszy czas przed koncertem.
+        Czas goni, zaraz pojawią się nasi goście specjalni. Trochę wieje w Progresji, ale jesteśmy muzycznymi wikingami i dajemy 100%.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/2.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/9.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/16.jpg'
+          author: Magdalena Halicka
+    - position: 3
+      text: |
+        Soundcheck poszedł sprawne, acz nie bez stresu, sprawdziłem jeszcze zaplecze (tak, ten sklepik będzie z nami jeździł w trasę!)
+        i po 1000 razy sprawdziłem czy gitary stroją i czy wszystko jest na swoim miejscu… :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/4.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/5.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/6.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/8.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/18.jpg'
+          author: Magdalena Halicka
+    - position: 4
+      text: |
+        Nie pamiętam tego momentu, ale tuż przed koncertem ktoś wysłał nagie foty jednego z członków zespołu…
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/13.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/14.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/15.jpg'
+          author: Magdalena Halicka
+    - position: 5
+      text: |
+        Chwilę po godzinie 19:00 na scenie pojawiła się Suzia. Dziewczyna z gitarą, którą poznałem na Festiwalu Fama lata temu.
+        Pamiętam, że przez pierwszy tydzień musiałem mocno się odkochiwać, żeby skupić się na warsztatach.
+        Suzia dowiedziała się o moim crushu na nią kilka dni temu :D. Z garderoby już dobrze było słychać, że moja ulubiona Polska Songwriterka pootwierała Wasze serca.
+        <br/>Dziękuję Ci przyjacielu! :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/25.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/26.jpg'
+          author: Magdalena Halicka
+    - position: 6
+      text: |
+        Okej, serce bije w ten znajomy sposób. To uczucie jest bardzo podobne do tego, gdy wiesz, że właśnie się zakochałeś i zachodzą w Tobie reakcje chemiczne, które nie do końca pozwalają Ci żyć normalnie.
+        O to chodzi w tym zawodzie. Właśnie o to chodzi. <br/>
+        Koncert zaczyna się od zielonego światła od naszego zespołowego Zordona - Robert Juzala mówi start - startujemy!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/24.jpg'
+          author: Magdalena Halicka
+    - position: 7
+      text: |
+        Serce uspokaja się po 30/40 sekundach pierwszego utworu. Od pierwszych 15 zależy praktycznie cały koncert. Bardzo szybko odpowiadam sobie wtedy na jedno pytanie - jak bardzo chcę stać na scenie.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/33.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/28.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/40.jpg'
+          author: Magdalena Halicka
+    - position: 8
+      text: |
+        Po piątym utworze na scenie pojawia się Kasia Mazurkiewicz, z którą gramy 3 utwory, "Balona" z EP “Książę Naiwnośći”, instrumentalną “Chorobę” i “Chcę Miłości” z repertuaru Jacka White'a.
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/44.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/46.jpg'
+          author: Magdalena Halicka
+    - position: 9
+      text: |
+        Ostatnie dźwięki pianina zwiastują powrót wybuchów!
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/51.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/53.jpg'
+          author: Magdalena Halicka
+    - position: 10
+      text: |
+        Choć potraficie mnie zaskoczyć, to czasami przypominacie mi o moich zapomnianych fantazjach koncertowych.
+        Nie prosiłem Was o to, a śmiałem się w duchu, że może kiedyś ktoś tak zrobi na Szwach :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/49.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/45.jpg'
+          author: Magdalena Halicka
+    - position: 11
+      text: |
+        Pod koniec koncertu na scenę wszedł On&colon; Ralph Kaminski! Dopiero co wydał swój drugi album pt. “Młodość”. Na szczęście 26 stycznia był dla nas łaskawy i Ralphy zaśpiewał mój ulubiony utwór z płyty “Morze” :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/55.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/56.jpg'
+          author: Magdalena Halicka
+    - position: 12
+      text: |
+        My już w trakcie koncertu nie mogliśmy przestać się cieszyć, i choć przed nami zostało jeszcze kilka utworów, to było czuć w powietrzu, że ten wieczór powiększył nam serducha. Dzięki Wam! 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/57.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/58.jpg'
+          author: Magdalena Halicka
+        - position: 2
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/60.jpg'
+          author: Magdalena Halicka
+        - position: 3
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/61.jpg'
+          author: Magdalena Halicka
+        - position: 4
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/63.jpg'
+          author: Magdalena Halicka
+        - position: 5
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/68.jpg'
+          author: Magdalena Halicka
+        - position: 6
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/62.jpg'
+          author: Magdalena Halicka
+    - position: 13
+      text: |
+        Na koniec (prawie koniec), moja ulubiona fota z tego koncertu. Wiecie jak to jest. Widzicie takie zdjęcia swoich idoli na plakatach i po prostu sobie wyobrażacie. Ja już nie muszę :)
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/69.jpg'
+          author: Magdalena Halicka
+    - position: 14
+      text: |
+        Dziękuję&colon; Marcin Goszczyński, Diana Lewandowska, Grzegorz Zimny, Bartek Orliński, Daria Woźnicka, Suzia, Kasia Mazurkiewicz, Ralph Kaminski, Filip Jurczyk, Robert Juzala, Magdalena Halicka, Nidi, Klub Progresja, Wiśnia, Claudia Antoszewski, Puste Słoiki po kawie Izdeba, Struny :) 
+      photos:
+        - position: 0
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/70.jpg'
+          author: Magdalena Halicka
+        - position: 1
+          url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/fotorelacje/01-2020/71.jpg'
+          author: Magdalena Halicka
+    - position: 15
+      text: |
+        Zdjęcia ustrzeliła Magdalena Halicka <br/><br/>
+        A teraz... Niewiarygodny Tour 2020!<br/>
+        <a class="report-link" href="https://www.facebook.com/events/787988441675018/" target="_blank">Wrocław!</a>
+        <a class="report-link" href="https://www.facebook.com/events/3134394076575001/" target="_blank">Gliwice!</a><br/>
+        <a class="report-link" href="https://www.facebook.com/events/460025374713292/" target="_blank">Białystok!</a>
+        <a class="report-link" href="https://www.facebook.com/events/795139134263595/" target="_blank">Szczecin!</a>
+        <a class="report-link" href="https://www.facebook.com/events/497781674421948/" target="_blank">Gdańsk!</a><br/>
+        <a class="report-link" href="https://www.facebook.com/events/856064234852399/" target="_blank">Olsztyn!</a>
+        <a class="report-link" href="https://www.facebook.com/events/442431143118350/" target="_blank">Toruń!</a>
+        <a class="report-link" href="https://www.facebook.com/events/527183797826018/" target="_blank">Poznań!</a>
+        <br/><br/><br/> Paweł Paweliusz XIV
+
+- url: 'https://allaboutmusic.pl/koncert-pawla-izdebskiego-w-gliwicach-fotorelacja-nikoli-niny-skopowskiej/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i0.wp.com/mir-s3-cdn-cf.behance.net/project_modules/max_1200/35cd1592044147.5e4191194d93e.jpg'
+  position: 96
+  title: 'Koncert Pawła Izdebskiego W Gliwicach.'
+  subtitle: 'Fotorelacja Nikoli Niny Skopowskiej.'
+  author: All About Music
+
+- url: 'https://mad-music.pl/to-dobry-moment-na-wymyslanie-nowych-marzen-wywiad-z-pawlem-izdebskim/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://mad-music.pl/wp-content/uploads/2020/02/012_Paweł_Izdebski-fot-Anna-Bednarek-1500x500.jpg'
+  position: 97
+  title: '“To dobry moment na wymyślanie nowych marzeń” – Wywiad z Pawłem Izdebskim'
+  subtitle: 'Przy okazji koncertu w Gliwicach porozmawialiśmy o płycie, planach na przyszłość i o języku japońskim.'
+  author: Mad-Music.pl
+
+- url: 'http://wybieramkulture.pl/nora-to-kolejny-singiel-plyty-strach-pawla-izdebskiego/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i0.wp.com/wybieramkulture.pl/wp-content/uploads/2020/02/01-Paweł_Izdebski-fot-Anna-Bednarek-scaled.jpg'
+  position: 98
+  title: '“Nora” to kolejny singiel płyty "@strach" Pawła Izdebskiego'
+  subtitle: '14 lutego 2020 swoją premierę miał teledysk utworu „Nora” Pawła Izdebskiego, w reżyserii Dawida Grzelaka oraz z udziałem fantastycznej polskiej aktorki teatralnej, telewizyjnej i filmowej – Katarzyny Dąbrowskiej.'
+  author: Wybieram Kulturę
+
+- url: 'https://muzycznapolska.pl/kawalek-miesiaca/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://muzycznapolska.pl/wp-content/uploads/2020/02/LL6rs_Mw.jpeg'
+  position: 99
+  title: '“Nora” "kawałkiem miesiąca" serwisu Muzyczna Polska'
+  author: MuzycznaPolska.pl
+
+- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-i-nowy-teledysk-nora-w-glownej-roli-katarzyna,nId,4326544?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i.iplsc.com/-/0009UB3KIOXMCT58-C122.jpeg'
+  position: 100
+  title: 'Paweł Izdebski i nowy teledysk "Nora". W głównej roli Katarzyna Dąbrowska'
+  subtitle: 'W walentynki do sieci trafił teledysk "Nora" promujący płytę "@strach" Pawła Izdebskiego, wokalisty Studio Accantus i gitarzysty zespołu Ralpha Kaminskiego.'
+  author: Interia Muzyka
+
+- url: 'https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-w-trasie-promujacej-plyte-astrach-wyzywam-str,nId,4352922?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://i.iplsc.com/-/0009VP4N0851PKNN-C122.jpeg'
+  position: 101
+  title: 'Paweł Izdebski w trasie promującej płytę "@strach": Wyzywam strach na pojedynek'
+  subtitle: 'Płytę "@strach" promuje na trwającej trasie "Niewiarygodny Tour". W klubach w Warszawie, Wrocławiu, Gliwicach czy Białymstoku pod sceną pojawiły się tłumy widzów. Na kolejne koncerty pozostały już ostatnie bilety.'
+  author: Interia Muzyka
+
+- url: 'https://www.lukr.club/rezerwacja/wydarzenia/pawel-izdebski-w-lukr.html'
+  image_url: 'https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-0/p180x540/89394510_1382083655305939_5184203565551321088_o.jpg?_nc_cat=103&_nc_sid=b386c4&_nc_ohc=q2XbCK9CiVYAX9z1Hli&_nc_ht=scontent-frt3-2.xx&_nc_tp=6&oh=7dff41a335285dd7ab54314a8b4c5045&oe=5E977CF2'
+  position: 102
+  title: 'Bilety na koncert w Rzeszowie już są!'
+  subtitle: 'Koncert w rzeszowskim klubie LUKR w ramach trasy Niewiarygodny Tour już 19 kwietnia.'
+  
+- url: 'https://www.facebook.com/events/800979247080573/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/koncert-internetowy-marzec-2020.jpg'
+  position: 103
+  title: 'Koncert Internetowy Pawła Izdebskiego już 15 marca!'
+  subtitle: 'W obliczu panujących warunków przyrodniczych przenosimy się z koncertami do Internetu! Może i to nie będzie to samo, co koncert z zespołem na żywo, ale zapewniam sążną dawkę ultra-leczniczych dźwięków, kilka średnio śmiesznych sucharów, piosenki ze @strachu i nie tylko. Czeka nas 50 minut bardzo kulturalnego acz kameralnego spotkania z muzyką. Ja, moje gitary, komputer i Wy. Zapraszam.'
+
+- url: 'https://play.google.com/store/apps/details?id=com.BackstageCoding.strachTheGame'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/_%40strach-the-game.jpg'
+  position: 105
+  title: 'Nowe poziomy w grze "@strach - the game"!'
+  subtitle: 'Czy leciałeś kiedyś po mieście gitarą? Pod prąd? Omijaj przeszkody i zmierz się z odwiecznymi wrogami artystów - tremą, hejterami i własnymi myślami... A to wszystko w rytm utworów z płyty pt. "@strach" i nie tylko!'
+
+- url: 'https://www.youtube.com/watch?v=cClk6trOf9U'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/i-dont-need-no-doctor.png'
+  position: 104
+  title: 'I Don`t Need No Doctor (John Mayer Cover) - już na YouTube!'
+  subtitle: 'kanał YouTube Paweł Izdebski'
+
+- url: 'https://www.facebook.com/events/649890889131994/'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/stageit-22-03-2020.jpg'
+  position: 106
+  title: 'Kolejny koncert Internetowy! Już 22 marca!'
+  subtitle: 'Sami tego chcieliście. Nie mamy wyboru. Skazaliście mnie na kolejny koncert na platformie Stageit :) I to jest najlepsza kara na świecie! Tak, jestem winny i chcę odbyć wyrok! Powiem tak. Specjalnie dla Was zagram w innym miejscu, żeby zmieniła się scenografia. Set listę obrócę do góry nogami i zagram to, co sugerowaliście na czacie oraz kilka niespodzianek. To co? Łóżko+Muzyka? I`m in.'
+
+- url: 'https://dziendobry.tvn.pl/a/muzyka-kojaca-zmysly-czyli-pawel-izdebski-z-utworem-nora/?utm_source=pawelizdebski.pl&utm_medium=news'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/qba-1067-jpg.jpg'
+  position: 107
+  title: 'Muzyka kojąca zmysły. Na scenie "Dzień Dobry TVN" Paweł Izdebski i utwór „Nora”'
+  subtitle: 'Hipnotyzujący utwór koi nerwy i wprowadza w dobry nastrój. Paweł Izdebski zaprezentował na naszej scenie swój najnowszy singiel pt. „Nora”. Piosenka promuje jego debiutancka płytę „@strach”. Posłuchaj i daj się uwieść pogodnym rytmom!'
+  author: Dzień Dobry TVN
+
+- url: 'http://sklep.pawelizdebski.pl'
+  image_url: 'https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/sklep-merch-1.jpg'
+  position: 108
+  title: 'Internetowy sklepik z merchem już działa!'
+  subtitle: 'Nie musisz wychodzić z domu, aby kupić płytę "@strach", bluzę "Laura" czy torbę "Nora". Sama przyjdzie do Ciebie!'
+
+- url: https://www.youtube.com/watch?v=4PmFSAMpr2w
+  image_url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/yt-header-xs.png
+  position: 109
+  title: 'Koncert internetowy na YouTube już 5 kwietnia!'
+  subtitle: 'Kolejny koncert internetowy, tym razem zobaczymy się na moim kanale YouTube na żywo już w niedzielę o godz. 18:00! Kolejny raz będzie inaczej a i setlista znowu ulegnie zmianom, co by Was co raz zaskakiwać! (to lubię najbardziej!) #zostańwdomu #zostańwdomusłuchajmuzy #muzykawczasachzarazy'
+
+- url: https://muzykoholicy.com/wydarzenia/koncerty/zostanwdomu-pawel-izdebski-zagra-koncert-online/?utm_source=pawelizdebski.pl&utm_medium=news
+  image_url: https://i2.wp.com/muzykoholicy.com/wp-content/uploads/2020/04/92994695_2655441034734307_2820729684432519168_n-e1586946598160.jpeg?w=640&ssl=1
+  position: 110
+  title: "#zostańwdomu: Paweł Izdebski zagra koncert SOFAR FROM HOME WARSAW"
+  subtitle: "To nie pierwszy raz dla Pawła Izdebskiego. Koncerty internetowe to stosunkowa nowość dla większości branży muzycznej, jednak Paweł Izdebski już nie jeden raz udowodnił, że staje na wysokości zadania. Po raz kolejny uprzyjemni swojej publiczności niedzielny wieczór, prowadząc, tym razem dwie (!) transmisje na żywo ze swojego pokoju. Obie odbędą się w niedzielę 19 kwietnia."
+  author: Muzykoholicy.com
+
+- url: https://muzyka.interia.pl/wiadomosci/news-pawel-izdebski-zaprasza-na-kolejne-koncerty-w-internecie-zac,nId,4441287?utm_source=pawelizdebski.pl&utm_medium=news
+  image_url: https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/93640992_539402173433711_3643777301212798657_n.jpg?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=2s5jC1SBucYAX_46Zpo&oh=44827a858961d3254c94a34ed591fe47&oe=5EC154C1
+  position: 111
+  title: "Paweł Izdebski zaprasza na kolejne koncerty w internecie: Zachowanie pozorów normalności"
+  subtitle: 'W niedzielę (19 kwietnia) dwa koncerty w internecie da Paweł Izdebski - autor wydanej w styczniu płyty "@strach". Jak zapowiada muzyk, nie zabraknie nowych aranżacji, nowych utworów i nowych żartów.'
+  author: Interia Muzyka
+
+- url: https://www.facebook.com/sofarwarsaw/photos/rpp.639981136085225/3007933645956617/?type=3&theater
+  image_url: https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/93655547_3007933649289950_1442777066318594048_n.png?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=HqzNTtZy9wEAX-T92_z&_nc_ht=scontent-waw1-1.xx&oh=88ebdb38f15c7b36f3af348a2a069f9e&oe=5EBCD44F
+  position: 112
+  title: "Paweł Izdebski na 'SOFAR from home'"
+  subtitle: 'Pytaliście kiedy kolejny gig: znamy odpowiedź! Paweł Izdebski zagra na naszym Facebooku LIVE już w niedzielę, 19.04 o 19:00! 🎶🎸 Sofar znaczy "songs from a room" i w takiej konwencji będziecie mogli posłuchać z nami koncertu Pawła 🔌'
+  author: Sofar Sounds Warsaw
+
+- url: http://polskaplyta-polskamuzyka.pl/2020/04/04/obudzilem-w-sobie-ciemniejsza-strone-nasza-rozmowa-z-pawlem-izdebskim/?utm_source=pawelizdebski.pl&utm_medium=news
+  image_url: https://i2.wp.com/polskaplyta-polskamuzyka.pl/wp-content/uploads/2020/03/pAWE%C5%81-iZDEBSKI.jpg?w=960
+  position: 113
+  title: "“Obudziłem w sobie ciemniejszą stronę” – nasza rozmowa z Pawłem Izdebskim"
+  subtitle: 'Paweł Izdebski w styczniu tego roku wydał pierwszą autorską płytę zatytułowaną “@strach”. Z tej okazji zapraszamy na naszą rozmowę z artystą.'
+  author: Polska Płyta / Polska Muzyka

@@ -4,19 +4,48 @@
         <base href="{{ page.url | absolute_url }}">
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-        <meta name="description" content="{{ page.description }}" />
+
+        {% if layout.is_blog_page %}
+            <title>{{ site.title }}{% if page.title_og %} | {{ page.title_og }}{% elsif page.title %} | {{ page.title }}{% endif %}</title>
+            <meta name="description" content="{% if page.title_og %}{{ page.title_og }}{% else %}{{ page.title }}{% endif %} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta, piosenkopisarz i youtuber." />
+        {% else %}
+            <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+            <meta name="description" content="{{ page.title }} | Paweł Izdebski Official Website | Oficjalna strona Pawła Izdebskiego | Paweł Izdebski – Wokalista, gitarzysta, piosenkopisarz i youtuber." />
+        {% endif %}
+        <script type="text/javascript" src="{{ 'pace.js' | asset_path | absolute_url }}"></script>
+        <link rel="stylesheet" href="{{ 'pace.css' | asset_path | absolute_url }}">
         <meta name="copyright" content="{{ site.copyright | strip_html | xml_escape }}"/>
+        <meta name="keywords" content="Paweł,Izdebski,songwriter,piosenkopisarz,youtuber,gitarzysta,guitarist,wokalista,vocalist,bluepop,książę,naiwności,Accantus,Roma,Eamon,niewiarygodne,strach">
+        <meta name="google-site-verification" content="1LJzit3OSHETwC6JRrGXii5u5J1Q_EtdjeLtFhwZwBg" />
         {% include favicon.html %}
         {% include fb_og.html %}
+        {% include ga.html %}
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
-        {% stylesheet style %}
+        <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700&amp;subset=latin-ext" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+        <link rel="stylesheet" href="{{ 'style.css' | asset_path | absolute_url }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="Content-Security-Policy" content="default-src *; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: 'unsafe-inline'; connect-src * 'unsafe-inline'; frame-src *;">
     </head>
-    <body class="base {% if page.body_class %}{{ body_class }}{% endif %}">
+    <body class="base {% if page.body_class %}{{ page.body_class }}{% endif %}{% if layout.body_class %}{{ layout.body_class }}{% endif %}">
         {{ content }}
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                setTimeout(function () {
+                    $('.nav-logo-item').eq(0).removeClass('nav-logo-item--loading');
+                    $('.mobile-loader').eq(0).removeClass('mobile-loader--loading');
+                }, 1500);
+            });
+        </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="{{ 'application.js' | asset_path | absolute_url }}"></script>
+        <script src="https://partners.goout.net/pl-other/pawelizdebskipl.js"></script>
     </body>
 </html>

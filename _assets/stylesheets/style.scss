@@ -1,5 +1,36 @@
-body {
-    font-family: 'Playfair Display', serif;
-    height: 100%;
+@import 'scss/colors';
+@import 'scss/base';
+@import 'scss/navbar';
+@import 'scss/newsletter';
+@import 'scss/home';
+@import 'scss/news';
+@import 'scss/blog';
+@import 'scss/bio';
+@import 'scss/band';
+@import 'scss/music';
+@import 'scss/contact';
+@import 'scss/lyrics';
+@import 'scss/gallery';
+@import 'scss/report';
+@import 'scss/slick';
+
+body,
+body * {
+    font-family: 'Comfortaa', cursive;
+    color: $brand-black;
 }
 
+@media (min-width: 991px) and (max-width: $screen-sm-max) {
+    .d-md-none {
+        display: none !important;
+    }
+    .d-md-block.d-lg-none {
+        display: block !important;
+    }
+}
+
+@media (min-width: $screen-md-min) {
+    .d-md-none {
+        display: block !important;
+    }
+}

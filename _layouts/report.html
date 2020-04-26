@@ -1,0 +1,57 @@
+---
+layout: base
+is_blog_page: true
+body_class: 'white'
+---
+
+{% include navbar.html %}
+{% assign report = page.report %}
+
+<div class="container-fluid report-container">
+    <div class="report-header mb-5">
+        <h1 class="report-title">{{ report.title }}</h1>
+    </div>
+    <div class="container mt-5">
+        {% for paragraph in report.paragraphs %}
+            {% if paragraph.text %}
+                <div class="row report-content">
+                    <div class="col-md-10 offset-md-1 col-xs-12 col-sm-12">
+                        <div class="col-md-12">
+                            <p class="mt-5">
+                                {{ paragraph.text }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+            {% if paragraph.photos %}
+                <div class="row gallery-row gallery-row-{{ paragraph.position }} mt-3">
+                    {% assign photos = paragraph.photos | sort:"position" %}
+                    {% for photo in photos %}
+                    <div class="col-xs-12 col-sm-12 col-md-12 mb-3 gallery-col">
+                        <a href="{{ photo.url }}" data-fancybox="gallery" class="gallery-link" data-caption="fot. {{ photo.author }}">
+                            <img class="gallery-image" src="{{ photo.url }}" alt="Paweł Izdebski #{{ photo.position }}" title="fot. {{ photo.author }}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+                <small class="gallery-hint" style="font-size: 9px;">Kliknij zdjęcie, aby powiększyć</small>
+                <div class="gallery-arrows gallery-arrows-{{ paragraph.position }}"></div>
+            {% endif %}
+        {% endfor %}
+
+        {% if report.link_url %}
+          <a href="{{ report.link_url }}" class="gallery-link gallery-hint" target="_blank">{% if report.link_text %} {{ report.link_text }} {% else %} Zobacz Więcej {% endif %} >></a>
+        {% endif %}
+    </div>
+
+    <div class="container-fluid report-videos-container">
+        <div class="row" class="insta-invitation">
+            <h2 class="gallery-channel-invitation">
+                <a href="{{ '/fotorelacje/' | absolute_url }}" >ZOBACZ INNE FOTORELACJE >> </a>
+            </h2>
+        </div>
+    </div>
+</div>
+{% include footer.html dark_footer=true %}
+

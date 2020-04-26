@@ -1,0 +1,126 @@
+.gallery {
+    &-row {
+        margin: 100px 0 0;
+        align-items: center;
+    }
+
+    &-channel-invitation {
+        text-transform: uppercase;
+        text-align: center;
+        width: 100%;
+        margin-top: 150px;
+        margin-bottom: 25px;
+
+        span {
+            font-size: 25px;
+        }
+        
+        a {
+            font-size: 42px;
+            letter-spacing: 1px;
+            &:hover {
+                color: $brand-black;
+                text-decoration: underline;
+                text-decoration-color: $brand-violet;
+            }
+            @media (max-width: $screen-sm-max) {
+                font-size: 36px;
+            }
+        }
+
+    }
+
+    &-drop {
+        text-align: center;
+
+        a {
+            text-transform: uppercase;
+            margin-bottom: 50px;
+
+            &:hover {
+                color: $brand-black;
+                text-decoration: underline;
+                text-decoration-color: $brand-violet;
+            }
+        }
+    }
+    
+    &-arrows {
+        text-align: center;
+        margin: 25px 0;
+
+        .slick-arrow {
+            -webkit-appearance: none;
+            cursor: pointer;
+    
+            background: transparent;
+            border: none;
+            color: $brand-black;
+            font-size: 14px;
+            outline: none;
+            letter-spacing: 1px;
+            padding: 0 10px;
+    
+            transition: 0.4s all ease-in;
+    
+            @media (max-width: $screen-sm-max) {
+                padding: 0 15px;
+            }
+        }
+    
+        .slick-disabled {
+            opacity: 0;
+        }
+    }
+
+    &-link {
+        max-width: 100%;
+        width: 100%;
+        height: 300px;
+        cursor: zoom-in;
+        overflow: hidden;
+        outline: none;
+    }
+
+    &-image {
+        max-width: 60%;
+        max-height: 100%;
+        margin: 0 auto;
+        object-fit: contain;
+        outline: none;
+        transition: all 0.15s linear;
+        &:hover {
+            transform: scale(1.08);
+        }
+
+        @media (max-width: $screen-sm-max) {
+            max-width: 100%;
+        }
+    }
+}
+
+.music-container {
+    .gallery {
+        &-image {
+            max-width: 100%;
+        }
+    }
+}
+
+.insta-invitation {
+    height: auto;
+}
+
+.report-container {
+  .gallery {
+    &-hint {
+      color: $brand-blue;
+    }
+    
+    &-arrows {
+      .slick-arrow {
+        color: $brand-blue;
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.3.3'
+ruby '2.6.6'
 
 gem 'rake', '~> 12.3.0'
 
@@ -11,12 +11,14 @@ gem 'liquid', '~> 3.0.0'
 gem 'liquid-c', '~> 3.0.0'
 gem 'jekyll-paginate-v2', '~> 1.8.2'
 gem 'jekyll-autoprefixer', '~> 1.0', '>= 1.0.1'
+gem 'jekyll-redirect-from'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'sprockets', '3.7.2'
   gem 'jekyll-assets', '~> 2.2.0'
   gem "jekyll-feed", "~> 0.6"
+  gem "activesupport"
 end
 
 group :development do 

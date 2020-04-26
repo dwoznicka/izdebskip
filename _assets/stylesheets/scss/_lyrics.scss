@@ -1,0 +1,193 @@
+.lyrics {
+    &-header {
+        margin: 0 -15px;
+        height: 250px;
+        display: table;
+        position: relative;
+        width: 100vw;
+
+        @media (max-width: $screen-sm-max) {
+            padding-top: 250px;
+        }
+
+        &::before {
+            content: ' ';
+            background-image: url('https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-10+fot+Magdalena+Kubiak.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            opacity: 0.2;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    }
+
+    &-title {
+        display: block;
+        text-align: center;
+        font-size: 60px;
+        letter-spacing: 1.2px;
+        width: 100%;
+
+        padding: 150px 0 70px;
+
+        @media (max-width: $screen-sm-max) {
+            font-size: 32px;
+        }
+    }
+
+    &-modal-ytlink {
+        &:hover {
+            color: $brand-black;
+            font-weight: bold;
+            text-decoration: underline;
+            text-decoration-color: $brand-violet;
+        }
+    }
+
+    &-row {
+        padding: 75px 0;
+    }
+
+    &-row:nth-child(4n) {
+        background-color: #dddddd;
+    }
+
+    &-row:nth-child(4n + 1) {
+        background: rgba(19,4, 39, 0.5);
+    }
+
+    &-row:nth-child(4n + 2) {
+        background: #dddddd;
+    }
+
+    &-row:nth-child(4n + 3) {
+        background: rgba(0,10, 64, 0.5);
+    }
+
+    &-row:last-child {
+        margin-bottom: 50px;
+    }
+
+    &-button {
+        width: 100%;
+        line-height: 50px;
+        font-size: 19px;
+        color: $brand-black;
+        background-color: $brand-white;
+        outline: none;
+        padding: 0;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        transition: all 0.5s ease;
+        appearance: none !important;
+
+        border: 1px #dddddd solid;
+        border-radius: 15px;
+
+        &:hover {
+            cursor: pointer;
+            font-weight: bold;
+            transform: scale(1.1);
+        }
+    }
+
+    &-separator {
+        background: linear-gradient(90deg, $brand-blue, $brand-dark-violet);
+        height: 150px;
+        margin-left: -15px;
+        margin-right: -15px;
+        position: relative;
+        width: 100vw;
+
+        @media (max-width: $screen-sm-max) {
+            height: 100px;
+        }
+
+        &::after {
+            content: " ";
+            position: absolute;
+            height: 100%;
+        }
+
+        &::before {
+            content: " ";
+            position: absolute;
+            height: 100%;
+        }
+
+        &--color {
+            &::after {
+                width: 50%;
+                background: linear-gradient(to left bottom, transparent 50%, $brand-black 50%);
+                bottom: 0;
+                left: 0;
+            }
+    
+            &::before {
+                width: 50%;
+                background: linear-gradient(to right bottom, transparent 50%, $brand-black 50%);
+                right: 0;
+                bottom: 0;
+            }
+        }
+
+        &--black {
+            &::after {
+                border-style: solid;
+                border-width: 150px 50vw 0 50vw;
+                border-color: $brand-black transparent transparent transparent;
+                width: 100%;
+            }
+        }
+    }
+}
+
+.modal {
+    &-content {
+        background-color: $brand-white;
+        color: $brand-black;
+        letter-spacing: 0.4px;
+    }
+
+    &-dialog {
+        max-width: 600px !important;
+    }
+
+    &.black-modal {
+        .modal-content {
+            background-color: #0C0C2E;
+            color: $brand-white;
+            letter-spacing: 0.4px;
+            text-align: center;
+
+            * {
+                color: $brand-white !important;
+            }
+        } 
+    }
+
+    &-image {
+        cursor: pointer;
+        max-height: 100%;
+        max-width: 100%;
+        height: 500px;
+        width: 500px;
+        object-fit: contain;
+        transition: all 0.15s linear;
+
+        @media (max-width: 767px) {
+            height: 300px;
+            width: 300px; 
+        }
+
+        &:hover {
+            transform: scale(1.03);
+        }
+    }
+}

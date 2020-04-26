@@ -1,0 +1,96 @@
+.newsletter {
+    &-form {
+        justify-content: center;
+        margin-top: 25px;
+    }
+
+    &-form-inline {
+        display: flex;
+        justify-content: center;
+    }
+
+    &-input {
+        border-radius: 15px;
+        color: $brand-black;
+        font-size: 12px;
+        height: 30px;
+        line-height: 20px;
+        margin-left: 25px;
+        padding: 5px 10px !important;
+        width: 70% !important;
+        border: 1px solid $brand-black;
+
+        @media(min-width: $screen-sm-min) {
+            width: 40% !important;
+        }
+    }
+
+    &-submit {
+        border: none;
+        background-color: transparent;
+        color: $brand-white;
+        cursor: pointer;
+        margin-left: 15px;
+        outline: none;
+        height: 30px;
+        width: 30px;
+
+        transition: all 0.2s linear;
+
+        &:hover {
+            transform: scale(1.2);
+        }
+    }
+
+    &-title {
+        font-size: 20px;
+        text-align: center;
+        letter-spacing: 1.2px;
+    
+        @media (max-width: $screen-sm-max) {
+            margin-top: 10vh;
+        }
+    }
+}
+
+.footer {
+    &-signature {
+        margin-top: 30px;
+    }
+
+    &-logo {
+        text-align: center;
+        padding-left: 12%;
+        margin-bottom: 50px;
+
+        img {
+            max-width: 85%;
+            width: 400px;
+            margin: 0 auto;
+        }
+    }
+
+    &-mediaList {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        justify-content: center;
+        margin-top: 20px;
+        padding: 0;
+
+        .fab {
+            font-size: 22px;
+        }
+    }
+
+    &-mediaList-link {
+        padding-right: .5rem;
+        padding-left: .5rem;
+    }
+}
+
+footer {
+    .developer {
+        font-size: 8px;
+    }
+}

@@ -1,0 +1,27 @@
+$brand-white: #ffffff;
+$brand-black: #303030;
+$brand-blue: #000a40;
+$brand-blue-alpha: rgba(0, 10, 64, 0.9);
+$brand-violet: #420698;
+$brand-violet-alpha: rgba(67, 6, 152, 0.5);
+$brand-dark-violet: #23034f;
+$brand-black-violet: #130427;
+$brand-sales-white: #f3f4f8;
+
+$screen-micro: 360px;
+
+$screen-xs: 480px;
+$screen-xs-min: $screen-xs;
+$screen-sm: 768px;
+$screen-sm-min: $screen-sm;
+$screen-md: 1001px;
+$screen-md-min: $screen-md;
+$screen-lg: 1200px;
+$screen-lg-min: $screen-lg;
+$screen-xl: 1440px;
+$screen-xl-min: $screen-xl;
+
+$screen-xs-max: ($screen-sm-min - 1);
+$screen-sm-max: ($screen-md-min - 1);
+$screen-md-max: ($screen-lg-min - 1);
+$screen-lg-max: ($screen-xl-min - 1);

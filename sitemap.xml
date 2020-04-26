@@ -1,0 +1,45 @@
+---
+layout: null
+site_pages:
+  - /
+  - /bio/
+  - /blog/
+  - /galeria/
+  - /kontakt/
+  - /muzyka/
+  - /teksty/
+  - /zespol/
+  - /news/
+  - /fotorelacje/
+exclude: 
+  - /404.html
+  - /robots.txt
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <loc>{{site.url}}</loc>
+    <priority>1.000</priority>
+  </url>
+  {% for site_page in page.site_pages %}
+  <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <loc>{{site.url}}{{site_page}}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+  {% for post in site.posts %}
+  <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <loc>{{ site.url}}{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+  {% for url in site.data['news_urls'] %}
+  <url xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <loc>{{site.url}}{{ url | trailing_slash }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  {% endfor %}
+</urlset>
