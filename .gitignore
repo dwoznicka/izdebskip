@@ -2,9 +2,14 @@
 _site/
 _unposted/
 tmp/
+_site*/
 
 # workspace files are user-specific
 *.sublime-workspace
+
+# vim swap files
+*.swp
+*.swo
 
 # project files should be checked into the repository, unless a significant
 # proportion of contributors will probably not be using SublimeText
