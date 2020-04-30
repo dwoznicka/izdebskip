@@ -34,6 +34,6 @@ Podsumowując – autorzy tych kanałów to kreatywni i&nbsp;wybitni kolesie. Sz
 Zostawiam Was z&nbsp;4 kanałami, na których znajdziecie stos treści apropo grania, ćwiczenia, sprzętu, myślenia, improwizacji, gitarowych life-hacków i&nbsp;innych. Żegnam&nbsp;się i&nbsp;... lecę nadrobić zaległe filmiki ^^
 
 P.S Gdyby ktoś z&nbsp;Warszawy miał ochotę naprawdę wejść na wyższy poziom, albo i&nbsp;zacząć od nowa przygodę z&nbsp;gitarą, to polecam najlepszego nauczyciela, z&nbsp;jakim miałem przyjemność współpracować:
-Michał Przerwa-Tetmajer, więcej info o&nbsp;tu: [gitara.waw.pl](http://gitara.waw.pl/)
+Michał Przerwa-Tetmajer, więcej info o&nbsp;tu: [nauka.tetmajer.pl](http://nauka.tetmajer.pl/)
 
 /P
