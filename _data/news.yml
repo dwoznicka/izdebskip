@@ -3349,7 +3349,7 @@
   author: Interia Muzyka
 
 - url: https://www.facebook.com/sofarwarsaw/photos/rpp.639981136085225/3007933645956617/?type=3&theater
-  image_url: https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/93655547_3007933649289950_1442777066318594048_n.png?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=HqzNTtZy9wEAX-T92_z&_nc_ht=scontent-waw1-1.xx&oh=88ebdb38f15c7b36f3af348a2a069f9e&oe=5EBCD44F
+  image_url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/sofar.png
   position: 112
   title: "Paweł Izdebski na 'SOFAR from home'"
   subtitle: 'Pytaliście kiedy kolejny gig: znamy odpowiedź! Paweł Izdebski zagra na naszym Facebooku LIVE już w niedzielę, 19.04 o 19:00! 🎶🎸 Sofar znaczy "songs from a room" i w takiej konwencji będziecie mogli posłuchać z nami koncertu Pawła 🔌'
@@ -3361,3 +3361,22 @@
   title: "“Obudziłem w sobie ciemniejszą stronę” – nasza rozmowa z Pawłem Izdebskim"
   subtitle: 'Paweł Izdebski w styczniu tego roku wydał pierwszą autorską płytę zatytułowaną “@strach”. Z tej okazji zapraszamy na naszą rozmowę z artystą.'
   author: Polska Płyta / Polska Muzyka
+
+- url: https://www.youtube.com/watch?v=HcGSaL10fCo
+  image_url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/maxresdefault.jpg
+  position: 114
+  title: "Paweł Izdebski - Nora (Home Edition s01e01)"
+  subtitle: 'Pierwszy odcinek serii domowych edycji utworów z płyty @strach '
+
+- url: http://www.kulturalnerozmowy.pl/2020/05/pawe-izdebski-jesli-nazywasz-sie.html
+  image_url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/profilowe.jpg
+  position: 115
+  title: "Paweł Izdebski: Jeśli nazywasz się artystą, to wiedz, że Twoja kreatywność zobowiązuje Cię do działania"
+  subtitle: 'Rozwija swoją karierę solową, a od stycznia promuje swój album @strach. Z Pawłem rozmawiam o płycie, o początkach kariery, o byciu artystą oraz najbliższych planach.'
+  author: Sylwia Cegieła / Kulturalne Rozmowy
+
+- url: https://www.youtube.com/watch?v=qYbqhaBWvJU
+  image_url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/news/hqdefault.jpg
+  position: 116
+  title: "Paweł Izdebski - 3 (Home Edition s01e02)"
+  subtitle: 'Drugi odcinek serii domowych edycji utworów z płyty @strach '
