@@ -1,14 +1,14 @@
-- date: 2020-09-13
-  name: Paweł Izdebski Solo 
-  city: koncert internetowy
-  link_fb: https://www.facebook.com/events/330934164612573/
+- date: 2020-11-26
+  name: Spektakl "Once" (g. 19)
+  city: Teatr Muzyczny ROMA 
+  link_tickets: https://bilety.teatrroma.pl/?od=2020-11-26&do=2020-11-26
 
-- date: 2020-09-19
-  name: Paweł Izdebski Trio
-  city: ŁÓDŹ
-  link_fb: https://www.facebook.com/events/2996616657116780/?event_time_id=2996616643783448
+- date: 2020-12-17
+  name: Spektakl "Once" (g. 19)
+  city: Teatr Muzyczny ROMA 
+  link_tickets: https://bilety.teatrroma.pl/?od=2020-12-01&do=2020-12-31
 
-- date: 2020-09-20
-  name: Paweł Izdebski Trio
-  city: RZESZÓW
-  link_tickets: https://www.lukr.club/rezerwacja/wydarzenia/pawel-izdebski-w-lukr.html
+- date: 2020-10-16
+  name: koncert Paweł Izdebski & goście
+  city: WROCŁAW
+  link_fb: https://www.facebook.com/events/267991647651771
