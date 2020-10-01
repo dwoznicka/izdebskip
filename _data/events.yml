@@ -1,13 +1,3 @@
-- date: 2020-11-26
-  name: Spektakl "Once" (g. 19)
-  city: Teatr Muzyczny ROMA 
-  link_tickets: https://bilety.teatrroma.pl/?od=2020-11-26&do=2020-11-26
-
-- date: 2020-12-17
-  name: Spektakl "Once" (g. 19)
-  city: Teatr Muzyczny ROMA 
-  link_tickets: https://bilety.teatrroma.pl/?od=2020-12-01&do=2020-12-31
-
 - date: 2020-10-16
   name: koncert Paweł Izdebski & goście
   city: WROCŁAW
@@ -17,3 +7,13 @@
   name: Festiwal Rock&Love
   city: ŁÓDŹ
   link_fb: https://www.facebook.com/events/801188374018976
+
+- date: 2020-11-08
+  name: Paweł Izdebski Trio
+  city: GDAŃSK
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/qfsh/
+
+- date: 2020-11-07
+  name: Paweł Izdebski Trio
+  city: SZCZECIN
+  link_tickets: https://goout.net/pl/bilety/pawel-izdebski/pfsh/
