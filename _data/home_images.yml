@@ -1,19 +1,19 @@
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel-izdebski-004-fot-Daniel-Rusin.jpg
   author: Daniel Rusin
   name: Paweł Izdebski
-  position: 3
+  position: 2
 
-- url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/01-pawel_izdebski-fot.-Magdalena-Halicka.jpg
+- url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/pawel-izdebski-22-fot-Magdalena-Halicka.jpg
   author: Magdalena Halicka
-  name: Paweł Izdebski z zespołem
+  name: Paweł Izdebski
   position: 0
 
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/pawel-izdebski-005-fot-Magdalena-Halicka.jpg
   author: Magdalena Halicka
   name: Paweł Izdebski
-  position: 1
+  position: 3
 
 - url: https://s3.eu-central-1.amazonaws.com/pawelizdebski.pl/assets/website/homepage/strach.png
   author: Magdalena Halicka
   name: Premiera "@strach" 17 stycznia
-  position: 2
+  position: 0
